@@ -1,0 +1,751 @@
+Match,Team_Name,Match_Result,Player_Name,Hero_Name,Lane,Kill,Death,Assist,Net Worth,Last_Hit,GPM,XPM,DMG,Item1,Time1,Item2,Time2,Item3,Time3,Item4,Time4,Item5,Time5,Item6,Time6
+1,Team Secret,0,Secret.Puppey,Omniknight,Safe Lane,-,6,8,5.2,40,258,313,7.8,Boots of Speed,10.0,Magic Wand,15.0,Bracer,15.0,Bracer,18.0,Ogre Axe,29.0,Point Booster,36.0
+1,Team Secret,0,Secret.YapzOr,Lion,Off Lane,1,8,7,7.9,56,265,325,8.1,Tranquil Boots,6.0,Aether Lens,17.0,Sentry Ward,18.0,Cloak,24.0,Point Booster,30.0,Ogre Axe,34.0
+1,Team Secret,0,Secret.Nisha,Templar Assassin,Mid Lane,5,5,9,21.9,440,631,720,40.9,Power Treads,7.0,Desolator,13.0,Blink Dagger,18.0,Hurricane Pike,24.0,Daedalus,31.0,Monkey King Bar,36.0
+1,Team Secret,0,Secret.zai,Axe,Off Lane,5,11,5,10.2,141,323,343,16.9,Stout Shield,0.0,Magic Wand,5.0,Blink Dagger,13.0,Phase Boots,16.0,Blade Mail,24.0,Shadow Blade,36.0
+1,Team Secret,0,Secret.MidOne,Ember Spirit,Safe Lane,4,7,6,16.9,287,487,506,38.2,Phase Boots,9.0,Magic Wand,9.0,Drum of Endurance,16.0,Maelstrom,22.0,Octarine Core,32.0,Platemail,36.0
+2,Team Secret,0,Secret.Puppey,Shadow Demon,Off Lane,4,8,9,2.5,17,212,289,9.3,Wind Lace,4.0,Smoke of Deceit,4.0,Tranquil Boots,7.0,Observer and Sentry Wards,7.0,Magic Wand,13.0,,
+2,Team Secret,0,Secret.YapzOr,Lina,Off Lane,2,7,10,5.9,61,250,331,10.7,Boots of Speed,1.0,Clarity,10.0,Sentry Ward,13.0,Eul's Scepter of Divinity,21.0,Aether Lens,26.0,,
+2,Team Secret,0,Secret.Nisha,Sven,Off Lane,2,2,11,11.9,187,462,508,11.2,Quelling Blade,2.0,Magic Wand,4.0,Hand of Midas,9.0,Phase Boots,11.0,Echo Sabre,16.0,Black King Bar,23.0
+2,Team Secret,0,Secret.zai,Underlord,Safe Lane,6,5,5,8.0,100,339,384,17.8,Soul Ring,6.0,Wind Lace,10.0,Phase Boots,11.0,Eul's Scepter of Divinity,16.0,Force Staff,23.0,Dust of Appearance,26.0
+2,Team Secret,0,Secret.MidOne,Gyrocopter,Mid Lane,5,7,6,8.2,120,382,357,17.4,Wraith Band,1.0,Wraith Band,2.0,Phase Boots,10.0,Magic Wand,12.0,Black King Bar,22.0,Javelin,26.0
+3,Team Secret,0,Secret.Puppey,Spirit Breaker,Jungle,-,6,1,2.9,27,151,214,8.0,Tranquil Boots,13.0,Magic Wand,16.0,Chainmail,26.0,,,,,,
+3,Team Secret,0,Secret.YapzOr,Winter Wyvern,Safe Lane,1,2,-,6.6,73,269,289,31.8,Sentry Ward,0.0,Clarity,7.0,Smoke of Deceit,7.0,Aether Lens,16.0,Spirit Vessel,27.0,Tranquil Boots,29.0
+3,Team Secret,0,Secret.Nisha,Lifestealer,Safe Lane,-,3,-,12.4,220,428,455,9.4,Quelling Blade,0.0,Phase Boots,6.0,Hand of Midas,13.0,Magic Wand,18.0,Armlet of Mordiggian,18.0,Desolator,24.0
+3,Team Secret,0,Secret.zai,Bristleback,Off Lane,-,6,1,9.9,187,364,353,25.0,Bottle,2.0,Bracer,3.0,Boots of Speed,5.0,Magic Wand,11.0,Pipe of Insight,15.0,Lotus Orb,25.0
+3,Team Secret,0,Secret.MidOne,Ember Spirit,Mid Lane,-,3,-,10.5,223,405,449,30.7,Bottle,3.0,Magic Wand,6.0,Phase Boots,12.0,Maelstrom,17.0,Drum of Endurance,22.0,,
+4,Team Secret,1,Secret.Puppey,Spirit Breaker,Safe Lane,2,10,23,7.1,52,277,515,12.7,Wind Lace,4.0,Observer and Sentry Wards,9.0,Magic Wand,12.0,Tranquil Boots,13.0,Bracer,28.0,Black King Bar,52.0
+4,Team Secret,1,Secret.YapzOr,Enigma,Roaming,6,3,13,26.9,372,585,546,21.4,Guardian Greaves,17.0,Blink Dagger,22.0,Linken's Sphere,31.0,Shadow Blade,38.0,Gem of True Sight,44.0,Octarine Core,50.0
+4,Team Secret,1,Secret.Nisha,Juggernaut,Off Lane,4,2,11,30.7,516,622,653,23.5,Mjollnir,25.0,Manta Style,30.0,Linken's Sphere,37.0,Skull Basher,42.0,Butterfly,46.0,Boots of Travel,51.0
+4,Team Secret,1,Secret.zai,Phoenix,Safe Lane,8,7,17,23.6,154,442,533,27.0,Spirit Vessel,16.0,Tranquil Boots,18.0,Veil of Discord,27.0,Shiva's Guard,34.0,Aeon Disk,43.0,Boots of Travel,50.0
+4,Team Secret,1,Secret.MidOne,Monkey King,Roaming,10,7,13,24.7,435,644,617,46.4,Echo Sabre,17.0,Maelstrom,24.0,Black King Bar,30.0,Aghanim's Scepter,36.0,Diffusal Blade,44.0,Butterfly,51.0
+5,Team Secret,0,Secret.Puppey,Treant Protector,Off Lane,1,7,11,6.7,25,211,331,3.1,Observer Ward,2.0,Tranquil Boots,18.0,Magic Wand,18.0,Quelling Blade,19.0,Medallion of Courage,28.0,Blink Dagger,36.0
+5,Team Secret,0,Secret.YapzOr,Skywrath Mage,Roaming,8,7,12,27.1,250,534,649,67.1,Rod of Atos,18.0,Aghanim's Scepter,34.0,Scythe of Vyse,43.0,Linken's Sphere,53.0,Boots of Travel,56.0,,
+5,Team Secret,0,Secret.Nisha,Lifestealer,Safe Lane,3,5,10,33.7,632,701,743,29.5,Phase Boots,9.0,Radiance,17.0,Armlet of Mordiggian,19.0,Assault Cuirass,27.0,Abyssal Blade,36.0,Black King Bar,48.0
+5,Team Secret,0,Secret.zai,Undying,Off Lane,4,8,14,14.3,190,344,408,18.6,Boots of Speed,3.0,Buckler,7.0,Aghanim's Scepter,19.0,Heaven's Halberd,30.0,Force Staff,36.0,Cheese,57.0
+5,Team Secret,0,Secret.MidOne,Templar Assassin,Mid Lane,7,6,6,34.6,697,763,789,32.2,Desolator,13.0,Black King Bar,20.0,Blink Dagger,22.0,Daedalus,28.0,Scythe of Vyse,35.0,Hurricane Pike,55.0
+6,Team Secret,1,Secret.Puppey,Bane,Safe Lane,3,12,39,7.8,33,274,552,19.6,Sentry Ward,2.0,Tranquil Boots,8.0,Magic Wand,13.0,Aether Lens,30.0,Ghost Scepter,53.0,Gem of True Sight,62.0
+6,Team Secret,1,Secret.YapzOr,Tusk,Roaming,10,11,35,26.8,150,429,556,27.8,Phase Boots,17.0,Sentry Ward,23.0,Shadow Blade,24.0,Black King Bar,35.0,Vladmir's Offering,49.0,Assault Cuirass,55.0
+6,Team Secret,1,Secret.Nisha,Arc Warden,Off Lane,16,10,33,52.3,833,957,767,103.0,Mjollnir,22.0,Hurricane Pike,26.0,Butterfly,35.0,Scythe of Vyse,46.0,Black King Bar,49.0,Nullifier,64.0
+6,Team Secret,1,Secret.zai,Batrider,Mid Lane,13,5,37,28.9,374,558,686,39.4,Boots of Travel,9.0,Black King Bar,24.0,Blink Dagger,27.0,Aether Lens,31.0,Force Staff,37.0,Refresher Orb,66.0
+6,Team Secret,1,Secret.MidOne,Ember Spirit,Safe Lane,17,4,28,44.5,764,837,719,84.2,Black King Bar,24.0,Octarine Core,38.0,Manta Style,45.0,Mjollnir,48.0,Boots of Travel,50.0,Bloodthorn,62.0
+7,Team Secret,1,Secret.Puppey,Spirit Breaker,Roaming,4,4,23,5.3,46,305,409,5.4,Observer and Sentry Wards,1.0,Tranquil Boots,9.0,Magic Wand,9.0,Bracer,15.0,Bracer,20.0,Ogre Axe,24.0
+7,Team Secret,1,Secret.YapzOr,Witch Doctor,Safe Lane,5,2,14,9.0,63,352,540,9.0,Smoke of Deceit,9.0,Magic Wand,11.0,Tranquil Boots,11.0,Spirit Vessel,19.0,Point Booster,22.0,Ogre Axe,23.0
+7,Team Secret,1,Secret.Nisha,Juggernaut,Safe Lane,12,1,8,19.1,281,707,754,15.6,Phase Boots,3.0,Drum of Endurance,8.0,Manta Style,18.0,Mjollnir,22.0,Skull Basher,25.0,Aegis of the Immortal,26.0
+7,Team Secret,1,Secret.zai,Sand King,Off Lane,3,9,18,7.8,71,335,472,11.1,Tranquil Boots,8.0,Wind Lace,10.0,Magic Wand,11.0,Blink Dagger,16.0,Veil of Discord,20.0,Cloak,25.0
+7,Team Secret,1,Secret.MidOne,Ember Spirit,Mid Lane,10,1,11,14.8,207,571,725,30.3,Bottle,2.0,Magic Wand,5.0,Phase Boots,9.0,Drum of Endurance,11.0,Maelstrom,17.0,Black King Bar,23.0
+8,Team Secret,1,Secret.Puppey,Crystal Maiden,Safe Lane,6,0,10,6.9,59,357,437,11.9,Observer and Sentry Wards,5.0,Bracer,9.0,Bracer,10.0,Tranquil Boots,13.0,Magic Wand,14.0,Glimmer Cape,21.0
+8,Team Secret,1,Secret.YapzOr,Mars,Off Lane,3,1,15,8.4,86,367,485,8.5,Tranquil Boots,8.0,Magic Wand,10.0,Spirit Vessel,17.0,Arcane Boots,22.0,Buckler,22.0,,
+8,Team Secret,1,Secret.Nisha,Sniper,Mid Lane,5,1,12,15.5,256,596,657,22.1,Wraith Band,1.0,Wraith Band,2.0,Power Treads,7.0,Maelstrom,12.0,Hurricane Pike,19.0,Black King Bar,25.0
+8,Team Secret,1,Secret.zai,Batrider,Off Lane,2,3,10,9.9,158,415,483,11.0,Bottle,4.0,Boots of Travel,9.0,Wind Lace,10.0,Blink Dagger,15.0,Force Staff,20.0,Void Stone,25.0
+8,Team Secret,1,Secret.MidOne,Ember Spirit,Safe Lane,6,2,13,12.8,186,522,544,25.7,Quelling Blade,1.0,Phase Boots,7.0,Drum of Endurance,10.0,Magic Wand,10.0,Maelstrom,15.0,Octarine Core,25.0
+9,Team Secret,1,Secret.Puppey,Spirit Breaker,Safe Lane,3,10,20,7.1,55,280,437,10.2,Magic Wand,11.0,Tranquil Boots,13.0,Observer and Sentry Wards,16.0,Bracer,20.0,Bracer,24.0,Shadow Blade,38.0
+9,Team Secret,1,Secret.YapzOr,Skywrath Mage,Off Lane,5,6,15,16.7,208,462,638,36.8,Tranquil Boots,5.0,Null Talisman,10.0,Aghanim's Scepter,27.0,Lotus Orb,37.0,Scythe of Vyse,47.0,Gem of True Sight,51.0
+9,Team Secret,1,Secret.Nisha,Morphling,Mid Lane,9,2,10,32.4,533,701,581,47.7,Manta Style,18.0,Eye of Skadi,27.0,Butterfly,34.0,Black King Bar,39.0,Satanic,48.0,Maelstrom,51.0
+9,Team Secret,1,Secret.zai,Bristleback,Off Lane,7,7,15,22.9,336,555,567,28.9,Bottle,2.0,Lotus Orb,18.0,Crimson Guard,21.0,Guardian Greaves,29.0,Aghanim's Scepter,38.0,Vitality Booster,47.0
+9,Team Secret,1,Secret.MidOne,Death Prophet,Safe Lane,3,7,13,19.5,324,486,556,30.4,Magic Wand,4.0,Phase Boots,9.0,Aghanim's Scepter,21.0,Eul's Scepter of Divinity,27.0,Black King Bar,35.0,Shiva's Guard,46.0
+10,Team Secret,1,Secret.Puppey,Shadow Shaman,Safe Lane,5,6,16,9.1,54,334,378,10.6,Magic Wand,6.0,Tranquil Boots,14.0,Ghost Scepter,19.0,Bracer,20.0,Glimmer Cape,29.0,Aether Lens,35.0
+10,Team Secret,1,Secret.YapzOr,Nyx Assassin,Jungle,2,3,20,10.6,18,305,483,12.1,Magic Wand,10.0,Tranquil Boots,14.0,Spirit Vessel,23.0,Aeon Disk,33.0,Point Booster,35.0,,
+10,Team Secret,1,Secret.Nisha,Naga Siren,Jungle,5,2,11,29.3,596,808,628,19.5,Power Treads,9.0,Manta Style,15.0,Aegis of the Immortal,23.0,Butterfly,27.0,Heart of Tarrasque,31.0,Bloodthorn,36.0
+10,Team Secret,1,Secret.zai,Dark Seer,Off Lane,6,4,19,16.8,237,485,557,16.2,Soul Ring,1.0,Magic Wand,13.0,Guardian Greaves,19.0,Pipe of Insight,25.0,Blink Dagger,31.0,Lotus Orb,36.0
+10,Team Secret,1,Secret.MidOne,Monkey King,Safe Lane,11,4,14,20.2,238,562,637,29.1,Phase Boots,7.0,Echo Sabre,16.0,Maelstrom,21.0,Black King Bar,28.0,Desolator,33.0,,
+11,Team Secret,0,Secret.Puppey,Abaddon,Off Lane,-,8,5,1.8,24,155,187,3.1,Sentry Ward,8.0,Magic Wand,14.0,Smoke of Deceit,18.0,Tranquil Boots,27.0,,,,
+11,Team Secret,0,Secret.YapzOr,Io,Safe Lane,-,8,5,4.4,39,170,262,3.7,Magic Stick,0.0,Bottle,5.0,Urn of Shadows,13.0,Cloak,15.0,Glimmer Cape,22.0,,
+11,Team Secret,0,Secret.Nisha,Phantom Assassin,Off Lane,3,5,1,14.7,291,518,632,8.9,Wraith Band,3.0,Wraith Band,4.0,Power Treads,8.0,Magic Wand,9.0,Battle Fury,17.0,Black King Bar,24.0
+11,Team Secret,0,Secret.zai,Puck,Safe Lane,3,5,2,9.8,118,357,466,8.0,Magic Stick,1.0,Null Talisman,7.0,Blink Dagger,13.0,Boots of Travel,17.0,Veil of Discord,26.0,Wind Lace,26.0
+11,Team Secret,0,Secret.MidOne,Templar Assassin,Mid Lane,-,7,5,12.7,259,490,497,10.7,Wraith Band,1.0,Wraith Band,3.0,Power Treads,9.0,Desolator,16.0,Black King Bar,23.0,,
+12,Team Secret,1,Secret.Puppey,Shadow Demon,Jungle,2,9,18,6.6,38,285,434,5.4,Observer and Sentry Wards,0.0,Wind Lace,10.0,Tranquil Boots,14.0,Bracer,16.0,Medallion of Courage,26.0,Force Staff,40.0
+12,Team Secret,1,Secret.YapzOr,Enigma,Roaming,2,3,21,20.9,250,535,554,13.4,Guardian Greaves,17.0,Blink Dagger,22.0,Black King Bar,30.0,Shadow Blade,37.0,Perseverance,40.0,,
+12,Team Secret,1,Secret.Nisha,Anti-Mage,Mid Lane,7,1,8,32.4,623,836,818,17.0,Battle Fury,16.0,Manta Style,22.0,Eye of Skadi,28.0,Assault Cuirass,33.0,Butterfly,37.0,Skull Basher,39.0
+12,Team Secret,1,Secret.zai,Sand King,Safe Lane,4,3,17,17.4,189,445,663,14.3,Veil of Discord,9.0,Blink Dagger,15.0,Boots of Travel,20.0,Force Staff,24.0,Lotus Orb,35.0,,
+12,Team Secret,1,Secret.MidOne,Death Prophet,Off Lane,13,2,14,22.6,232,550,636,27.1,Phase Boots,7.0,Aghanim's Scepter,17.0,Eul's Scepter of Divinity,21.0,Black King Bar,31.0,Shiva's Guard,36.0,,
+13,Team Secret,0,Secret.Puppey,Undying,Safe Lane,-,9,10,3.0,25,196,273,5.6,Stout Shield,0.0,Magic Stick,1.0,Observer and Sentry Wards,8.0,Boots of Speed,13.0,Chainmail,16.0,Medallion of Courage,19.0
+13,Team Secret,0,Secret.YapzOr,Io,Safe Lane,2,4,7,6.2,31,190,404,6.0,Magic Stick,1.0,Bottle,5.0,Urn of Shadows,9.0,Glimmer Cape,17.0,Vitality Booster,26.0,Energy Booster,32.0
+13,Team Secret,0,Secret.Nisha,Gyrocopter,Safe Lane,5,5,6,19.1,360,562,437,27.3,Wraith Band,5.0,Phase Boots,9.0,Drum of Endurance,13.0,Yasha,16.0,Black King Bar,23.0,Mjollnir,34.0
+13,Team Secret,0,Secret.zai,Mars,Off Lane,2,4,7,10.0,170,337,411,14.6,Morbid Mask,3.0,Soul Ring,5.0,Magic Stick,6.0,Phase Boots,10.0,Blink Dagger,17.0,Black King Bar,33.0
+13,Team Secret,0,Secret.MidOne,Ember Spirit,Mid Lane,2,7,4,14.2,249,447,553,21.4,Bottle,4.0,Magic Wand,6.0,Phase Boots,10.0,Maelstrom,16.0,Eul's Scepter of Divinity,22.0,Desolator,31.0
+14,Team Secret,1,Secret.Puppey,Undying,Off Lane,4,10,31,8.1,107,319,439,7.4,Observer and Sentry Wards,7.0,Phase Boots,11.0,Magic Wand,15.0,Smoke of Deceit,17.0,Urn of Shadows,23.0,Crimson Guard,33.0
+14,Team Secret,1,Secret.YapzOr,Rubick,Roaming,5,4,20,18.5,146,404,562,14.9,Magic Wand,10.0,Blink Dagger,16.0,Glimmer Cape,22.0,Aghanim's Scepter,32.0,Lotus Orb,45.0,Boots of Travel,49.0
+14,Team Secret,1,Secret.Nisha,Sven,Off Lane,16,3,20,27.9,508,683,838,49.2,Phase Boots,9.0,Blink Dagger,16.0,Black King Bar,22.0,Assault Cuirass,27.0,Silver Edge,33.0,Satanic,46.0
+14,Team Secret,1,Secret.zai,Leshrac,Off Lane,7,6,24,24.1,346,582,642,40.8,Eul's Scepter of Divinity,12.0,Boots of Travel,17.0,Black King Bar,26.0,Kaya,29.0,Octarine Core,36.0,Linken's Sphere,47.0
+14,Team Secret,1,Secret.MidOne,Storm Spirit,Mid Lane,14,4,19,21.1,317,512,718,37.1,Bottle,5.0,Power Treads,12.0,Kaya,17.0,Orchid Malevolence,23.0,Black King Bar,29.0,Bloodstone,40.0
+15,Team Secret,1,Secret.Puppey,Warlock,Safe Lane,6,4,30,8.1,73,316,533,24.3,Sentry Ward,0.0,Boots of Speed,2.0,Magic Wand,10.0,Bracer,11.0,Force Staff,27.0,,
+15,Team Secret,1,Secret.YapzOr,Earthshaker,Mid Lane,8,3,25,10.5,49,308,539,16.4,Soul Ring,5.0,Tranquil Boots,8.0,Blink Dagger,15.0,Observer Ward,27.0,Lotus Orb,39.0,Ogre Axe,40.0
+15,Team Secret,1,Secret.Nisha,Spectre,Safe Lane,10,3,26,23.5,386,638,743,39.9,Power Treads,7.0,Radiance,19.0,Manta Style,26.0,Diffusal Blade,30.0,Blade Mail,32.0,Heart of Tarrasque,40.0
+15,Team Secret,1,Secret.zai,Batrider,Off Lane,12,3,26,16.7,181,446,726,20.8,Bottle,5.0,Boots of Travel,10.0,Eul's Scepter of Divinity,18.0,Blink Dagger,24.0,Black King Bar,34.0,Aghanim's Scepter,41.0
+15,Team Secret,1,Secret.MidOne,Shadow Fiend,Mid Lane,8,2,23,20.0,365,599,689,25.6,Eul's Scepter of Divinity,14.0,Blink Dagger,18.0,Black King Bar,24.0,Boots of Travel,27.0,Scythe of Vyse,33.0,,
+16,Team Secret,1,Secret.Puppey,Chen,Safe Lane,5,0,13,9.1,71,342,411,4.1,Magic Stick,2.0,Observer Ward,5.0,Medallion of Courage,8.0,Guardian Greaves,27.0,Vitality Booster,32.0,,
+16,Team Secret,1,Secret.YapzOr,Earth Spirit,Roaming,3,1,17,9.3,37,312,425,8.5,Magic Stick,1.0,Spirit Vessel,19.0,Tranquil Boots,21.0,Sentry Ward,27.0,Lotus Orb,32.0,,
+16,Team Secret,1,Secret.Nisha,Sven,Safe Lane,10,0,13,23.3,346,705,714,16.4,Power Treads,4.0,Echo Sabre,11.0,Sange and Yasha,16.0,Blink Dagger,20.0,Satanic,25.0,Black King Bar,32.0
+16,Team Secret,1,Secret.zai,Venomancer,Off Lane,2,2,15,12.7,169,453,504,22.2,Wind Lace,4.0,Magic Wand,11.0,Aether Lens,15.0,Blink Dagger,19.0,Aghanim's Scepter,27.0,Boots of Travel,32.0
+16,Team Secret,1,Secret.MidOne,Leshrac,Mid Lane,11,1,8,19.9,326,682,693,17.3,Bottle,4.0,Eul's Scepter of Divinity,12.0,Yasha and Kaya,21.0,Boots of Travel,23.0,Aegis of the Immortal,29.0,Octarine Core,29.0
+17,Team Secret,0,Secret.Puppey,Ogre Magi,Off Lane,2,5,17,5.2,18,256,318,12.4,Boots of Speed,3.0,Sentry Ward,5.0,Urn of Shadows,11.0,Magic Wand,15.0,Medallion of Courage,24.0,Ring of Basilius,31.0
+17,Team Secret,0,Secret.YapzOr,Rubick,Mid Lane,6,3,13,9.7,91,331,441,19.9,Magic Wand,4.0,Arcane Boots,8.0,Force Staff,15.0,Blink Dagger,21.0,Point Booster,24.0,Ogre Axe,32.0
+17,Team Secret,0,Secret.Nisha,Medusa,Mid Lane,4,4,10,17.9,383,569,603,16.2,Wraith Band,1.0,Magic Wand,5.0,Power Treads,8.0,Manta Style,17.0,Eye of Skadi,22.0,Eaglesong,27.0
+17,Team Secret,0,Secret.zai,Doom,Safe Lane,8,5,12,14.3,130,474,462,28.4,Phase Boots,6.0,Drum of Endurance,10.0,Magic Wand,10.0,Black King Bar,18.0,Blink Dagger,22.0,Platemail,24.0
+17,Team Secret,0,Secret.MidOne,Storm Spirit,Off Lane,9,9,12,11.9,183,432,439,19.9,Magic Wand,2.0,Null Talisman,5.0,Bottle,7.0,Power Treads,12.0,Kaya,15.0,Bloodstone,26.0
+18,Team Secret,1,Secret.Puppey,Abaddon,Roaming,3,8,7,3.9,15,252,349,5.8,Sentry Ward,5.0,Magic Wand,15.0,Tranquil Boots,18.0,Urn of Shadows,24.0,,,,
+18,Team Secret,1,Secret.YapzOr,Enigma,Roaming,6,1,9,12.0,147,469,485,5.9,Smoke of Deceit,5.0,Guardian Greaves,15.0,Black King Bar,24.0,,,,,,
+18,Team Secret,1,Secret.Nisha,Anti-Mage,Safe Lane,5,2,8,17.2,290,641,662,12.8,Power Treads,6.0,Magic Wand,7.0,Battle Fury,15.0,Manta Style,22.0,Eye of Skadi,26.0,,
+18,Team Secret,1,Secret.zai,Beastmaster,Off Lane,1,1,13,10.2,123,384,527,5.5,Quelling Blade,0.0,Vladmir's Offering,9.0,Phase Boots,16.0,Wind Lace,16.0,Solar Crest,22.0,Point Booster,25.0
+18,Team Secret,1,Secret.MidOne,Ember Spirit,Mid Lane,3,4,11,10.1,133,411,548,17.8,Bottle,5.0,Magic Wand,8.0,Phase Boots,10.0,Wraith Band,11.0,Maelstrom,20.0,Aghanim's Scepter,27.0
+19,Team Secret,1,Secret.Puppey,Warlock,Safe Lane,6,2,11,5.8,48,326,421,14.4,Sentry Ward,0.0,Bracer,7.0,Medallion of Courage,16.0,Magic Wand,20.0,Glimmer Cape,28.0,Arcane Boots,30.0
+19,Team Secret,1,Secret.Nisha,Sven,Safe Lane,7,1,9,17.6,275,591,579,15.4,Power Treads,5.0,Echo Sabre,11.0,Magic Wand,13.0,Black King Bar,18.0,Blink Dagger,21.0,Assault Cuirass,29.0
+19,Team Secret,1,Secret.YapzOr,Earthshaker,Roaming,2,2,13,7.9,64,319,508,8.2,Soul Ring,5.0,Tranquil Boots,9.0,Blink Dagger,15.0,Perseverance,23.0,Platemail,28.0,,
+19,Team Secret,1,Secret.zai,Batrider,Roaming,4,2,11,11.1,132,397,540,13.4,Bottle,3.0,Wind Lace,5.0,Drum of Endurance,8.0,Boots of Travel,15.0,Blink Dagger,22.0,Force Staff,26.0
+19,Team Secret,1,Secret.MidOne,Medusa,Mid Lane,4,0,11,22.7,410,758,819,15.2,Wraith Band,1.0,Phase Boots,6.0,Magic Wand,8.0,Manta Style,15.0,Eye of Skadi,21.0,Butterfly,27.0
+20,Team Secret,1,Secret.Puppey,Ogre Magi,Safe Lane,1,2,13,6.6,39,322,395,7.8,Sentry Ward,1.0,Boots of Speed,9.0,Quelling Blade,9.0,Magic Wand,21.0,Solar Crest,29.0,,
+20,Team Secret,1,Secret.YapzOr,Rubick,Mid Lane,5,1,14,11.2,71,386,544,12.2,Magic Wand,10.0,Quelling Blade,11.0,Blink Dagger,17.0,Force Staff,22.0,Lotus Orb,28.0,,
+20,Team Secret,1,Secret.Nisha,Lifestealer,Safe Lane,6,2,10,19.3,225,617,597,18.7,Phase Boots,5.0,Hand of Midas,10.0,Armlet of Mordiggian,14.0,Assault Cuirass,23.0,Skull Basher,26.0,,
+20,Team Secret,1,Secret.zai,Winter Wyvern,Off Lane,-,1,10,11.3,111,395,439,9.1,Boots of Speed,3.0,Bracer,13.0,Magic Wand,18.0,Spirit Vessel,20.0,Aether Lens,24.0,Force Staff,26.0
+20,Team Secret,1,Secret.MidOne,Templar Assassin,Mid Lane,11,2,9,20.0,271,702,677,27.8,Power Treads,7.0,Desolator,13.0,Aegis of the Immortal,14.0,Force Staff,16.0,Black King Bar,22.0,Daedalus,29.0
+21,Team Secret,0,Secret.Puppey,Grimstroke,Safe Lane,-,7,1,3.9,61,208,226,2.9,Observer and Sentry Wards,2.0,Boots of Speed,8.0,Quelling Blade,12.0,Magic Wand,15.0,Smoke of Deceit,18.0,Ghost Scepter,25.0
+21,Team Secret,0,Secret.Nisha,Morphling,Mid Lane,2,2,-,17.1,348,541,582,8.5,Wraith Band,1.0,Wraith Band,3.0,Power Treads,9.0,Linken's Sphere,19.0,Ethereal Blade,27.0,Black King Bar,31.0
+21,Team Secret,0,Secret.YapzOr,Earth Spirit,Off Lane,-,4,2,7.0,95,235,369,7.2,Urn of Shadows,10.0,Magic Wand,10.0,Quelling Blade,13.0,Tranquil Boots,13.0,Black King Bar,29.0,Sentry Ward,31.0
+21,Team Secret,0,Secret.zai,Omniknight,Off Lane,-,3,2,12.1,173,379,431,4.2,Quelling Blade,1.0,Soul Ring,6.0,Magic Wand,12.0,Guardian Greaves,19.0,Aghanim's Scepter,29.0,,
+21,Team Secret,0,Secret.MidOne,Troll Warlord,Safe Lane,-,5,-,16.3,371,526,540,5.4,Wraith Band,5.0,Wraith Band,5.0,Phase Boots,9.0,Battle Fury,18.0,Black King Bar,24.0,Skull Basher,29.0
+22,Team Secret,1,Secret.Puppey,Shadow Shaman,Off Lane,4,4,17,9.4,84,353,497,10.9,Sentry Ward,3.0,Magic Wand,13.0,Tranquil Boots,13.0,Ghost Scepter,18.0,Force Staff,29.0,Aether Lens,37.0
+22,Team Secret,1,Secret.YapzOr,Enigma,Roaming,4,3,16,18.4,271,536,546,17.0,Guardian Greaves,15.0,Sentry Ward,17.0,Blink Dagger,19.0,Linken's Sphere,31.0,Soul Booster,37.0,,
+22,Team Secret,1,Secret.Nisha,Spectre,Off Lane,8,0,15,25.3,427,712,820,36.6,Soul Ring,5.0,Power Treads,9.0,Radiance,19.0,Manta Style,25.0,Butterfly,31.0,Eye of Skadi,36.0
+22,Team Secret,1,Secret.zai,Tidehunter,Safe Lane,3,4,17,12.6,144,368,570,13.8,Vladmir's Offering,12.0,Magic Wand,12.0,Medallion of Courage,18.0,Arcane Boots,22.0,Blink Dagger,29.0,Heaven's Halberd,34.0
+22,Team Secret,1,Secret.MidOne,Ember Spirit,Mid Lane,7,4,9,15.7,215,463,565,24.0,Phase Boots,11.0,Magic Wand,12.0,Maelstrom,18.0,Desolator,26.0,Eul's Scepter of Divinity,31.0,,
+23,Team Secret,1,Secret.Puppey,Ogre Magi,Safe Lane,4,3,17,7.1,31,373,456,9.2,Sentry Ward,0.0,Tranquil Boots,13.0,Bracer,15.0,Magic Wand,19.0,Aether Lens,23.0,Veil of Discord,28.0
+23,Team Secret,1,Secret.YapzOr,Grimstroke,Jungle,10,3,21,11.5,53,475,514,16.5,Arcane Boots,4.0,Magic Stick,10.0,Spirit Vessel,15.0,Blink Dagger,21.0,Ultimate Orb,25.0,Void Stone,26.0
+23,Team Secret,1,Secret.Nisha,Morphling,Safe Lane,8,0,14,18.8,236,699,693,25.2,Wraith Band,2.0,Magic Wand,8.0,Power Treads,9.0,Linken's Sphere,15.0,Ethereal Blade,22.0,Satanic,26.0
+23,Team Secret,1,Secret.zai,Mars,Off Lane,7,4,16,11.9,93,456,540,14.9,Magic Wand,8.0,Phase Boots,10.0,Soul Ring,14.0,Blink Dagger,17.0,Crimson Guard,24.0,Vladmir's Offering,26.0
+23,Team Secret,1,Secret.MidOne,Lone Druid,Mid Lane,2,1,14,18.5,222,664,681,10.5,Boots of Speed,3.0,,,,,,,,,,
+24,Team Secret,1,Secret.Puppey,Shadow Shaman,Safe Lane,2,6,18,7.9,103,346,531,11.2,Arcane Boots,12.0,Magic Wand,13.0,Bracer,14.0,Bracer,15.0,Ghost Scepter,19.0,Force Staff,31.0
+24,Team Secret,1,Secret.Nisha,Terrorblade,Jungle,6,2,14,20.5,355,644,691,21.2,Wraith Band,2.0,Wraith Band,7.0,Power Treads,11.0,Manta Style,18.0,Butterfly,26.0,Black King Bar,30.0
+24,Team Secret,1,Secret.YapzOr,Enigma,Roaming,7,2,17,15.4,195,494,594,13.0,Smoke of Deceit,10.0,Guardian Greaves,16.0,Blink Dagger,21.0,Octarine Core,30.0,,,,
+24,Team Secret,1,Secret.zai,Tidehunter,Safe Lane,6,1,18,13.9,184,472,769,15.8,Magic Stick,5.0,Arcane Boots,7.0,Vladmir's Offering,12.0,Hood of Defiance,15.0,Solar Crest,23.0,Force Staff,28.0
+24,Team Secret,1,Secret.MidOne,Lone Druid,Mid Lane,7,1,19,20.2,241,627,766,21.1,Boots of Speed,5.0,Clarity,11.0,,,,,,,,
+25,Team Secret,1,Secret.Puppey,Ogre Magi,Roaming,5,9,31,10.9,29,363,547,16.6,Sentry Ward,4.0,Tranquil Boots,10.0,Glimmer Cape,36.0,Platemail,45.0,Aether Lens,45.0,Gem of True Sight,50.0
+25,Team Secret,1,Secret.Nisha,Riki,Safe Lane,23,7,21,33.0,292,615,701,64.4,Power Treads,8.0,Diffusal Blade,15.0,Manta Style,24.0,Nullifier,32.0,Black King Bar,38.0,Skull Basher,44.0
+25,Team Secret,1,Secret.YapzOr,Crystal Maiden,Off Lane,7,9,34,25.7,179,556,671,34.4,Tranquil Boots,4.0,Drum of Endurance,13.0,Blink Dagger,17.0,Black King Bar,30.0,Aghanim's Scepter,38.0,Linken's Sphere,45.0
+25,Team Secret,1,Secret.zai,Mars,Off Lane,5,12,27,15.0,186,415,578,27.5,Phase Boots,10.0,Blink Dagger,16.0,Black King Bar,30.0,Healing Salve,35.0,Solar Crest,36.0,Platemail,45.0
+25,Team Secret,1,Secret.MidOne,Shadow Fiend,Mid Lane,24,3,20,36.1,532,800,882,43.6,Eul's Scepter of Divinity,9.0,Blink Dagger,13.0,Black King Bar,18.0,Scythe of Vyse,28.0,Abyssal Blade,36.0,Refresher Orb,48.0
+26,Team Secret,1,Secret.Puppey,Spirit Breaker,Mid Lane,2,10,29,19.1,125,315,438,23.4,Magic Wand,11.0,Tranquil Boots,14.0,Blade Mail,29.0,Gem of True Sight,30.0,Black King Bar,55.0,Lotus Orb,74.0
+26,Team Secret,1,Secret.YapzOr,Io,Safe Lane,8,3,24,43.7,221,476,594,28.6,Aeon Disk,28.0,Heart of Tarrasque,48.0,Mjollnir,59.0,Desolator,68.0,Divine Rapier,74.0,Hurricane Pike,78.0
+26,Team Secret,1,Secret.Nisha,Spectre,Safe Lane,5,9,28,51.0,888,652,680,69.6,Radiance,21.0,Manta Style,30.0,Heart of Tarrasque,34.0,Nullifier,45.0,Butterfly,53.0,Abyssal Blade,74.0
+26,Team Secret,1,Secret.zai,Dark Seer,Jungle,10,8,26,36.1,662,593,522,34.1,Guardian Greaves,30.0,Black King Bar,41.0,Lotus Orb,45.0,Scythe of Vyse,55.0,Blink Dagger,72.0,,
+26,Team Secret,1,Secret.MidOne,Templar Assassin,Mid Lane,16,5,11,53.7,879,713,631,59.5,Black King Bar,19.0,Daedalus,28.0,Hurricane Pike,34.0,Butterfly,44.0,Divine Rapier,52.0,Silver Edge,67.0
+27,Team Secret,0,Secret.Puppey,Lion,Off Lane,4,14,31,5.8,29,275,348,11.3,Wind Lace,4.0,Tranquil Boots,11.0,Magic Wand,15.0,Smoke of Deceit,16.0,Bracer,20.0,,
+27,Team Secret,0,Secret.YapzOr,Tiny,Off Lane,16,8,23,12.1,92,377,596,27.4,Soul Ring,5.0,Tranquil Boots,8.0,Blink Dagger,16.0,Ogre Axe,19.0,Echo Sabre,27.0,Crystalys,28.0
+27,Team Secret,0,Secret.Nisha,Troll Warlord,Off Lane,10,2,17,21.7,337,536,618,28.2,Wraith Band,3.0,Phase Boots,9.0,Manta Style,17.0,Black King Bar,24.0,Skull Basher,31.0,Monkey King Bar,37.0
+27,Team Secret,0,Secret.zai,Pangolier,Safe Lane,6,9,21,12.2,206,377,478,32.9,Boots of Speed,3.0,Bottle,9.0,Magic Wand,11.0,Maelstrom,15.0,Aghanim's Scepter,23.0,Ultimate Orb,40.0
+27,Team Secret,0,Secret.MidOne,Monkey King,Mid Lane,9,6,17,18.5,286,510,737,32.6,Phase Boots,8.0,Magic Wand,10.0,Echo Sabre,17.0,Maelstrom,21.0,Black King Bar,29.0,Daedalus,38.0
+28,Team Secret,1,Secret.Puppey,Ogre Magi,Off Lane,2,3,10,2.9,18,244,313,7.3,Observer and Sentry Wards,7.0,Arcane Boots,15.0,Magic Wand,18.0,,,,,,
+28,Team Secret,1,Secret.Nisha,Gyrocopter,Safe Lane,6,1,7,10.2,142,507,488,11.7,Wraith Band,5.0,Wraith Band,5.0,Phase Boots,8.0,Magic Wand,9.0,Sange and Yasha,14.0,Dragon Lance,19.0
+28,Team Secret,1,Secret.YapzOr,Io,Safe Lane,-,1,16,4.9,33,253,413,5.8,Bottle,2.0,Urn of Shadows,9.0,Magic Stick,12.0,Glimmer Cape,16.0,Boots of Speed,19.0,,
+28,Team Secret,1,Secret.zai,Pugna,Off Lane,3,0,9,8.5,112,445,423,10.3,Magic Wand,3.0,Aether Lens,11.0,Wind Lace,16.0,Veil of Discord,16.0,Boots of Travel,18.0,,
+28,Team Secret,1,Secret.MidOne,Ember Spirit,Mid Lane,10,0,6,8.5,87,457,515,19.9,Bottle,2.0,Magic Wand,6.0,Phase Boots,8.0,Wraith Band,10.0,Maelstrom,14.0,Void Stone,18.0
+29,Team Secret,1,Secret.Puppey,Lion,Off Lane,4,2,12,4.9,25,270,336,8.1,Observer and Sentry Wards,0.0,Wind Lace,6.0,Tranquil Boots,9.0,Magic Wand,12.0,Aether Lens,26.0,,
+29,Team Secret,1,Secret.Nisha,Sven,Off Lane,7,1,10,16.1,292,613,685,14.2,Power Treads,5.0,Hand of Midas,11.0,Echo Sabre,15.0,Blink Dagger,22.0,Black King Bar,23.0,Crystalys,26.0
+29,Team Secret,1,Secret.YapzOr,Enigma,Roaming,3,0,18,11.7,176,441,513,6.9,Smoke of Deceit,6.0,Guardian Greaves,16.0,Blink Dagger,21.0,Sentry Ward,22.0,Point Booster,23.0,Vitality Booster,24.0
+29,Team Secret,1,Secret.zai,Tidehunter,Safe Lane,1,1,18,9.7,160,392,532,10.1,Quelling Blade,1.0,Phase Boots,11.0,Vladmir's Offering,15.0,Magic Wand,20.0,Pipe of Insight,20.0,Blink Dagger,26.0
+29,Team Secret,1,Secret.MidOne,Ember Spirit,Mid Lane,12,1,10,12.7,186,510,655,30.8,,,,,,,,,,,,
+30,Team Secret,1,Secret.Puppey,Lion,Safe Lane,-,6,20,9.1,49,313,512,10.5,Tranquil Boots,12.0,Magic Wand,16.0,Bracer,22.0,Ghost Scepter,36.0,Aether Lens,50.0,,
+30,Team Secret,1,Secret.Nisha,Sven,Safe Lane,12,4,10,29.4,525,625,617,27.4,Power Treads,6.0,Echo Sabre,11.0,Black King Bar,17.0,Blink Dagger,20.0,Assault Cuirass,27.0,Bloodthorn,46.0
+30,Team Secret,1,Secret.YapzOr,Tiny,Roaming,7,7,19,16.4,153,370,529,18.5,Soul Ring,5.0,Tranquil Boots,9.0,Blink Dagger,22.0,Echo Sabre,33.0,Crystalys,42.0,Black King Bar,49.0
+30,Team Secret,1,Secret.zai,Pangolier,Off Lane,6,4,18,22.5,311,492,588,26.7,Guardian Greaves,22.0,Blink Dagger,29.0,Maelstrom,36.0,Aghanim's Scepter,43.0,Gem of True Sight,44.0,Skull Basher,50.0
+30,Team Secret,1,Secret.MidOne,Arc Warden,Mid Lane,7,3,13,43.0,572,859,589,46.3,Boots of Travel,19.0,Mjollnir,23.0,Black King Bar,28.0,Hurricane Pike,34.0,Daedalus,38.0,Scythe of Vyse,45.0
+31,Team Secret,1,Secret.Puppey,Lion,Safe Lane,11,4,17,8.8,28,398,476,12.1,Sentry Ward,6.0,Tranquil Boots,6.0,Magic Wand,11.0,Wind Lace,12.0,Ghost Scepter,19.0,Aether Lens,27.0
+31,Team Secret,1,Secret.YapzOr,Earthshaker,Roaming,1,2,25,10.1,37,313,502,11.4,Soul Ring,5.0,Smoke of Deceit,8.0,Tranquil Boots,12.0,Blink Dagger,21.0,Aghanim's Scepter,33.0,Observer and Sentry Wards,35.0
+31,Team Secret,1,Secret.zai,Pudge,Safe Lane,7,3,21,18.2,188,539,704,19.4,Quelling Blade,1.0,Phase Boots,7.0,Magic Wand,7.0,Pipe of Insight,16.0,Guardian Greaves,24.0,Shiva's Guard,32.0
+31,Team Secret,1,Secret.Nisha,Spectre,Off Lane,10,1,20,23.7,365,707,793,39.4,Soul Ring,5.0,Power Treads,10.0,Radiance,19.0,Manta Style,25.0,Butterfly,30.0,Heart of Tarrasque,34.0
+31,Team Secret,1,Secret.MidOne,Templar Assassin,Mid Lane,9,2,12,22.5,322,680,688,25.4,Power Treads,7.0,Desolator,12.0,Blink Dagger,16.0,Black King Bar,22.0,Butterfly,28.0,,
+32,Team Secret,0,Secret.Puppey,Disruptor,Jungle,3,8,18,4.2,52,234,361,9.2,Observer and Sentry Wards,6.0,Bracer,14.0,Magic Wand,15.0,Bracer,17.0,Tranquil Boots,23.0,Cloak,31.0
+32,Team Secret,0,Secret.Nisha,Juggernaut,Safe Lane,6,6,10,19.4,417,562,568,13.5,Wraith Band,4.0,Phase Boots,8.0,Battle Fury,17.0,Manta Style,26.0,Mjollnir,34.0,Mithril Hammer,41.0
+32,Team Secret,0,Secret.YapzOr,Earthshaker,Jungle,3,5,17,7.0,61,221,364,9.1,Soul Ring,4.0,Tranquil Boots,6.0,Smoke of Deceit,8.0,Blink Dagger,16.0,Platemail,26.0,,
+32,Team Secret,0,Secret.zai,Pangolier,Off Lane,5,7,16,16.4,259,479,558,28.2,Boots of Speed,4.0,Maelstrom,15.0,Magic Wand,17.0,Aghanim's Scepter,23.0,Diffusal Blade,30.0,Battle Fury,37.0
+32,Team Secret,0,Secret.MidOne,Silencer,Mid Lane,11,6,12,17.9,223,508,445,27.1,Drum of Endurance,10.0,Phase Boots,13.0,Magic Wand,14.0,Scythe of Vyse,22.0,Black King Bar,28.0,Aghanim's Scepter,38.0
+33,Team Secret,0,Secret.Puppey,Jakiro,Safe Lane,2,8,12,6.1,89,282,324,15.1,Observer and Sentry Wards,0.0,Magic Stick,3.0,Tranquil Boots,14.0,Eul's Scepter of Divinity,26.0,Ghost Scepter,35.0,,
+33,Team Secret,0,Secret.YapzOr,Crystal Maiden,Roaming,2,4,12,9.0,95,308,377,22.7,Tranquil Boots,6.0,Magic Wand,9.0,Blink Dagger,19.0,Black King Bar,29.0,Observer and Sentry Wards,31.0,,
+33,Team Secret,0,Secret.Nisha,Ursa,Safe Lane,7,8,4,12.9,231,454,394,16.4,Quelling Blade,0.0,Magic Wand,5.0,Phase Boots,8.0,Hand of Midas,14.0,Black King Bar,21.0,Skull Basher,25.0
+33,Team Secret,0,Secret.zai,Mars,Off Lane,3,6,10,9.3,154,342,373,17.4,Phase Boots,5.0,Magic Wand,12.0,Drum of Endurance,14.0,Vladmir's Offering,16.0,Blink Dagger,22.0,Ogre Axe,26.0
+33,Team Secret,0,Secret.MidOne,Invoker,Mid Lane,3,4,11,14.8,235,436,483,23.8,Magic Wand,5.0,Phase Boots,10.0,Urn of Shadows,13.0,Maelstrom,17.0,Force Staff,22.0,Aghanim's Scepter,27.0
+34,Team Secret,0,Secret.Puppey,Warlock,Safe Lane,1,10,7,4.5,50,227,275,7.3,Observer and Sentry Wards,0.0,Boots of Speed,9.0,Smoke of Deceit,9.0,Magic Wand,12.0,Medallion of Courage,20.0,Ghost Scepter,23.0
+34,Team Secret,0,Secret.YapzOr,Rubick,Roaming,5,3,13,9.6,83,282,447,14.9,Arcane Boots,4.0,Magic Wand,7.0,Sentry Ward,13.0,Force Staff,18.0,Aghanim's Scepter,32.0,,
+34,Team Secret,0,Secret.Nisha,Morphling,Off Lane,7,3,7,20.3,351,541,561,17.2,Wraith Band,3.0,Power Treads,11.0,Manta Style,17.0,Ethereal Blade,25.0,Ultimate Orb,27.0,Black King Bar,35.0
+34,Team Secret,0,Secret.zai,Earth Spirit,Safe Lane,2,10,12,9.2,112,294,375,16.0,Magic Stick,4.0,Urn of Shadows,8.0,Phase Boots,11.0,Blade Mail,17.0,Dust of Appearance,24.0,Black King Bar,38.0
+34,Team Secret,0,Secret.MidOne,Templar Assassin,Mid Lane,7,6,5,18.6,352,569,516,21.4,Power Treads,8.0,Desolator,15.0,Black King Bar,18.0,Blink Dagger,22.0,Nullifier,31.0,Crystalys,38.0
+35,Team Secret,1,Secret.Puppey,Lion,Safe Lane,2,6,12,4.4,22,298,393,7.2,Wind Lace,14.0,Tranquil Boots,15.0,Magic Wand,17.0,Ghost Scepter,24.0,,,,
+35,Team Secret,1,Secret.YapzOr,Enigma,Off Lane,2,4,15,11.2,132,467,483,8.9,Helm of the Dominator,7.0,Guardian Greaves,20.0,Blink Dagger,24.0,Sentry Ward,24.0,,,,
+35,Team Secret,1,Secret.Nisha,Morphling,Safe Lane,9,1,10,15.6,204,635,690,17.9,Wraith Band,3.0,Wraith Band,5.0,Magic Wand,5.0,Power Treads,8.0,Manta Style,16.0,Ethereal Blade,22.0
+35,Team Secret,1,Secret.zai,Bounty Hunter,Off Lane,6,5,12,10.5,34,495,549,13.1,Phase Boots,13.0,Magic Wand,15.0,Drum of Endurance,17.0,Vladmir's Offering,18.0,Medallion of Courage,23.0,Desolator,25.0
+35,Team Secret,1,Secret.MidOne,Troll Warlord,Mid Lane,7,5,9,10.6,145,489,538,15.3,Wraith Band,1.0,Wraith Band,4.0,Wraith Band,4.0,Phase Boots,9.0,Yasha,15.0,Black King Bar,24.0
+36,Team Secret,1,Secret.Puppey,Lion,Safe Lane,6,3,15,5.5,50,374,465,8.2,Observer Ward,0.0,Wind Lace,5.0,Tranquil Boots,5.0,Magic Wand,9.0,Bracer,14.0,Aether Lens,23.0
+36,Team Secret,1,Secret.YapzOr,Rubick,Roaming,14,2,12,8.6,48,407,469,8.3,Arcane Boots,5.0,Smoke of Deceit,6.0,Magic Wand,9.0,Blink Dagger,15.0,Force Staff,20.0,Point Booster,23.0
+36,Team Secret,1,Secret.Nisha,Sven,Safe Lane,8,1,15,13.5,186,607,596,13.4,Quelling Blade,1.0,Hand of Midas,8.0,Power Treads,9.0,Blink Dagger,14.0,Black King Bar,21.0,Crystalys,23.0
+36,Team Secret,1,Secret.zai,Earth Spirit,Off Lane,3,1,21,8.9,90,384,497,14.1,Quelling Blade,1.0,Magic Stick,6.0,Phase Boots,11.0,Spirit Vessel,17.0,Veil of Discord,20.0,,
+36,Team Secret,1,Secret.MidOne,Templar Assassin,Mid Lane,5,2,14,13.2,200,585,625,16.2,Wraith Band,1.0,Wraith Band,5.0,Power Treads,8.0,Desolator,13.0,Blink Dagger,17.0,Hurricane Pike,23.0
+37,Team Secret,1,Secret.Puppey,Lion,Safe Lane,4,7,13,5.0,38,315,390,8.9,Observer Ward,0.0,Wind Lace,2.0,Magic Wand,14.0,Tranquil Boots,14.0,Shadow Amulet,22.0,,
+37,Team Secret,1,Secret.zai,Dark Seer,Off Lane,2,5,16,13.3,193,472,454,11.9,Soul Ring,2.0,Magic Stick,6.0,Helm of the Dominator,10.0,Pipe of Insight,22.0,Guardian Greaves,29.0,,
+37,Team Secret,1,Secret.Nisha,Sven,Safe Lane,6,2,10,16.7,237,584,561,16.0,Power Treads,6.0,Hand of Midas,11.0,Echo Sabre,15.0,Black King Bar,21.0,Blink Dagger,25.0,Desolator,31.0
+37,Team Secret,1,Secret.YapzOr,Pudge,Off Lane,5,5,12,8.4,53,322,452,15.1,Tranquil Boots,7.0,Magic Wand,10.0,Sentry Ward,21.0,Spirit Vessel,21.0,Hood of Defiance,28.0,,
+37,Team Secret,1,Secret.MidOne,Templar Assassin,Mid Lane,7,1,10,18.7,301,640,648,22.3,Power Treads,9.0,Desolator,13.0,Blink Dagger,16.0,Black King Bar,21.0,Crystalys,24.0,Orchid Malevolence,31.0
+38,Team Secret,0,Secret.Puppey,Vengeful Spirit,Safe Lane,4,8,12,5.6,99,301,413,9.9,Magic Wand,11.0,Bracer,14.0,Bracer,23.0,Smoke of Deceit,24.0,Vladmir's Offering,31.0,Phase Boots,35.0
+38,Team Secret,0,Secret.YapzOr,Earthshaker,Roaming,2,3,13,6.5,60,250,419,10.8,Soul Ring,2.0,Tranquil Boots,7.0,Blink Dagger,15.0,Sentry Ward,17.0,Platemail,27.0,Void Stone,27.0
+38,Team Secret,0,Secret.Nisha,Drow Ranger,Safe Lane,5,5,7,17.2,296,496,471,14.8,Wraith Band,2.0,Wraith Band,5.0,Wraith Band,6.0,Power Treads,12.0,Hurricane Pike,19.0,Ethereal Blade,33.0
+38,Team Secret,0,Secret.zai,Enigma,Off Lane,2,5,9,17.3,265,512,479,20.2,Magic Stick,9.0,Blink Dagger,20.0,Guardian Greaves,26.0,Black King Bar,31.0,Refresher Orb,37.0,,
+38,Team Secret,0,Secret.MidOne,Huskar,Mid Lane,4,7,6,12.2,203,410,409,14.9,Bracer,2.0,Wraith Band,4.0,Armlet of Mordiggian,9.0,Heaven's Halberd,22.0,Phase Boots,23.0,Force Staff,34.0
+39,Team Secret,1,Secret.Puppey,Oracle,Safe Lane,5,3,16,6.7,42,349,544,11.3,Observer Ward,0.0,Wind Lace,11.0,Tranquil Boots,13.0,Urn of Shadows,18.0,Magic Wand,22.0,Platemail,30.0
+39,Team Secret,1,Secret.Nisha,Naga Siren,Mid Lane,7,1,12,25.4,458,755,621,20.0,Power Treads,8.0,Manta Style,15.0,Diffusal Blade,19.0,Butterfly,25.0,Heart of Tarrasque,29.0,Orchid Malevolence,36.0
+39,Team Secret,1,Secret.YapzOr,Rubick,Mid Lane,5,2,14,13.2,133,402,492,14.0,Magic Wand,10.0,Force Staff,15.0,Aghanim's Scepter,25.0,Lotus Orb,33.0,,,,
+39,Team Secret,1,Secret.zai,Centaur Warrunner,Safe Lane,2,3,17,12.3,157,371,463,11.1,Quelling Blade,0.0,Magic Stick,1.0,Phase Boots,8.0,Blink Dagger,14.0,Lotus Orb,30.0,Pipe of Insight,33.0
+39,Team Secret,1,Secret.MidOne,Monkey King,Off Lane,9,2,13,16.5,197,502,595,27.4,Magic Wand,5.0,Phase Boots,8.0,Echo Sabre,17.0,Maelstrom,22.0,Black King Bar,29.0,Ultimate Orb,33.0
+40,Team Secret,1,Secret.Puppey,Nature's Prophet,Jungle,2,9,19,55.0,1.2k,790,431,36.1,Lotus Orb,19.0,Ethereal Blade,55.0,Aghanim's Scepter,60.0,Linken's Sphere,69.0,Scythe of Vyse,77.0,Bloodthorn,87.0
+40,Team Secret,1,Secret.zai,Pangolier,Safe Lane,-,7,13,39.5,782,563,433,19.9,Blink Dagger,25.0,Octarine Core,67.0,Eye of Skadi,73.0,Gem of True Sight,82.0,Abyssal Blade,91.0,,
+40,Team Secret,1,Secret.Nisha,Medusa,Mid Lane,4,7,15,69.7,1.5k,897,708,40.8,Eye of Skadi,30.0,Butterfly,39.0,Satanic,45.0,Daedalus,58.0,Divine Rapier,78.0,Divine Rapier,93.0
+40,Team Secret,1,Secret.YapzOr,Lion,Off Lane,7,5,13,37.9,207,454,475,32.3,Blink Dagger,31.0,Aghanim's Scepter,43.0,Ethereal Blade,64.0,Silver Edge,74.0,Boots of Travel,84.0,,
+40,Team Secret,1,Secret.MidOne,Drow Ranger,Off Lane,14,5,6,50.5,725,606,593,45.4,Hurricane Pike,19.0,Butterfly,32.0,Satanic,48.0,Daedalus,62.0,Silver Edge,84.0,Black King Bar,96.0
+41,Team Secret,1,Secret.Puppey,Nature's Prophet,Off Lane,1,2,16,14.2,259,494,399,14.5,Magic Wand,5.0,Urn of Shadows,10.0,Boots of Speed,10.0,Necronomicon,16.0,Lotus Orb,26.0,,
+41,Team Secret,1,Secret.YapzOr,Earthshaker,Safe Lane,3,1,17,11.1,110,344,485,12.0,Soul Ring,6.0,Tranquil Boots,9.0,Smoke of Deceit,10.0,Aghanim's Scepter,23.0,Lotus Orb,33.0,,
+41,Team Secret,1,Secret.Nisha,Arc Warden,Mid Lane,13,0,3,26.3,377,794,817,47.1,Mjollnir,18.0,Boots of Travel,21.0,Butterfly,26.0,Aegis of the Immortal,30.0,Daedalus,31.0,Morbid Mask,32.0
+41,Team Secret,1,Secret.zai,Winter Wyvern,Safe Lane,3,3,12,13.8,150,441,431,14.5,Magic Wand,7.0,Aether Lens,12.0,Glimmer Cape,17.0,Guardian Greaves,29.0,Dust of Appearance,30.0,Pipe of Insight,33.0
+41,Team Secret,1,Secret.MidOne,Monkey King,Off Lane,5,6,12,13.3,213,444,552,19.5,Magic Wand,5.0,Phase Boots,7.0,Wraith Band,9.0,Echo Sabre,16.0,Maelstrom,25.0,Black King Bar,32.0
+42,Team Secret,1,Secret.Puppey,Abaddon,Roaming,1,5,18,4.8,22,278,411,3.3,Sentry Ward,0.0,Tranquil Boots,10.0,Magic Wand,13.0,Wind Lace,17.0,Medallion of Courage,19.0,,
+42,Team Secret,1,Secret.YapzOr,Rubick,Roaming,3,1,12,9.2,55,324,382,6.7,Arcane Boots,6.0,Magic Wand,8.0,Blink Dagger,15.0,Point Booster,19.0,Ogre Axe,20.0,Ghost Scepter,25.0
+42,Team Secret,1,Secret.Nisha,Sven,Off Lane,7,0,10,18.7,266,640,635,14.4,Power Treads,4.0,Echo Sabre,10.0,Aegis of the Immortal,14.0,Sange and Yasha,17.0,Satanic,23.0,Blink Dagger,27.0
+42,Team Secret,1,Secret.zai,Pangolier,Safe Lane,7,3,11,10.5,105,419,385,13.0,Javelin,4.0,Boots of Speed,7.0,Bottle,10.0,Blink Dagger,16.0,Magic Wand,17.0,Lotus Orb,25.0
+42,Team Secret,1,Secret.MidOne,Templar Assassin,Mid Lane,6,4,7,15.8,199,567,468,11.9,Power Treads,9.0,Desolator,14.0,Blink Dagger,16.0,Black King Bar,22.0,Force Staff,25.0,,
+43,Team Secret,1,Secret.Puppey,Lion,Off Lane,5,7,18,6.0,18,329,440,11.3,Tranquil Boots,16.0,Magic Wand,18.0,Glimmer Cape,29.0,Bracer,34.0,Drum of Endurance,36.0,,
+43,Team Secret,1,Secret.Nisha,Troll Warlord,Off Lane,9,2,11,20.5,290,623,737,22.2,Power Treads,5.0,Diffusal Blade,14.0,Sange and Yasha,22.0,Satanic,30.0,Black King Bar,33.0,Bottle,34.0
+43,Team Secret,1,Secret.YapzOr,Enigma,Roaming,4,5,16,15.3,232,511,445,12.1,Helm of the Dominator,6.0,Arcane Boots,11.0,Black King Bar,21.0,Blink Dagger,28.0,Linken's Sphere,35.0,,
+43,Team Secret,1,Secret.zai,Doom,Safe Lane,4,4,19,17.8,150,576,618,24.7,Phase Boots,6.0,Drum of Endurance,11.0,Black King Bar,19.0,Blink Dagger,22.0,Platemail,28.0,Lotus Orb,32.0
+43,Team Secret,1,Secret.MidOne,Templar Assassin,Mid Lane,14,2,10,22.1,339,690,823,34.8,Power Treads,9.0,Desolator,14.0,Blink Dagger,18.0,Black King Bar,24.0,Hurricane Pike,30.0,Crystalys,33.0
+44,Team Secret,1,Secret.Puppey,Nature's Prophet,Safe Lane,4,4,19,15.1,211,454,502,25.8,Magic Wand,10.0,Urn of Shadows,10.0,Boots of Speed,13.0,Medallion of Courage,19.0,Ethereal Blade,30.0,Force Staff,42.0
+44,Team Secret,1,Secret.Nisha,Sven,Safe Lane,8,4,13,28.0,442,622,739,20.4,Power Treads,5.0,Echo Sabre,13.0,Black King Bar,20.0,Daedalus,32.0,Assault Cuirass,38.0,,
+44,Team Secret,1,Secret.YapzOr,Zeus,Off Lane,7,4,22,14.8,145,382,598,46.1,Arcane Boots,5.0,Aghanim's Scepter,23.0,Smoke of Deceit,24.0,Eul's Scepter of Divinity,33.0,Blink Dagger,40.0,,
+44,Team Secret,1,Secret.zai,Sand King,Off Lane,9,5,16,15.2,188,444,585,20.7,Veil of Discord,11.0,Blink Dagger,15.0,Boots of Travel,20.0,Eul's Scepter of Divinity,32.0,Ghost Scepter,37.0,Force Staff,42.0
+44,Team Secret,1,Secret.MidOne,Arc Warden,Mid Lane,9,1,14,35.1,443,788,647,59.1,Hand of Midas,9.0,Ethereal Blade,21.0,Boots of Travel,23.0,Hurricane Pike,29.0,Mjollnir,31.0,Scythe of Vyse,36.0
+45,Team Secret,0,Secret.Puppey,Ancient Apparition,Off Lane,3,8,12,1.9,18,176,219,9.0,Observer and Sentry Wards,7.0,Magic Wand,7.0,Tranquil Boots,27.0,,,,,,
+45,Team Secret,0,Secret.YapzOr,Tidehunter,Off Lane,4,8,10,6.7,49,247,344,9.8,Magic Wand,4.0,Vladmir's Offering,12.0,Tranquil Boots,15.0,Blink Dagger,24.0,Cloak,26.0,Sentry Ward,28.0
+45,Team Secret,0,Secret.Nisha,Arc Warden,Off Lane,3,3,11,16.3,244,519,421,32.1,Magic Stick,0.0,Wraith Band,3.0,Hand of Midas,10.0,Mjollnir,22.0,Boots of Travel,23.0,Hurricane Pike,31.0
+45,Team Secret,0,Secret.zai,Sand King,Safe Lane,7,10,4,9.8,181,408,478,23.4,Magic Stick,1.0,Tranquil Boots,7.0,Blink Dagger,16.0,Eul's Scepter of Divinity,24.0,Veil of Discord,29.0,,
+45,Team Secret,0,Secret.MidOne,Outworld Devourer,Mid Lane,1,10,6,8.6,153,356,375,9.9,Null Talisman,2.0,Tranquil Boots,5.0,Magic Wand,8.0,Null Talisman,8.0,Hand of Midas,14.0,Mystic Staff,31.0
+46,Team Secret,1,Secret.Puppey,Abaddon,Off Lane,1,9,16,5.8,30,274,533,5.0,Sentry Ward,0.0,Tranquil Boots,14.0,Magic Wand,17.0,Glimmer Cape,31.0,Gem of True Sight,40.0,,
+46,Team Secret,1,Secret.Nisha,Phantom Assassin,Mid Lane,7,4,15,23.7,440,604,656,28.6,Phase Boots,8.0,Battle Fury,17.0,Desolator,23.0,Black King Bar,28.0,Satanic,34.0,Boots of Travel,43.0
+46,Team Secret,1,Secret.YapzOr,Lion,Roaming,5,4,19,13.2,43,355,503,15.4,Tranquil Boots,5.0,Magic Wand,8.0,Blink Dagger,17.0,Aghanim's Scepter,32.0,Glimmer Cape,37.0,Vitality Booster,40.0
+46,Team Secret,1,Secret.zai,Leshrac,Off Lane,8,9,14,16.0,205,465,539,29.6,Bottle,3.0,Spirit Vessel,14.0,Eul's Scepter of Divinity,25.0,Blink Dagger,29.0,Black King Bar,40.0,Boots of Travel,43.0
+46,Team Secret,1,Secret.MidOne,Monkey King,Safe Lane,13,7,13,24.2,286,594,642,24.8,Magic Wand,2.0,Phase Boots,9.0,Echo Sabre,16.0,Maelstrom,22.0,Black King Bar,26.0,Assault Cuirass,36.0
+47,Team Secret,0,Secret.Puppey,Silencer,Off Lane,1,6,7,3.4,27,233,252,13.4,Magic Stick,3.0,Bracer,12.0,Tranquil Boots,16.0,Wind Lace,17.0,Smoke of Deceit,21.0,,
+47,Team Secret,0,Secret.Nisha,Wraith King,Off Lane,2,5,4,11.2,239,459,382,14.8,Quelling Blade,0.0,Magic Stick,1.0,Power Treads,6.0,Radiance,18.0,Blade Mail,24.0,Mithril Hammer,28.0
+47,Team Secret,0,Secret.YapzOr,Nyx Assassin,Off Lane,1,4,5,5.4,20,222,261,6.5,Boots of Speed,1.0,Magic Wand,9.0,Eul's Scepter of Divinity,23.0,Vitality Booster,26.0,Sentry Ward,27.0,,
+47,Team Secret,0,Secret.zai,Ursa,Safe Lane,2,9,3,9.0,131,371,398,7.3,Quelling Blade,0.0,Magic Stick,7.0,Wind Lace,11.0,Phase Boots,11.0,Blink Dagger,17.0,Black King Bar,26.0
+47,Team Secret,0,Secret.MidOne,Pangolier,Mid Lane,5,5,4,13.0,204,493,505,15.1,Bottle,2.0,Boots of Speed,3.0,Magic Wand,6.0,Maelstrom,14.0,Lotus Orb,20.0,Skull Basher,25.0
+48,Team Secret,1,Secret.Puppey,Shadow Shaman,Safe Lane,3,5,14,5.5,33,352,377,8.8,Magic Wand,11.0,Bracer,12.0,Tranquil Boots,17.0,Bracer,18.0,Urn of Shadows,21.0,Gem of True Sight,23.0
+48,Team Secret,1,Secret.YapzOr,Tusk,Off Lane,4,4,12,7.8,31,342,291,9.9,Magic Wand,6.0,Bracer,10.0,Bracer,12.0,Power Treads,16.0,Shadow Blade,21.0,Medallion of Courage,25.0
+48,Team Secret,1,Secret.Nisha,Wraith King,Safe Lane,3,1,14,15.2,196,537,406,11.9,Power Treads,6.0,Armlet of Mordiggian,12.0,Magic Wand,14.0,Desolator,20.0,Assault Cuirass,26.0,Ogre Axe,27.0
+48,Team Secret,1,Secret.zai,Ancient Apparition,Off Lane,4,2,12,9.8,71,423,423,13.5,Magic Wand,5.0,Rod of Atos,13.0,Arcane Boots,16.0,Glimmer Cape,20.0,Buckler,23.0,,
+48,Team Secret,1,Secret.MidOne,Meepo,Mid Lane,20,2,4,20.6,292,839,816,29.1,Power Treads,7.0,Ethereal Blade,15.0,Aegis of the Immortal,15.0,Blink Dagger,16.0,Ultimate Orb,20.0,Scythe of Vyse,22.0
+49,Team Secret,1,Secret.Puppey,Oracle,Off Lane,9,2,22,5.0,32,339,458,12.0,Urn of Shadows,9.0,Magic Wand,11.0,Quelling Blade,15.0,Tranquil Boots,21.0,Ghost Scepter,26.0,,
+49,Team Secret,1,Secret.YapzOr,Earthshaker,Roaming,10,2,26,9.7,45,370,500,16.2,Soul Ring,2.0,Smoke of Deceit,4.0,Tranquil Boots,7.0,Blink Dagger,16.0,Lotus Orb,25.0,,
+49,Team Secret,1,Secret.Nisha,Medusa,Mid Lane,2,2,12,17.2,348,646,639,17.6,Power Treads,9.0,Dragon Lance,13.0,Manta Style,19.0,Eye of Skadi,25.0,Aegis of the Immortal,25.0,,
+49,Team Secret,1,Secret.zai,Sand King,Safe Lane,8,3,22,11.2,132,455,619,20.7,Quelling Blade,2.0,Dust of Appearance,8.0,Blink Dagger,14.0,Arcane Boots,17.0,Eul's Scepter of Divinity,23.0,Boots of Travel,26.0
+49,Team Secret,1,Secret.MidOne,Monkey King,Off Lane,20,0,14,15.6,166,606,667,23.7,Phase Boots,5.0,Magic Wand,8.0,Wraith Band,9.0,Echo Sabre,15.0,Maelstrom,18.0,Black King Bar,23.0
+50,Team Secret,1,Secret.Puppey,Silencer,Safe Lane,7,7,28,6.5,42,332,458,13.9,Tranquil Boots,10.0,Magic Wand,17.0,Chainmail,18.0,Vitality Booster,28.0,Healing Salve,31.0,Medallion of Courage,33.0
+50,Team Secret,1,Secret.YapzOr,Earthshaker,Safe Lane,3,2,34,8.7,60,314,486,17.5,Soul Ring,3.0,Smoke of Deceit,5.0,Tranquil Boots,8.0,Blink Dagger,17.0,Sentry Ward,18.0,Lotus Orb,32.0
+50,Team Secret,1,Secret.Nisha,Juggernaut,Safe Lane,20,0,18,24.5,323,696,735,39.8,Phase Boots,7.0,Drum of Endurance,10.0,Manta Style,22.0,Mjollnir,26.0,Butterfly,32.0,,
+50,Team Secret,1,Secret.zai,Puck,Off Lane,5,2,26,14.0,163,442,636,23.1,Veil of Discord,14.0,Blink Dagger,19.0,Boots of Travel,24.0,Eul's Scepter of Divinity,32.0,Aghanim's Scepter,36.0,,
+50,Team Secret,1,Secret.MidOne,Storm Spirit,Mid Lane,11,2,20,17.4,238,533,624,29.5,Null Talisman,3.0,Magic Wand,6.0,Power Treads,9.0,Kaya,13.0,Bloodstone,25.0,Black King Bar,34.0
+1,PSG.LGD,0,PSG.LGD.Ame,Slark,Safe Lane,5,3,9,28.6,631,695,677,28.8,Power Treads,5.0,Black King Bar,20.0,Shadow Blade,24.0,Butterfly,31.0,Eye of Skadi,41.0,Abyssal Blade,49.0
+1,PSG.LGD,0,PSG.LGD.Maybe,Ember Spirit,Mid Lane,14,4,7,31.1,589,718,741,81.2,Bottle,3.0,Black King Bar,23.0,Mjollnir,26.0,Aghanim's Scepter,31.0,Octarine Core,39.0,Boots of Travel,44.0
+1,PSG.LGD,0,PSG.LGD.xNova,Vengeful Spirit,Safe Lane,-,6,12,5.5,66,241,296,11.1,Smoke of Deceit,2.0,Boots of Speed,11.0,Magic Wand,13.0,Force Staff,25.0,Vladmir's Offering,35.0,,
+1,PSG.LGD,0,PSG.LGD.fy,Tusk,Safe Lane,2,8,12,15.2,143,360,355,14.6,Observer Ward,0.0,Tranquil Boots,7.0,Blink Dagger,21.0,Force Staff,28.0,Solar Crest,36.0,Aghanim's Scepter,42.0
+1,PSG.LGD,0,PSG.LGD.Chalice,Magnus,Off Lane,1,6,9,16.3,265,389,472,15.5,Bracer,2.0,Arcane Boots,10.0,Blink Dagger,17.0,Eul's Scepter of Divinity,24.0,Refresher Orb,36.0,Force Staff,46.0
+2,PSG.LGD,0,PSG.LGD.Ame,Lone Druid,Safe Lane,3,7,15,16.7,263,484,554,22.6,Boots of Speed,3.0,Tango,3.0,Clarity,37.0,,,,,,
+2,PSG.LGD,0,PSG.LGD.Maybe,Leshrac,Mid Lane,11,6,12,20.1,367,600,745,52.2,Null Talisman,3.0,Eul's Scepter of Divinity,11.0,Bloodstone,23.0,Shiva's Guard,31.0,Boots of Travel,36.0,Yasha and Kaya,39.0
+2,PSG.LGD,0,PSG.LGD.xNova,Chen,Jungle,1,6,16,3.6,87,247,383,5.4,Observer Ward,0.0,Smoke of Deceit,2.0,Arcane Boots,12.0,Magic Stick,19.0,Headdress,23.0,Buckler,28.0
+2,PSG.LGD,0,PSG.LGD.fy,Shadow Shaman,Roaming,8,7,14,10.0,90,324,542,20.6,Aether Lens,13.0,Blink Dagger,22.0,Tranquil Boots,22.0,Magic Wand,22.0,Ghost Scepter,28.0,,
+2,PSG.LGD,0,PSG.LGD.Chalice,Tidehunter,Off Lane,3,4,12,13.0,229,400,500,13.7,Phase Boots,8.0,Wind Lace,16.0,Pipe of Insight,19.0,Solar Crest,26.0,Vladmir's Offering,30.0,Force Staff,36.0
+3,PSG.LGD,1,PSG.LGD.Ame,Sven,Off Lane,12,4,18,22.0,337,727,862,28.3,Phase Boots,6.0,Echo Sabre,16.0,Blink Dagger,17.0,Black King Bar,25.0,Aegis of the Immortal,32.0,Bloodthorn,33.0
+3,PSG.LGD,1,PSG.LGD.Maybe,Leshrac,Mid Lane,12,7,12,19.4,302,649,787,25.8,Magic Wand,3.0,Eul's Scepter of Divinity,14.0,Boots of Travel,18.0,Kaya,20.0,Bloodstone,26.0,Black King Bar,31.0
+3,PSG.LGD,1,PSG.LGD.xNova,Warlock,Off Lane,1,4,26,6.6,70,344,609,11.6,Magic Stick,3.0,Arcane Boots,13.0,Hand of Midas,27.0,Point Booster,33.0,,,,
+3,PSG.LGD,1,PSG.LGD.fy,Nyx Assassin,Off Lane,5,6,22,10.4,32,346,626,15.3,Magic Wand,3.0,Tranquil Boots,10.0,Spirit Vessel,20.0,Gem of True Sight,26.0,Force Staff,29.0,Eul's Scepter of Divinity,35.0
+3,PSG.LGD,1,PSG.LGD.Chalice,Legion Commander,Safe Lane,13,4,13,15.4,160,524,796,30.3,Phase Boots,8.0,Magic Wand,10.0,Blink Dagger,15.0,Blade Mail,20.0,Black King Bar,29.0,Hyperstone,33.0
+4,PSG.LGD,1,PSG.LGD.Ame,Gyrocopter,Safe Lane,13,1,17,26.9,424,663,680,48.3,Black King Bar,20.0,Aegis of the Immortal,27.0,Butterfly,29.0,Manta Style,36.0,Monkey King Bar,38.0,Mjollnir,43.0
+4,PSG.LGD,1,PSG.LGD.Maybe,Tiny,Mid Lane,12,5,15,18.1,282,512,679,31.9,Phase Boots,7.0,Drum of Endurance,11.0,Blink Dagger,16.0,Echo Sabre,22.0,Black King Bar,27.0,Aghanim's Scepter,33.0
+4,PSG.LGD,1,PSG.LGD.xNova,Nyx Assassin,Mid Lane,5,8,24,7.3,27,304,354,12.9,Dust of Appearance,6.0,Magic Wand,9.0,Urn of Shadows,13.0,Tranquil Boots,20.0,Force Staff,35.0,Ghost Scepter,40.0
+4,PSG.LGD,1,PSG.LGD.fy,Io,Jungle,6,7,25,8.7,69,283,572,9.2,Bottle,2.0,Magic Wand,5.0,Guardian Greaves,30.0,Ogre Axe,37.0,Mithril Hammer,43.0,,
+4,PSG.LGD,1,PSG.LGD.Chalice,Tidehunter,Off Lane,7,1,22,18.0,277,480,743,27.4,Phase Boots,11.0,Hood of Defiance,14.0,Blink Dagger,18.0,Solar Crest,28.0,Force Staff,32.0,Refresher Orb,41.0
+5,PSG.LGD,1,PSG.LGD.Ame,Slark,Safe Lane,14,0,6,23.6,357,734,817,19.2,Power Treads,5.0,Echo Sabre,14.0,Black King Bar,18.0,Shadow Blade,20.0,Eye of Skadi,27.0,Monkey King Bar,32.0
+5,PSG.LGD,1,PSG.LGD.Maybe,Templar Assassin,Mid Lane,10,3,12,18.6,287,640,795,24.8,Power Treads,8.0,Desolator,13.0,Blink Dagger,17.0,Black King Bar,24.0,Monkey King Bar,30.0,Moon Shard,34.0
+5,PSG.LGD,1,PSG.LGD.xNova,Elder Titan,Safe Lane,2,5,15,7.1,66,319,439,10.1,Smoke of Deceit,5.0,Magic Wand,14.0,Bracer,21.0,Bracer,21.0,Phase Boots,24.0,Force Staff,32.0
+5,PSG.LGD,1,PSG.LGD.fy,Rubick,Roaming,4,5,13,10.7,111,382,523,13.2,Aether Lens,13.0,Tranquil Boots,16.0,Blink Dagger,22.0,Magic Wand,24.0,Force Staff,29.0,Point Booster,32.0
+5,PSG.LGD,1,PSG.LGD.Chalice,Centaur Warrunner,Off Lane,6,5,19,16.3,225,516,711,21.9,Phase Boots,9.0,Pipe of Insight,14.0,Blink Dagger,17.0,Vanguard,21.0,Heart of Tarrasque,29.0,Gem of True Sight,33.0
+6,PSG.LGD,1,PSG.LGD.Ame,Juggernaut,Safe Lane,6,3,8,26.1,513,675,674,24.3,Phase Boots,7.0,Manta Style,15.0,Diffusal Blade,20.0,Butterfly,26.0,Skull Basher,31.0,Linken's Sphere,38.0
+6,PSG.LGD,1,PSG.LGD.Maybe,Storm Spirit,Mid Lane,14,3,11,21.1,382,593,697,29.1,Bottle,2.0,Power Treads,10.0,Kaya,14.0,Bloodstone,24.0,Orchid Malevolence,29.0,Shiva's Guard,36.0
+6,PSG.LGD,1,PSG.LGD.xNova,Warlock,Safe Lane,3,2,17,10.5,113,333,571,16.7,Magic Stick,2.0,Hand of Midas,17.0,Arcane Boots,23.0,Gem of True Sight,25.0,Ghost Scepter,33.0,Force Staff,37.0
+6,PSG.LGD,1,PSG.LGD.fy,Tusk,Roaming,2,4,18,11.1,60,311,469,12.5,Tranquil Boots,7.0,Magic Wand,9.0,Bracer,12.0,Blink Dagger,21.0,Ghost Scepter,29.0,Force Staff,38.0
+6,PSG.LGD,1,PSG.LGD.Chalice,Omniknight,Off Lane,5,2,18,19.0,245,473,554,10.9,Soul Ring,6.0,Phase Boots,10.0,Drum of Endurance,12.0,Solar Crest,20.0,Aghanim's Scepter,27.0,Heaven's Halberd,37.0
+7,PSG.LGD,0,PSG.LGD.Ame,Bristleback,Safe Lane,4,4,17,24.1,387,534,597,34.1,Phase Boots,6.0,Vanguard,11.0,Sange and Yasha,19.0,Black King Bar,27.0,Assault Cuirass,36.0,Cheese,41.0
+7,PSG.LGD,0,PSG.LGD.Maybe,Outworld Devourer,Mid Lane,12,6,8,20.6,369,580,779,54.6,Power Treads,6.0,Blink Dagger,9.0,Black King Bar,21.0,Scythe of Vyse,29.0,Yasha and Kaya,31.0,Dragon Lance,42.0
+7,PSG.LGD,0,PSG.LGD.xNova,Grimstroke,Safe Lane,2,7,18,8.1,59,305,352,30.6,Observer Ward,0.0,Boots of Speed,3.0,Magic Wand,11.0,Bracer,25.0,Bracer,26.0,Blink Dagger,32.0
+7,PSG.LGD,0,PSG.LGD.fy,Shadow Shaman,Jungle,5,7,14,10.2,106,325,475,22.4,Aether Lens,15.0,Blink Dagger,26.0,Ghost Scepter,32.0,Tranquil Boots,32.0,Point Booster,38.0,,
+7,PSG.LGD,0,PSG.LGD.Chalice,Doom,Off Lane,3,10,12,13.8,200,474,448,27.6,Phase Boots,11.0,Black King Bar,24.0,Blink Dagger,31.0,Refresher Orb,42.0,,,,
+8,PSG.LGD,0,PSG.LGD.Ame,Lone Druid,Safe Lane,4,3,9,25.4,440,602,645,26.7,Boots of Speed,3.0,Clarity,15.0,,,,,,,,
+8,PSG.LGD,0,PSG.LGD.Maybe,Ember Spirit,Mid Lane,9,3,4,19.3,359,500,684,46.4,Bottle,2.0,Phase Boots,7.0,Maelstrom,17.0,Eul's Scepter of Divinity,21.0,Aghanim's Scepter,29.0,Octarine Core,42.0
+8,PSG.LGD,0,PSG.LGD.xNova,Shadow Shaman,Roaming,-,10,11,4.1,41,214,296,12.8,Sentry Ward,0.0,Bracer,14.0,Magic Stick,20.0,Bracer,23.0,Tranquil Boots,34.0,Ghost Scepter,40.0
+8,PSG.LGD,0,PSG.LGD.fy,Queen of Pain,Off Lane,1,6,12,9.8,141,292,425,25.5,Magic Wand,6.0,Boots of Speed,6.0,Bracer,18.0,Spirit Vessel,26.0,Dust of Appearance,30.0,Eul's Scepter of Divinity,34.0
+8,PSG.LGD,0,PSG.LGD.Chalice,Centaur Warrunner,Off Lane,2,5,7,17.6,284,404,459,15.1,Magic Stick,1.0,Phase Boots,6.0,Blink Dagger,12.0,Crimson Guard,24.0,Aghanim's Scepter,34.0,Reaver,39.0
+9,PSG.LGD,1,PSG.LGD.Ame,Faceless Void,Safe Lane,10,3,13,16.8,218,572,650,21.5,Power Treads,5.0,Magic Wand,5.0,Mask of Madness,9.0,Maelstrom,15.0,Black King Bar,22.0,Butterfly,30.0
+9,PSG.LGD,1,PSG.LGD.Maybe,Leshrac,Mid Lane,11,1,11,18.7,265,643,681,28.7,Null Talisman,1.0,Eul's Scepter of Divinity,11.0,Boots of Travel,15.0,Kaya,18.0,Bloodstone,25.0,Shiva's Guard,29.0
+9,PSG.LGD,1,PSG.LGD.xNova,Chen,Jungle,3,2,21,7.9,87,366,464,6.2,Blight Stone,2.0,Guardian Greaves,28.0,Cloak,29.0,,,,,,
+9,PSG.LGD,1,PSG.LGD.fy,Tusk,Roaming,6,4,17,11.1,56,383,457,11.7,Magic Wand,12.0,Phase Boots,16.0,Spirit Vessel,23.0,Blink Dagger,26.0,Shadow Blade,30.0,,
+9,PSG.LGD,1,PSG.LGD.Chalice,Axe,Off Lane,6,2,18,12.9,149,425,550,18.4,Boots of Speed,4.0,Blink Dagger,13.0,Blade Mail,17.0,Crimson Guard,23.0,Black King Bar,30.0,Gem of True Sight,30.0
+10,PSG.LGD,0,PSG.LGD.Ame,Leshrac,Off Lane,6,8,5,23.2,446,606,709,29.8,Eul's Scepter of Divinity,13.0,Blink Dagger,16.0,Black King Bar,23.0,Bloodstone,31.0,Scythe of Vyse,37.0,Boots of Travel,45.0
+10,PSG.LGD,0,PSG.LGD.Maybe,Medusa,Mid Lane,4,5,3,25.5,496,577,689,14.2,Magic Wand,8.0,Power Treads,8.0,Manta Style,15.0,Black King Bar,26.0,Butterfly,35.0,Hurricane Pike,39.0
+10,PSG.LGD,0,PSG.LGD.xNova,Chen,Jungle,2,9,7,6.5,110,248,283,4.1,Observer Ward,0.0,Blight Stone,3.0,Arcane Boots,11.0,Mekansm,33.0,,,,
+10,PSG.LGD,0,PSG.LGD.fy,Crystal Maiden,Roaming,-,11,7,9.7,111,295,370,13.1,Magic Wand,5.0,Dust of Appearance,13.0,Phase Boots,15.0,Spirit Vessel,28.0,Blink Dagger,37.0,Ogre Axe,43.0
+10,PSG.LGD,0,PSG.LGD.Chalice,Bristleback,Jungle,3,4,4,20.2,397,519,625,30.3,Pipe of Insight,11.0,Power Treads,13.0,Lotus Orb,19.0,Black King Bar,25.0,Aghanim's Scepter,34.0,Skull Basher,43.0
+11,PSG.LGD,1,PSG.LGD.Ame,Slark,Safe Lane,5,2,12,20.8,349,598,751,28.3,Power Treads,10.0,Hand of Midas,15.0,Black King Bar,20.0,Echo Sabre,27.0,Skull Basher,31.0,Silver Edge,36.0
+11,PSG.LGD,1,PSG.LGD.Maybe,Outworld Devourer,Mid Lane,8,1,7,22.6,430,647,759,28.7,Power Treads,9.0,Blink Dagger,14.0,Black King Bar,22.0,Scythe of Vyse,29.0,Yasha and Kaya,32.0,Platemail,36.0
+11,PSG.LGD,1,PSG.LGD.xNova,Chen,Jungle,4,6,12,6.2,94,284,407,5.0,Sentry Ward,0.0,Magic Stick,8.0,Guardian Greaves,38.0,Cloak,38.0,,,,
+11,PSG.LGD,1,PSG.LGD.fy,Rubick,Roaming,2,2,10,10.3,130,321,456,14.8,Boots of Speed,0.0,Magic Wand,10.0,Aether Lens,17.0,Blink Dagger,23.0,Aghanim's Scepter,38.0,,
+11,PSG.LGD,1,PSG.LGD.Chalice,Centaur Warrunner,Off Lane,2,3,10,15.6,299,458,578,11.5,Boots of Speed,2.0,Magic Stick,10.0,Blink Dagger,16.0,Pipe of Insight,23.0,Crimson Guard,27.0,Lotus Orb,31.0
+12,PSG.LGD,1,PSG.LGD.Ame,Naga Siren,Safe Lane,10,0,12,24.3,407,852,844,20.7,Wraith Band,2.0,Power Treads,6.0,Manta Style,14.0,Diffusal Blade,18.0,Heart of Tarrasque,22.0,Butterfly,27.0
+12,PSG.LGD,1,PSG.LGD.Maybe,Templar Assassin,Mid Lane,8,2,17,18.4,294,654,745,25.5,Power Treads,7.0,Magic Wand,7.0,Desolator,12.0,Blink Dagger,16.0,Black King Bar,21.0,Crystalys,27.0
+12,PSG.LGD,1,PSG.LGD.xNova,Shadow Shaman,Roaming,5,9,20,6.6,50,385,534,7.6,Smoke of Deceit,2.0,Magic Wand,3.0,Bracer,13.0,Bracer,16.0,Bracer,18.0,Boots of Travel,27.0
+12,PSG.LGD,1,PSG.LGD.fy,Elder Titan,Safe Lane,6,4,19,8.9,66,379,547,13.6,Healing Salve,3.0,Magic Wand,5.0,Urn of Shadows,12.0,Phase Boots,15.0,Eul's Scepter of Divinity,23.0,,
+12,PSG.LGD,1,PSG.LGD.Chalice,Sand King,Off Lane,11,3,20,14.6,151,535,642,26.5,Quelling Blade,0.0,Veil of Discord,10.0,Boots of Travel,15.0,Blink Dagger,21.0,Eul's Scepter of Divinity,25.0,Gem of True Sight,26.0
+13,PSG.LGD,1,PSG.LGD.Ame,Sven,Off Lane,11,3,16,23.7,362,821,885,31.2,Phase Boots,5.0,Hand of Midas,13.0,Echo Sabre,16.0,Black King Bar,19.0,Assault Cuirass,24.0,Orchid Malevolence,29.0
+13,PSG.LGD,1,PSG.LGD.Maybe,Leshrac,Mid Lane,11,3,11,19.1,307,701,817,29.2,Eul's Scepter of Divinity,10.0,Boots of Travel,14.0,Magic Wand,15.0,Bloodstone,25.0,Yasha and Kaya,28.0,Platemail,29.0
+13,PSG.LGD,1,PSG.LGD.xNova,Grimstroke,Safe Lane,1,4,21,5.4,28,318,389,8.4,Sentry Ward,0.0,Smoke of Deceit,4.0,Magic Stick,8.0,Arcane Boots,21.0,Glimmer Cape,29.0,Gem of True Sight,30.0
+13,PSG.LGD,1,PSG.LGD.fy,Elder Titan,Off Lane,7,1,17,8.8,47,315,395,13.0,Magic Wand,8.0,Phase Boots,11.0,Quelling Blade,13.0,Spirit Vessel,22.0,Point Booster,30.0,,
+13,PSG.LGD,1,PSG.LGD.Chalice,Omniknight,Safe Lane,3,0,21,13.6,141,464,618,11.2,Quelling Blade,2.0,Soul Ring,4.0,Phase Boots,9.0,Drum of Endurance,15.0,Solar Crest,22.0,Aghanim's Scepter,29.0
+14,PSG.LGD,0,PSG.LGD.Ame,Weaver,Safe Lane,3,5,15,29.9,400,552,608,34.9,Diffusal Blade,17.0,Black King Bar,26.0,Solar Crest,32.0,Nullifier,43.0,Crystalys,47.0,Boots of Travel,53.0
+14,PSG.LGD,0,PSG.LGD.Maybe,Alchemist,Mid Lane,14,3,5,49.1,617,1.1k,695,74.8,Manta Style,18.0,Black King Bar,23.0,Assault Cuirass,30.0,Mjollnir,43.0,Boots of Travel,52.0,Skull Basher,54.0
+14,PSG.LGD,0,PSG.LGD.xNova,Earth Spirit,Mid Lane,3,10,18,6.8,38,255,333,20.4,Smoke of Deceit,2.0,Boots of Speed,11.0,Magic Wand,15.0,Bracer,22.0,Ghost Scepter,43.0,Blink Dagger,51.0
+14,PSG.LGD,0,PSG.LGD.fy,Keeper of the Light,Off Lane,-,7,16,17.3,214,379,560,25.9,Tranquil Boots,8.0,Force Staff,16.0,Glimmer Cape,24.0,Aghanim's Scepter,40.0,Mystic Staff,52.0,,
+14,PSG.LGD,0,PSG.LGD.Chalice,Bristleback,Off Lane,4,8,17,29.1,341,495,570,34.2,Bracer,6.0,Pipe of Insight,11.0,Magic Wand,11.0,Guardian Greaves,23.0,Lotus Orb,39.0,Abyssal Blade,53.0
+15,PSG.LGD,1,PSG.LGD.Ame,Lone Druid,Safe Lane,2,0,6,12.5,187,632,631,6.9,Boots of Speed,3.0,,,,,,,,,,
+15,PSG.LGD,1,PSG.LGD.Maybe,Ember Spirit,Mid Lane,4,0,8,9.5,137,513,530,13.0,Bottle,2.0,Wraith Band,4.0,Phase Boots,7.0,Veil of Discord,12.0,Aegis of the Immortal,16.0,Maelstrom,17.0
+15,PSG.LGD,1,PSG.LGD.xNova,Chen,Safe Lane,3,2,8,4.8,47,339,263,3.9,Observer and Sentry Wards,0.0,Dust of Appearance,7.0,Medallion of Courage,12.0,Arcane Boots,16.0,Buckler,18.0,Headdress,18.0
+15,PSG.LGD,1,PSG.LGD.fy,Rubick,Mid Lane,2,1,10,5.3,23,287,352,4.4,Magic Wand,11.0,Aether Lens,15.0,Dust of Appearance,17.0,Tranquil Boots,18.0,,,,
+15,PSG.LGD,1,PSG.LGD.Chalice,Bristleback,Off Lane,3,0,8,9.9,147,521,528,9.0,Magic Stick,0.0,Quelling Blade,1.0,Bottle,3.0,Medallion of Courage,10.0,Crimson Guard,13.0,Phase Boots,16.0
+16,PSG.LGD,0,PSG.LGD.Ame,Phantom Assassin,Safe Lane,1,3,1,11.0,214,462,504,5.0,Wraith Band,4.0,Magic Wand,5.0,Phase Boots,8.0,Battle Fury,17.0,Desolator,24.0,,
+16,PSG.LGD,0,PSG.LGD.Maybe,Ember Spirit,Mid Lane,1,3,2,10.2,174,420,448,14.1,Bottle,3.0,Magic Wand,9.0,Phase Boots,9.0,Drum of Endurance,14.0,Maelstrom,19.0,Eul's Scepter of Divinity,23.0
+16,PSG.LGD,0,PSG.LGD.xNova,Rubick,Roaming,1,4,4,2.8,38,230,247,8.7,Wind Lace,12.0,Tranquil Boots,16.0,Magic Wand,19.0,Bracer,20.0,Bracer,25.0,,
+16,PSG.LGD,0,PSG.LGD.fy,Nature's Prophet,Roaming,1,7,2,6.1,94,284,279,11.1,Boots of Speed,3.0,Spirit Vessel,17.0,Hood of Defiance,21.0,Headdress,23.0,,,,
+16,PSG.LGD,0,PSG.LGD.Chalice,Centaur Warrunner,Off Lane,1,5,2,8.0,126,334,316,9.3,Quelling Blade,0.0,Magic Stick,2.0,Phase Boots,6.0,Crimson Guard,15.0,Blink Dagger,23.0,,
+17,PSG.LGD,0,PSG.LGD.Ame,Juggernaut,Safe Lane,6,5,6,20.1,324,577,798,27.8,Magic Wand,4.0,Phase Boots,5.0,Radiance,21.0,Manta Style,25.0,Linken's Sphere,35.0,Hyperstone,40.0
+17,PSG.LGD,0,PSG.LGD.Maybe,Leshrac,Mid Lane,4,9,5,19.9,380,605,685,18.9,Magic Wand,6.0,Eul's Scepter of Divinity,15.0,Boots of Travel,18.0,Octarine Core,29.0,Black King Bar,35.0,Yasha and Kaya,40.0
+17,PSG.LGD,0,PSG.LGD.xNova,Sven,Off Lane,2,12,6,4.7,43,244,303,8.9,Observer Ward,5.0,Bracer,13.0,Magic Wand,15.0,Bracer,16.0,Bracer,30.0,Tranquil Boots,36.0
+17,PSG.LGD,0,PSG.LGD.fy,Shadow Demon,Jungle,2,12,7,6.6,67,245,304,11.1,Smoke of Deceit,0.0,Boots of Speed,4.0,Magic Wand,10.0,Aether Lens,19.0,Force Staff,30.0,,
+17,PSG.LGD,0,PSG.LGD.Chalice,Dark Seer,Off Lane,1,6,11,12.6,201,353,382,16.9,Soul Ring,6.0,Magic Stick,7.0,Helm of the Dominator,17.0,Pipe of Insight,22.0,Guardian Greaves,35.0,,
+18,PSG.LGD,0,PSG.LGD.Ame,Monkey King,Safe Lane,-,7,4,9.4,167,319,352,11.9,Quelling Blade,0.0,Phase Boots,4.0,Magic Wand,7.0,Wraith Band,7.0,Echo Sabre,16.0,Maelstrom,26.0
+18,PSG.LGD,0,PSG.LGD.Maybe,Medusa,Mid Lane,-,2,2,18.1,392,554,535,11.7,Wraith Band,1.0,Magic Wand,4.0,Power Treads,8.0,Manta Style,17.0,Eye of Skadi,26.0,Talisman of Evasion,27.0
+18,PSG.LGD,0,PSG.LGD.xNova,Doom,Safe Lane,2,9,2,3.6,50,203,202,6.4,Observer Ward,4.0,Tranquil Boots,8.0,Magic Stick,17.0,Vladmir's Offering,27.0,,,,
+18,PSG.LGD,0,PSG.LGD.fy,Rubick,Off Lane,2,8,-,4.9,45,199,312,6.9,Magic Stick,1.0,Aether Lens,17.0,Staff of Wizardry,23.0,Ring of Regen,25.0,,,,
+18,PSG.LGD,0,PSG.LGD.Chalice,Batrider,Off Lane,-,6,2,8.6,151,281,319,9.9,Boots of Travel,9.0,Magic Stick,12.0,Blink Dagger,17.0,Wind Lace,18.0,Force Staff,25.0,Gem of True Sight,32.0
+19,PSG.LGD,1,PSG.LGD.Ame,Sven,Safe Lane,2,5,16,16.2,259,531,666,16.3,Magic Wand,2.0,Power Treads,7.0,Mask of Madness,12.0,Sange and Yasha,17.0,Blink Dagger,22.0,Crystalys,25.0
+19,PSG.LGD,1,PSG.LGD.Maybe,Death Prophet,Mid Lane,13,5,8,18.9,237,635,713,29.9,Power Treads,6.0,Eul's Scepter of Divinity,13.0,Aghanim's Scepter,21.0,Black King Bar,29.0,Shiva's Guard,33.0,,
+19,PSG.LGD,1,PSG.LGD.xNova,Shadow Shaman,Safe Lane,5,8,13,4.9,39,319,380,8.2,Magic Wand,2.0,Bracer,15.0,Arcane Boots,25.0,,,,,,
+19,PSG.LGD,1,PSG.LGD.fy,Pangolier,Mid Lane,5,5,15,11.5,89,398,562,14.9,Magic Stick,1.0,Javelin,9.0,Guardian Greaves,26.0,Blink Dagger,31.0,,,,
+19,PSG.LGD,1,PSG.LGD.Chalice,Mars,Off Lane,1,7,15,11.9,166,416,586,13.9,Soul Ring,8.0,Phase Boots,13.0,Magic Wand,15.0,Blink Dagger,19.0,Vladmir's Offering,21.0,Point Booster,25.0
+20,PSG.LGD,0,PSG.LGD.Ame,Wraith King,Safe Lane,2,6,3,16.6,295,479,472,12.6,Magic Wand,3.0,Phase Boots,7.0,Drum of Endurance,12.0,Radiance,21.0,Shiva's Guard,29.0,Blade Mail,34.0
+20,PSG.LGD,0,PSG.LGD.Maybe,Storm Spirit,Mid Lane,4,8,7,15.9,286,473,482,14.4,Bottle,4.0,Magic Wand,6.0,Power Treads,10.0,Bloodstone,26.0,Yasha and Kaya,30.0,Black King Bar,35.0
+20,PSG.LGD,0,PSG.LGD.xNova,Ancient Apparition,Safe Lane,5,7,9,6.2,53,294,293,13.3,Smoke of Deceit,2.0,Observer and Sentry Wards,7.0,Magic Wand,8.0,Arcane Boots,11.0,Cloak,18.0,Ultimate Orb,32.0
+20,PSG.LGD,0,PSG.LGD.fy,Earthshaker,Roaming,2,5,11,8.5,89,261,394,7.7,Tranquil Boots,5.0,Blink Dagger,15.0,Magic Wand,18.0,Aghanim's Scepter,33.0,,,,
+20,PSG.LGD,0,PSG.LGD.Chalice,Nature's Prophet,Off Lane,5,6,6,16.8,310,501,415,21.5,Vladmir's Offering,7.0,Power Treads,8.0,Pipe of Insight,16.0,Magic Stick,16.0,Mjollnir,28.0,Dragon Lance,33.0
+21,PSG.LGD,0,PSG.LGD.Ame,Sven,Safe Lane,7,2,8,23.3,422,617,702,14.9,Power Treads,7.0,Mask of Madness,9.0,Sange and Yasha,15.0,Black King Bar,21.0,Blink Dagger,24.0,Assault Cuirass,31.0
+21,PSG.LGD,0,PSG.LGD.Maybe,Queen of Pain,Mid Lane,5,3,4,17.3,362,536,786,17.7,Magic Wand,6.0,Power Treads,10.0,Orchid Malevolence,17.0,Black King Bar,24.0,Shiva's Guard,30.0,Helm of Iron Will,37.0
+21,PSG.LGD,0,PSG.LGD.xNova,Bane,Safe Lane,-,9,9,1.7,28,168,247,6.6,Boots of Speed,7.0,Cloak,17.0,Magic Wand,25.0,,,,,,
+21,PSG.LGD,0,PSG.LGD.fy,Dark Willow,Roaming,5,4,7,9.2,79,319,370,12.9,Clarity,4.0,Magic Wand,11.0,Tranquil Boots,12.0,Bracer,12.0,Spirit Vessel,19.0,Eul's Scepter of Divinity,30.0
+21,PSG.LGD,0,PSG.LGD.Chalice,Mars,Off Lane,2,5,5,12.4,237,394,530,15.3,Magic Wand,7.0,Phase Boots,9.0,Blink Dagger,16.0,Black King Bar,22.0,Vladmir's Offering,29.0,Glimmer Cape,38.0
+22,PSG.LGD,1,PSG.LGD.Ame,Lone Druid,Safe Lane,7,3,17,28.3,429,630,712,38.5,Clarity,9.0,Enchanted Mango,21.0,Boots of Travel,49.0,,,,,,
+22,PSG.LGD,1,PSG.LGD.Maybe,Nature's Prophet,Roaming,15,6,16,31.5,580,756,686,66.0,Mjollnir,18.0,Black King Bar,23.0,Silver Edge,30.0,Monkey King Bar,34.0,Satanic,42.0,Desolator,48.0
+22,PSG.LGD,1,PSG.LGD.xNova,Batrider,Safe Lane,2,15,16,7.4,124,298,369,15.1,Magic Stick,0.0,Tranquil Boots,12.0,Observer and Sentry Wards,12.0,Blink Dagger,22.0,Ghost Scepter,32.0,Drum of Endurance,46.0
+22,PSG.LGD,1,PSG.LGD.fy,Pangolier,Off Lane,6,10,17,18.1,204,420,602,23.5,Magic Wand,15.0,Guardian Greaves,27.0,Blink Dagger,34.0,Smoke of Deceit,34.0,Monkey King Bar,42.0,Skull Basher,49.0
+22,PSG.LGD,1,PSG.LGD.Chalice,Pudge,Off Lane,3,14,25,17.6,237,476,695,19.7,Pipe of Insight,18.0,Vladmir's Offering,22.0,Lotus Orb,34.0,Blink Dagger,40.0,Boots of Travel,47.0,,
+23,PSG.LGD,1,PSG.LGD.Ame,Sven,Off Lane,3,1,7,12.6,212,578,595,10.5,Quelling Blade,1.0,Power Treads,5.0,Bracer,5.0,Mask of Madness,10.0,Sange and Yasha,17.0,Blink Dagger,19.0
+23,PSG.LGD,1,PSG.LGD.Maybe,Sniper,Mid Lane,7,1,9,12.5,176,556,559,15.1,Wraith Band,1.0,Wraith Band,3.0,Power Treads,8.0,Mask of Madness,10.0,Hurricane Pike,18.0,Maelstrom,23.0
+23,PSG.LGD,1,PSG.LGD.xNova,Shadow Shaman,Jungle,1,3,15,4.1,41,323,285,6.3,Infused Raindrops,8.0,Magic Wand,11.0,Arcane Boots,16.0,Dust of Appearance,18.0,Void Stone,21.0,,
+23,PSG.LGD,1,PSG.LGD.fy,Pangolier,Roaming,10,2,12,8.7,62,432,571,15.5,Javelin,4.0,Sentry Ward,8.0,Magic Wand,9.0,Guardian Greaves,21.0,Point Booster,23.0,,
+23,PSG.LGD,1,PSG.LGD.Chalice,Centaur Warrunner,Safe Lane,6,3,12,9.7,131,455,483,9.8,Quelling Blade,2.0,Phase Boots,5.0,Magic Stick,5.0,Bracer,6.0,Vanguard,12.0,Pipe of Insight,20.0
+24,PSG.LGD,1,PSG.LGD.Ame,Bounty Hunter,Safe Lane,12,9,14,18.7,113,619,668,32.2,Phase Boots,5.0,Magic Wand,6.0,Drum of Endurance,9.0,Black King Bar,17.0,Desolator,24.0,Nullifier,31.0
+24,PSG.LGD,1,PSG.LGD.Maybe,Monkey King,Mid Lane,18,9,18,22.9,313,750,849,43.2,Wraith Band,1.0,Phase Boots,9.0,Radiance,17.0,Aghanim's Scepter,22.0,Black King Bar,26.0,Maelstrom,29.0
+24,PSG.LGD,1,PSG.LGD.xNova,Ogre Magi,Mid Lane,4,7,25,8.0,36,357,506,16.1,Magic Wand,10.0,Soul Ring,19.0,Arcane Boots,21.0,Ghost Scepter,28.0,Meteor Hammer,33.0,,
+24,PSG.LGD,1,PSG.LGD.fy,Grimstroke,Roaming,6,4,24,14.4,122,477,582,22.1,Magic Wand,10.0,Urn of Shadows,15.0,Aether Lens,17.0,Aghanim's Scepter,25.0,Gem of True Sight,30.0,Boots of Travel,31.0
+24,PSG.LGD,1,PSG.LGD.Chalice,Doom,Off Lane,3,7,24,15.8,159,521,692,21.4,Phase Boots,10.0,Vladmir's Offering,12.0,Magic Wand,13.0,Crimson Guard,24.0,Black King Bar,29.0,Blink Dagger,31.0
+25,PSG.LGD,1,PSG.LGD.Ame,Morphling,Safe Lane,11,0,10,15.9,204,657,754,18.6,Magic Wand,4.0,Wraith Band,4.0,Wraith Band,7.0,Power Treads,11.0,Linken's Sphere,17.0,Ethereal Blade,23.0
+25,PSG.LGD,1,PSG.LGD.Maybe,Mars,Mid Lane,12,1,7,14.4,149,581,682,15.7,Bracer,5.0,Magic Wand,8.0,Phase Boots,11.0,Blink Dagger,13.0,Desolator,18.0,Black King Bar,24.0
+25,PSG.LGD,1,PSG.LGD.xNova,Earth Spirit,Off Lane,4,2,21,4.8,17,307,423,10.1,Clarity,3.0,Magic Wand,12.0,Arcane Boots,17.0,Urn of Shadows,20.0,Cloak,25.0,,
+25,PSG.LGD,1,PSG.LGD.fy,Rubick,Safe Lane,3,2,14,7.5,56,333,419,11.2,Boots of Speed,1.0,Magic Stick,4.0,Smoke of Deceit,10.0,Aether Lens,14.0,Blink Dagger,20.0,,
+25,PSG.LGD,1,PSG.LGD.Chalice,Dark Seer,Off Lane,2,2,23,11.3,165,463,571,9.5,Soul Ring,3.0,Helm of the Dominator,7.0,Guardian Greaves,22.0,,,,,,
+26,PSG.LGD,1,PSG.LGD.Ame,Sven,Safe Lane,7,4,7,17.1,303,639,722,17.2,Power Treads,3.0,Mask of Madness,10.0,Sange and Yasha,18.0,Blink Dagger,22.0,Black King Bar,27.0,Crystalys,29.0
+26,PSG.LGD,1,PSG.LGD.Maybe,Templar Assassin,Mid Lane,12,3,7,20.7,343,726,818,23.4,Power Treads,7.0,Desolator,12.0,Blink Dagger,16.0,Aegis of the Immortal,18.0,Black King Bar,20.0,Butterfly,26.0
+26,PSG.LGD,1,PSG.LGD.xNova,Ancient Apparition,Safe Lane,3,6,18,5.7,42,317,325,8.9,Magic Stick,10.0,Arcane Boots,16.0,Urn of Shadows,21.0,Glimmer Cape,27.0,Gem of True Sight,30.0,,
+26,PSG.LGD,1,PSG.LGD.fy,Nyx Assassin,Jungle,-,4,16,7.7,20,276,555,6.1,Tranquil Boots,10.0,Magic Wand,16.0,Aghanim's Scepter,30.0,,,,,,
+26,PSG.LGD,1,PSG.LGD.Chalice,Dark Seer,Jungle,6,3,16,15.6,262,547,646,13.3,Soul Ring,2.0,Helm of the Dominator,7.0,Guardian Greaves,19.0,Crimson Guard,25.0,Blink Dagger,29.0,,
+27,PSG.LGD,1,PSG.LGD.Ame,Naga Siren,Safe Lane,5,1,13,20.6,345,681,734,16.2,Wraith Band,2.0,Power Treads,9.0,Manta Style,16.0,Eye of Skadi,23.0,Diffusal Blade,29.0,Eaglesong,30.0
+27,PSG.LGD,1,PSG.LGD.xNova,Shadow Shaman,Safe Lane,1,4,16,5.4,32,268,416,9.9,Smoke of Deceit,2.0,Observer Ward,5.0,Tranquil Boots,14.0,Magic Wand,16.0,Aether Lens,26.0,,
+27,PSG.LGD,1,PSG.LGD.fy,Pangolier,Off Lane,9,3,16,11.3,102,397,558,16.3,Javelin,5.0,Smoke of Deceit,19.0,Guardian Greaves,24.0,Blink Dagger,28.0,Blade of Alacrity,30.0,,
+27,PSG.LGD,1,PSG.LGD.Maybe,Storm Spirit,Mid Lane,13,0,13,18.9,265,620,747,18.4,Bottle,2.0,Power Treads,10.0,Bloodstone,18.0,Orchid Malevolence,23.0,Kaya,26.0,Black King Bar,30.0
+27,PSG.LGD,1,PSG.LGD.Chalice,Mars,Off Lane,8,3,24,14.4,202,528,634,23.2,Vladmir's Offering,8.0,Phase Boots,11.0,Soul Ring,14.0,Blink Dagger,18.0,Desolator,24.0,Gem of True Sight,30.0
+28,PSG.LGD,0,PSG.LGD.Ame,Bloodseeker,Safe Lane,5,7,10,17.3,289,489,606,18.1,Magic Wand,3.0,Power Treads,8.0,Blade Mail,16.0,Black King Bar,22.0,Aghanim's Scepter,31.0,Platemail,33.0
+28,PSG.LGD,0,PSG.LGD.Maybe,Outworld Devourer,Mid Lane,5,7,8,20.3,359,564,616,19.0,Hand of Midas,9.0,Power Treads,11.0,Black King Bar,21.0,Scythe of Vyse,31.0,Yasha and Kaya,35.0,Blink Dagger,39.0
+28,PSG.LGD,0,PSG.LGD.xNova,Disruptor,Safe Lane,1,12,6,2.8,39,190,239,11.4,Magic Stick,2.0,Wind Lace,13.0,Tranquil Boots,15.0,Cloak,39.0,,,,
+28,PSG.LGD,0,PSG.LGD.fy,Io,Safe Lane,-,9,13,7.9,106,248,418,11.1,Magic Stick,1.0,Soul Ring,7.0,Urn of Shadows,13.0,Guardian Greaves,36.0,,,,
+28,PSG.LGD,0,PSG.LGD.Chalice,Sand King,Off Lane,4,8,9,13.0,201,406,611,24.3,Bracer,6.0,Bracer,8.0,Blink Dagger,15.0,Tranquil Boots,17.0,Crimson Guard,24.0,Lotus Orb,35.0
+29,PSG.LGD,0,PSG.LGD.Ame,Lifestealer,Safe Lane,3,5,4,22.6,408,634,728,22.1,Phase Boots,6.0,Hand of Midas,11.0,Radiance,19.0,Linken's Sphere,25.0,Skull Basher,30.0,Assault Cuirass,40.0
+29,PSG.LGD,0,PSG.LGD.Maybe,Invoker,Mid Lane,9,7,7,15.4,222,484,484,25.0,Magic Wand,4.0,Phase Boots,9.0,Urn of Shadows,12.0,Hand of Midas,16.0,Aghanim's Scepter,22.0,Scythe of Vyse,37.0
+29,PSG.LGD,0,PSG.LGD.xNova,Grimstroke,Roaming,1,15,17,6.0,51,307,343,12.1,Sentry Ward,1.0,Magic Wand,12.0,Enchanted Mango,13.0,Glimmer Cape,25.0,Tranquil Boots,29.0,Force Staff,41.0
+29,PSG.LGD,0,PSG.LGD.fy,Shadow Demon,Off Lane,4,10,13,7.9,64,270,403,15.3,Boots of Speed,1.0,Magic Wand,11.0,Aether Lens,17.0,Wind Lace,22.0,Blink Dagger,27.0,Ghost Scepter,37.0
+29,PSG.LGD,0,PSG.LGD.Chalice,Pangolier,Safe Lane,3,11,13,12.5,216,400,420,16.1,Arcane Boots,11.0,Javelin,11.0,Blink Dagger,22.0,Eul's Scepter of Divinity,27.0,Skull Basher,33.0,Point Booster,40.0
+30,PSG.LGD,0,PSG.LGD.Ame,Naga Siren,Mid Lane,-,5,3,15.4,357,520,451,10.4,Wraith Band,2.0,Wraith Band,3.0,Power Treads,10.0,Manta Style,18.0,Diffusal Blade,21.0,Ultimate Orb,27.0
+30,PSG.LGD,0,PSG.LGD.Maybe,Ursa,Off Lane,6,8,4,13.3,189,416,489,14.6,Phase Boots,7.0,Morbid Mask,8.0,Magic Wand,11.0,Drum of Endurance,11.0,Black King Bar,20.0,Monkey King Bar,32.0
+30,PSG.LGD,0,PSG.LGD.xNova,Jakiro,Safe Lane,-,12,6,1.9,40,189,252,16.6,Observer Ward,0.0,Magic Stick,1.0,Tranquil Boots,18.0,Wind Lace,25.0,,,,
+30,PSG.LGD,0,PSG.LGD.fy,Techies,Safe Lane,3,10,3,7.9,77,272,327,13.8,Soul Ring,5.0,Sentry Ward,12.0,Arcane Boots,12.0,Eul's Scepter of Divinity,23.0,Ghost Scepter,32.0,,
+30,PSG.LGD,0,PSG.LGD.Chalice,Sand King,Safe Lane,3,8,3,7.4,127,297,329,16.3,Magic Stick,2.0,Bracer,4.0,Veil of Discord,13.0,Blink Dagger,18.0,Tranquil Boots,25.0,Point Booster,29.0
+31,PSG.LGD,1,PSG.LGD.Ame,Lone Druid,Safe Lane,1,2,21,25.0,379,698,719,21.4,Boots of Speed,10.0,Clarity,10.0,,,,,,,,
+31,PSG.LGD,1,PSG.LGD.Maybe,Ember Spirit,Mid Lane,12,3,17,21.4,318,610,740,50.1,Phase Boots,9.0,Eul's Scepter of Divinity,16.0,Black King Bar,27.0,Aghanim's Scepter,32.0,Mjollnir,39.0,,
+31,PSG.LGD,1,PSG.LGD.xNova,Nyx Assassin,Jungle,3,10,12,8.7,50,364,527,8.0,Magic Wand,11.0,Urn of Shadows,16.0,Tranquil Boots,23.0,Force Staff,29.0,Lotus Orb,40.0,,
+31,PSG.LGD,1,PSG.LGD.fy,Shadow Shaman,Safe Lane,5,10,17,10.0,81,336,367,9.7,Aether Lens,11.0,Tranquil Boots,14.0,Magic Stick,14.0,Blink Dagger,25.0,Aeon Disk,36.0,Ghost Scepter,41.0
+31,PSG.LGD,1,PSG.LGD.Chalice,Dark Seer,Roaming,10,4,21,20.1,288,547,676,27.2,Soul Ring,3.0,Helm of the Dominator,10.0,Magic Stick,14.0,Guardian Greaves,25.0,Crimson Guard,30.0,Lotus Orb,36.0
+32,PSG.LGD,1,PSG.LGD.Ame,Sven,Safe Lane,8,4,8,23.5,373,585,694,24.8,Power Treads,7.0,Mask of Madness,12.0,Heaven's Halberd,21.0,Black King Bar,27.0,Blink Dagger,32.0,Assault Cuirass,39.0
+32,PSG.LGD,1,PSG.LGD.Maybe,Alchemist,Mid Lane,3,3,19,31.1,459,934,718,43.7,Radiance,15.0,Manta Style,19.0,Shiva's Guard,25.0,Black King Bar,31.0,Mjollnir,35.0,Boots of Travel,37.0
+32,PSG.LGD,1,PSG.LGD.xNova,Jakiro,Safe Lane,4,14,15,4.5,76,261,340,17.9,Observer and Sentry Wards,0.0,Magic Stick,1.0,Smoke of Deceit,3.0,Arcane Boots,20.0,Ghost Scepter,35.0,Cloak,40.0
+32,PSG.LGD,1,PSG.LGD.fy,Rubick,Mid Lane,5,4,21,12.6,94,326,453,20.4,Aether Lens,10.0,Blink Dagger,21.0,Ghost Scepter,27.0,Gem of True Sight,30.0,Aghanim's Scepter,40.0,,
+32,PSG.LGD,1,PSG.LGD.Chalice,Doom,Off Lane,12,7,12,24.8,184,533,635,29.1,Phase Boots,6.0,Vladmir's Offering,13.0,Crimson Guard,23.0,Blink Dagger,30.0,Lotus Orb,34.0,Refresher Orb,40.0
+33,PSG.LGD,1,PSG.LGD.Ame,Wraith King,Safe Lane,3,2,8,17.1,265,619,595,7.3,Quelling Blade,0.0,Magic Stick,3.0,Power Treads,8.0,Drum of Endurance,10.0,Radiance,19.0,Shiva's Guard,24.0
+33,PSG.LGD,1,PSG.LGD.Maybe,Arc Warden,Mid Lane,8,1,2,19.3,250,705,675,16.4,Wraith Band,1.0,Wraith Band,3.0,Hand of Midas,11.0,Mjollnir,19.0,Boots of Travel,21.0,Manta Style,26.0
+33,PSG.LGD,1,PSG.LGD.xNova,Chen,Safe Lane,-,3,9,4.5,39,235,327,4.0,Sentry Ward,0.0,Medallion of Courage,6.0,Boots of Speed,13.0,Infused Raindrops,15.0,Headdress,22.0,Vladmir's Offering,25.0
+33,PSG.LGD,1,PSG.LGD.fy,Earthshaker,Off Lane,3,5,11,6.8,57,291,400,7.2,Tranquil Boots,5.0,Soul Ring,6.0,Sentry Ward,8.0,Blink Dagger,14.0,Smoke of Deceit,23.0,Point Booster,26.0
+33,PSG.LGD,1,PSG.LGD.Chalice,Batrider,Off Lane,5,0,13,11.6,157,449,541,12.9,Boots of Travel,7.0,Drum of Endurance,12.0,Blink Dagger,17.0,Eul's Scepter of Divinity,22.0,,,,
+34,PSG.LGD,1,PSG.LGD.Ame,Morphling,,11,0,8,31.5,433,753,785,38.7,,,,,,,,,,,,
+34,PSG.LGD,1,PSG.LGD.Maybe,Leshrac,,8,4,12,24.9,396,649,683,30.6,,,,,,,,,,,,
+34,PSG.LGD,1,PSG.LGD.xNova,Shadow Shaman,,3,8,13,5.1,48,279,326,8.3,,,,,,,,,,,,
+34,PSG.LGD,1,PSG.LGD.fy,Pangolier,,3,10,19,11.8,106,340,490,18.0,,,,,,,,,,,,
+34,PSG.LGD,1,PSG.LGD.Chalice,Nature's Prophet,,7,1,22,22.2,340,594,580,26.2,,,,,,,,,,,,
+35,PSG.LGD,1,PSG.LGD.Ame,Lone Druid,,4,0,4,13.3,190,625,541,13.4,,,,,,,,,,,,
+35,PSG.LGD,1,PSG.LGD.Maybe,Storm Spirit,,7,0,5,11.8,168,578,626,14.6,,,,,,,,,,,,
+35,PSG.LGD,1,PSG.LGD.xNova,Earth Spirit,,2,3,12,2.9,4,244,266,7.5,,,,,,,,,,,,
+35,PSG.LGD,1,PSG.LGD.fy,Shadow Shaman,,1,5,8,5.6,32,279,336,4.6,,,,,,,,,,,,
+35,PSG.LGD,1,PSG.LGD.Chalice,Dark Seer,,7,0,9,10.1,139,496,494,12.7,,,,,,,,,,,,
+36,PSG.LGD,1,PSG.LGD.Ame,Lycan,,12,5,6,12.0,116,621,472,12.1,,,,,,,,,,,,
+36,PSG.LGD,1,PSG.LGD.Maybe,Medusa,,3,0,13,12.8,177,623,670,13.9,,,,,,,,,,,,
+36,PSG.LGD,1,PSG.LGD.xNova,Disruptor,,-,3,16,3.5,11,279,325,6.3,,,,,,,,,,,,
+36,PSG.LGD,1,PSG.LGD.fy,Pangolier,,2,3,9,6.9,52,366,357,7.5,,,,,,,,,,,,
+36,PSG.LGD,1,PSG.LGD.Chalice,Batrider,,7,2,15,9.0,77,455,467,10.7,,,,,,,,,,,,
+37,PSG.LGD,1,PSG.LGD.Ame,Naga Siren,,5,0,5,20.2,369,715,698,13.5,,,,,,,,,,,,
+37,PSG.LGD,1,PSG.LGD.Maybe,Sniper,,7,2,6,15.5,231,542,525,14.8,,,,,,,,,,,,
+37,PSG.LGD,1,PSG.LGD.xNova,Jakiro,,-,2,13,3.8,37,232,323,4.9,,,,,,,,,,,,
+37,PSG.LGD,1,PSG.LGD.fy,Doom,,3,2,11,10.4,99,388,426,9.0,,,,,,,,,,,,
+37,PSG.LGD,1,PSG.LGD.Chalice,Batrider,,4,0,6,11.9,175,429,554,10.3,,,,,,,,,,,,
+38,PSG.LGD,1,PSG.LGD.Ame,Morphling,,4,2,7,29.6,463,684,649,36.3,,,,,,,,,,,,
+38,PSG.LGD,1,PSG.LGD.Maybe,Necrophos,,7,4,10,23.6,381,539,556,24.6,,,,,,,,,,,,
+38,PSG.LGD,1,PSG.LGD.xNova,Lion,,2,5,7,6.7,68,304,318,4.4,,,,,,,,,,,,
+38,PSG.LGD,1,PSG.LGD.fy,Doom,,2,2,9,17.4,163,406,399,13.3,,,,,,,,,,,,
+38,PSG.LGD,1,PSG.LGD.Chalice,Pugna,,3,5,6,15.9,197,397,415,21.5,,,,,,,,,,,,
+39,PSG.LGD,0,PSG.LGD.Ame,Razor,,5,5,7,16.9,345,540,645,18.1,,,,,,,,,,,,
+39,PSG.LGD,0,PSG.LGD.Maybe,Queen of Pain,,8,4,8,19.4,326,566,712,16.4,,,,,,,,,,,,
+39,PSG.LGD,0,PSG.LGD.xNova,Bane,,2,3,8,2.8,33,208,307,5.0,,,,,,,,,,,,
+39,PSG.LGD,0,PSG.LGD.fy,Enigma,,8,7,10,14.7,203,463,451,16.4,,,,,,,,,,,,
+39,PSG.LGD,0,PSG.LGD.Chalice,Tidehunter,,1,6,13,13.8,264,433,645,19.1,,,,,,,,,,,,
+40,PSG.LGD,1,PSG.LGD.Ame,Sven,,7,1,9,16.0,246,626,668,13.6,,,,,,,,,,,,
+40,PSG.LGD,1,PSG.LGD.Maybe,Medusa,,9,0,7,19.6,284,768,810,17.4,,,,,,,,,,,,
+40,PSG.LGD,1,PSG.LGD.xNova,Lion,,4,3,12,4.3,14,283,342,6.2,,,,,,,,,,,,
+40,PSG.LGD,1,PSG.LGD.fy,Pangolier,,5,1,13,9.6,79,393,520,15.1,,,,,,,,,,,,
+40,PSG.LGD,1,PSG.LGD.Chalice,Nature's Prophet,,-,3,19,10.8,151,478,497,16.3,,,,,,,,,,,,
+41,PSG.LGD,1,PSG.LGD.Ame,Sven,,6,2,11,23.0,365,615,737,15.3,,,,,,,,,,,,
+41,PSG.LGD,1,PSG.LGD.Maybe,Arc Warden,,10,0,5,29.8,362,794,721,40.9,,,,,,,,,,,,
+41,PSG.LGD,1,PSG.LGD.xNova,Disruptor,,-,4,13,5.3,50,264,359,5.1,,,,,,,,,,,,
+41,PSG.LGD,1,PSG.LGD.fy,Doom,,4,3,11,14.1,113,393,435,8.6,,,,,,,,,,,,
+41,PSG.LGD,1,PSG.LGD.Chalice,Nature's Prophet,,3,2,14,20.4,299,562,625,12.7,,,,,,,,,,,,
+42,PSG.LGD,0,PSG.LGD.Ame,Phantom Assassin,Safe Lane,7,1,5,22.8,476,636,518,28.0,Magic Wand,3.0,Power Treads,7.0,Black King Bar,18.0,Manta Style,24.0,Desolator,27.0,Satanic,35.0
+42,PSG.LGD,0,PSG.LGD.Maybe,Lina,Mid Lane,3,7,5,12.1,265,401,398,19.3,Null Talisman,2.0,Eul's Scepter of Divinity,15.0,Aether Lens,19.0,Phase Boots,21.0,Aghanim's Scepter,33.0,,
+42,PSG.LGD,0,PSG.LGD.xNova,Grimstroke,Safe Lane,1,14,11,1.6,33,202,222,7.1,Magic Stick,1.0,Sentry Ward,1.0,Tranquil Boots,38.0,,,,,,
+42,PSG.LGD,0,PSG.LGD.fy,Magnus,Roaming,2,4,6,7.4,51,207,306,4.3,Magic Stick,1.0,Arcane Boots,3.0,Blink Dagger,17.0,Observer Ward,18.0,Shadow Blade,37.0,Clarity,37.0
+42,PSG.LGD,0,PSG.LGD.Chalice,Doom,Safe Lane,2,5,10,11.6,142,398,444,10.6,Phase Boots,10.0,Dust of Appearance,12.0,Black King Bar,23.0,Vladmir's Offering,28.0,Blink Dagger,35.0,Platemail,38.0
+43,PSG.LGD,1,PSG.LGD.Ame,Monkey King,Safe Lane,5,5,18,26.3,408,608,584,45.7,Echo Sabre,14.0,Heaven's Halberd,25.0,Radiance,35.0,Ghost Scepter,41.0,Black King Bar,46.0,Refresher Orb,54.0
+43,PSG.LGD,1,PSG.LGD.Maybe,Medusa,Mid Lane,10,4,12,33.4,683,761,699,47.5,Manta Style,16.0,Butterfly,22.0,Eye of Skadi,29.0,Monkey King Bar,35.0,Satanic,41.0,Boots of Travel,53.0
+43,PSG.LGD,1,PSG.LGD.xNova,Witch Doctor,Safe Lane,8,10,15,6.8,33,316,345,17.7,Magic Stick,2.0,Smoke of Deceit,2.0,Arcane Boots,10.0,Force Staff,45.0,,,,
+43,PSG.LGD,1,PSG.LGD.fy,Earthshaker,Off Lane,1,5,18,11.9,50,252,437,20.4,Tranquil Boots,6.0,Magic Wand,8.0,Blink Dagger,19.0,Force Staff,30.0,Ghost Scepter,38.0,Gem of True Sight,53.0
+43,PSG.LGD,1,PSG.LGD.Chalice,Nature's Prophet,Off Lane,4,2,22,26.8,422,546,505,31.5,Power Treads,6.0,Vladmir's Offering,15.0,Crimson Guard,23.0,Scythe of Vyse,30.0,Heaven's Halberd,40.0,Assault Cuirass,47.0
+44,PSG.LGD,0,PSG.LGD.Ame,Ursa,Off Lane,8,4,3,20.4,349,571,573,21.2,Phase Boots,4.0,Drum of Endurance,9.0,Diffusal Blade,15.0,Black King Bar,22.0,Blink Dagger,31.0,Abyssal Blade,36.0
+44,PSG.LGD,0,PSG.LGD.Maybe,Templar Assassin,Mid Lane,4,4,6,24.1,420,585,612,20.6,Power Treads,8.0,Desolator,15.0,Blink Dagger,21.0,Hurricane Pike,25.0,Black King Bar,30.0,Scythe of Vyse,39.0
+44,PSG.LGD,0,PSG.LGD.xNova,Abaddon,Roaming,-,7,12,2.9,42,217,288,10.9,Observer and Sentry Wards,0.0,Smoke of Deceit,3.0,Tranquil Boots,18.0,Magic Wand,23.0,Quelling Blade,37.0,,
+44,PSG.LGD,0,PSG.LGD.fy,Shadow Shaman,Safe Lane,2,8,4,10.4,110,290,334,12.6,Magic Stick,2.0,Smoke of Deceit,11.0,Aether Lens,15.0,Tranquil Boots,17.0,Blink Dagger,28.0,Black King Bar,41.0
+44,PSG.LGD,0,PSG.LGD.Chalice,Beastmaster,Safe Lane,2,8,11,12.8,209,379,547,11.6,Quelling Blade,3.0,Phase Boots,10.0,Vladmir's Offering,16.0,Solar Crest,27.0,Blink Dagger,32.0,Force Staff,36.0
+45,PSG.LGD,1,PSG.LGD.Ame,Ember Spirit,Safe Lane,7,0,11,20.1,275,589,654,29.0,Phase Boots,9.0,Drum of Endurance,13.0,Radiance,23.0,Lotus Orb,28.0,Aegis of the Immortal,32.0,Soul Booster,32.0
+45,PSG.LGD,1,PSG.LGD.Maybe,Queen of Pain,Mid Lane,9,1,9,20.1,275,592,632,32.1,Null Talisman,1.0,Magic Wand,8.0,Power Treads,9.0,Orchid Malevolence,19.0,Shiva's Guard,25.0,Linken's Sphere,31.0
+45,PSG.LGD,1,PSG.LGD.xNova,Abaddon,Safe Lane,1,8,13,4.1,28,235,374,7.2,Smoke of Deceit,2.0,Magic Wand,11.0,Tranquil Boots,30.0,Ghost Scepter,33.0,,,,
+45,PSG.LGD,1,PSG.LGD.fy,Pangolier,Roaming,5,4,12,11.5,140,355,488,10.9,Magic Stick,1.0,Javelin,8.0,Guardian Greaves,25.0,Smoke of Deceit,25.0,Blink Dagger,31.0,,
+45,PSG.LGD,1,PSG.LGD.Chalice,Nature's Prophet,Off Lane,2,2,16,18.0,229,535,484,21.2,Phase Boots,5.0,Drum of Endurance,13.0,Hand of Midas,17.0,Vladmir's Offering,22.0,Crimson Guard,28.0,Scythe of Vyse,33.0
+46,PSG.LGD,1,PSG.LGD.Ame,Morphling,Off Lane,11,0,3,26.6,398,757,691,17.4,Power Treads,6.0,Ethereal Blade,16.0,Linken's Sphere,21.0,Manta Style,26.0,Black King Bar,31.0,Eye of Skadi,37.0
+46,PSG.LGD,1,PSG.LGD.Maybe,Storm Spirit,Mid Lane,12,3,12,22.5,371,666,768,21.6,Bottle,3.0,Power Treads,10.0,Kaya,15.0,Bloodstone,21.0,Orchid Malevolence,27.0,Black King Bar,32.0
+46,PSG.LGD,1,PSG.LGD.xNova,Vengeful Spirit,Off Lane,1,2,18,6.0,50,278,387,5.6,Smoke of Deceit,3.0,Enchanted Mango,11.0,Infused Raindrops,14.0,Magic Wand,21.0,Tranquil Boots,23.0,Aether Lens,33.0
+46,PSG.LGD,1,PSG.LGD.fy,Pangolier,Safe Lane,3,0,18,14.2,166,424,606,11.7,Javelin,7.0,Magic Wand,20.0,Dust of Appearance,20.0,Guardian Greaves,24.0,Blink Dagger,29.0,Gem of True Sight,34.0
+46,PSG.LGD,1,PSG.LGD.Chalice,Nature's Prophet,Safe Lane,5,3,18,21.6,344,638,629,16.9,Power Treads,5.0,Magic Wand,7.0,Drum of Endurance,11.0,Vladmir's Offering,15.0,Pipe of Insight,20.0,Scythe of Vyse,28.0
+47,PSG.LGD,0,PSG.LGD.Ame,Faceless Void,Safe Lane,4,6,6,18.3,332,506,547,17.5,Mask of Madness,6.0,Power Treads,8.0,Magic Wand,9.0,Black King Bar,18.0,Mjollnir,31.0,Monkey King Bar,38.0
+47,PSG.LGD,0,PSG.LGD.Maybe,Storm Spirit,Mid Lane,9,3,7,23.0,371,578,682,44.7,Bottle,2.0,Power Treads,10.0,Kaya,13.0,Black King Bar,28.0,Bloodstone,33.0,Bloodthorn,37.0
+47,PSG.LGD,0,PSG.LGD.xNova,Bane,Roaming,1,4,9,3.4,33,223,338,6.8,Boots of Speed,6.0,Observer and Sentry Wards,7.0,Magic Stick,17.0,Quelling Blade,25.0,Force Staff,36.0,,
+47,PSG.LGD,0,PSG.LGD.fy,Sand King,Off Lane,1,8,11,8.1,89,245,347,23.9,Tranquil Boots,8.0,Magic Wand,10.0,Blink Dagger,21.0,Eul's Scepter of Divinity,36.0,,,,
+47,PSG.LGD,0,PSG.LGD.Chalice,Nature's Prophet,Off Lane,4,5,13,21.6,364,563,541,40.4,Power Treads,5.0,Vladmir's Offering,10.0,Pipe of Insight,18.0,Mjollnir,29.0,Assault Cuirass,36.0,Black King Bar,40.0
+48,PSG.LGD,1,PSG.LGD.Ame,Drow Ranger,Off Lane,9,3,14,27.3,480,665,660,34.3,Power Treads,7.0,Hurricane Pike,15.0,Butterfly,23.0,Satanic,32.0,Shadow Blade,36.0,Manta Style,46.0
+48,PSG.LGD,1,PSG.LGD.Maybe,Storm Spirit,Mid Lane,9,6,17,25.2,442,609,640,31.3,Power Treads,9.0,Kaya,15.0,Bloodstone,20.0,Black King Bar,25.0,Shiva's Guard,32.0,Scythe of Vyse,48.0
+48,PSG.LGD,1,PSG.LGD.xNova,Bane,Jungle,-,9,20,4.4,40,234,461,3.8,Magic Stick,2.0,Smoke of Deceit,2.0,Boots of Speed,15.0,Quelling Blade,32.0,,,,
+48,PSG.LGD,1,PSG.LGD.fy,Nyx Assassin,Off Lane,1,7,12,9.3,26,269,438,10.1,Magic Wand,10.0,Tranquil Boots,16.0,Eul's Scepter of Divinity,30.0,Ghost Scepter,36.0,,,,
+48,PSG.LGD,1,PSG.LGD.Chalice,Necrophos,Safe Lane,7,9,14,19.5,301,481,561,24.7,Magic Wand,12.0,Wind Lace,21.0,Guardian Greaves,22.0,Force Staff,27.0,Aeon Disk,36.0,Blink Dagger,44.0
+49,PSG.LGD,1,PSG.LGD.Ame,Sven,Safe Lane,6,1,11,20.1,353,599,702,22.7,Power Treads,4.0,Magic Wand,6.0,Mask of Madness,11.0,Sange and Yasha,19.0,Black King Bar,26.0,Assault Cuirass,33.0
+49,PSG.LGD,1,PSG.LGD.Maybe,Medusa,Mid Lane,5,1,9,22.4,414,659,746,27.4,Phase Boots,10.0,Manta Style,17.0,Eye of Skadi,24.0,Butterfly,30.0,Aegis of the Immortal,33.0,Mask of Madness,34.0
+49,PSG.LGD,1,PSG.LGD.xNova,Grimstroke,Safe Lane,4,6,10,5.2,53,284,278,6.9,Smoke of Deceit,3.0,Magic Wand,14.0,Arcane Boots,18.0,Glimmer Cape,30.0,Ghost Scepter,36.0,,
+49,PSG.LGD,1,PSG.LGD.fy,Sand King,Off Lane,4,6,12,8.1,77,301,477,14.7,Magic Wand,10.0,Tranquil Boots,15.0,Blink Dagger,21.0,Eul's Scepter of Divinity,29.0,,,,
+49,PSG.LGD,1,PSG.LGD.Chalice,Dark Seer,Off Lane,2,2,16,15.4,273,480,574,14.4,Soul Ring,3.0,Helm of the Dominator,11.0,Guardian Greaves,22.0,Crimson Guard,27.0,Hood of Defiance,34.0,Gem of True Sight,36.0
+50,PSG.LGD,1,PSG.LGD.Ame,Faceless Void,Safe Lane,7,0,8,17.7,239,654,693,10.0,Power Treads,5.0,Mask of Madness,9.0,Aegis of the Immortal,16.0,Mjollnir,17.0,Black King Bar,22.0,Ultimate Orb,25.0
+50,PSG.LGD,1,PSG.LGD.Maybe,Storm Spirit,Mid Lane,8,2,18,14.4,212,581,713,17.8,Magic Wand,7.0,Power Treads,9.0,Kaya,12.0,Bloodstone,20.0,Orchid Malevolence,26.0,,
+50,PSG.LGD,1,PSG.LGD.xNova,Witch Doctor,Jungle,9,2,11,5.7,33,349,376,5.5,Observer and Sentry Wards,0.0,Magic Stick,1.0,Smoke of Deceit,3.0,Arcane Boots,11.0,Glimmer Cape,21.0,Gem of True Sight,24.0
+50,PSG.LGD,1,PSG.LGD.fy,Pangolier,Off Lane,7,1,13,11.7,113,452,607,16.5,Magic Stick,0.0,Javelin,6.0,Blink Dagger,17.0,Guardian Greaves,24.0,Void Stone,24.0,,
+50,PSG.LGD,1,PSG.LGD.Chalice,Nature's Prophet,Off Lane,2,5,22,10.7,158,459,439,15.3,Magic Wand,4.0,Power Treads,7.0,Spirit Vessel,13.0,Vladmir's Offering,18.0,Pipe of Insight,25.0,,
+1,Evil Geniuses,0,EG.Arteezy,Juggernaut,Off Lane,9,2,15,39.3,579,704,650,44.2,Mjollnir,24.0,Butterfly,31.0,Skull Basher,40.0,Boots of Travel,42.0,Battle Fury,45.0,Monkey King Bar,50.0
+1,Evil Geniuses,0,EG.Suma1L,Alchemist,Mid Lane,14,4,11,35.0,646,1.1k,679,41.1,Radiance,11.0,Blink Dagger,14.0,Assault Cuirass,43.0,Monkey King Bar,43.0,Black King Bar,47.0,Mjollnir,50.0
+1,Evil Geniuses,0,EG.Fly,Oracle,Off Lane,2,9,19,6.6,42,269,465,10.5,Observer and Sentry Wards,8.0,Magic Wand,15.0,Quelling Blade,27.0,Force Staff,29.0,Tranquil Boots,35.0,Ghost Scepter,41.0
+1,Evil Geniuses,0,EG.s4,Batrider,Safe Lane,2,7,22,11.6,148,296,461,15.7,Magic Stick,2.0,Boots of Travel,12.0,Blink Dagger,19.0,Force Staff,30.0,Eul's Scepter of Divinity,42.0,,
+1,Evil Geniuses,0,EG.Cr1t-,Tusk,Off Lane,5,8,20,12.3,65,311,431,15.8,Medallion of Courage,11.0,Vladmir's Offering,22.0,Force Staff,29.0,Tranquil Boots,29.0,Blink Dagger,40.0,Ghost Scepter,48.0
+2,Evil Geniuses,0,EG.Arteezy,Lifestealer,Off Lane,8,5,7,18.4,317,595,670,31.3,Phase Boots,8.0,Radiance,20.0,Armlet of Mordiggian,22.0,Assault Cuirass,27.0,Skull Basher,37.0,,
+2,Evil Geniuses,0,EG.Suma1L,Storm Spirit,Mid Lane,2,8,7,15.1,316,478,615,13.9,Bottle,5.0,Power Treads,8.0,Kaya,15.0,Eul's Scepter of Divinity,20.0,Point Booster,24.0,Aghanim's Scepter,27.0
+2,Evil Geniuses,0,EG.Fly,Warlock,Roaming,4,5,9,5.7,57,284,418,14.8,Observer and Sentry Wards,0.0,Boots of Speed,4.0,Tome of Knowledge,10.0,Magic Wand,12.0,Force Staff,21.0,Ghost Scepter,41.0
+2,Evil Geniuses,0,EG.s4,Mars,Safe Lane,1,12,11,8.9,132,312,393,17.3,Phase Boots,6.0,Soul Ring,7.0,Blink Dagger,13.0,Vladmir's Offering,20.0,Magic Wand,24.0,Ogre Axe,28.0
+2,Evil Geniuses,0,EG.Cr1t-,Tusk,Off Lane,2,14,8,7.5,30,253,286,10.3,Phase Boots,13.0,Magic Wand,18.0,Dust of Appearance,19.0,Medallion of Courage,21.0,Blink Dagger,27.0,,
+3,Evil Geniuses,0,EG.Arteezy,Terrorblade,Off Lane,-,5,6,13.7,299,548,494,9.7,Wraith Band,5.0,Power Treads,6.0,Magic Wand,6.0,Drum of Endurance,9.0,Manta Style,18.0,Black King Bar,24.0
+3,Evil Geniuses,0,EG.Suma1L,Clinkz,Mid Lane,4,5,3,9.7,141,373,355,15.1,Wraith Band,1.0,Wraith Band,4.0,Blight Stone,6.0,Power Treads,12.0,Aghanim's Scepter,26.0,Yasha,28.0
+3,Evil Geniuses,0,EG.Fly,Abaddon,Roaming,2,5,8,2.9,49,226,242,6.7,Smoke of Deceit,4.0,Observer and Sentry Wards,6.0,Tranquil Boots,13.0,Quelling Blade,14.0,Magic Wand,15.0,,
+3,Evil Geniuses,0,EG.s4,Sand King,Safe Lane,2,9,5,8.6,139,377,492,18.3,Quelling Blade,0.0,Magic Stick,2.0,Power Treads,8.0,Blink Dagger,13.0,Solar Crest,27.0,,
+3,Evil Geniuses,0,EG.Cr1t-,Shadow Shaman,Off Lane,2,9,6,5.5,52,249,390,5.3,Smoke of Deceit,4.0,Wind Lace,5.0,Magic Wand,12.0,Aether Lens,18.0,Tranquil Boots,22.0,,
+4,Evil Geniuses,0,EG.Arteezy,Wraith King,Safe Lane,1,9,6,12.5,221,440,382,14.7,Quelling Blade,0.0,Magic Wand,5.0,Phase Boots,5.0,Hand of Midas,11.0,Radiance,23.0,Blade Mail,28.0
+4,Evil Geniuses,0,EG.Suma1L,Storm Spirit,Mid Lane,4,7,3,12.8,262,492,658,10.6,Bottle,3.0,Magic Wand,5.0,Power Treads,9.0,Kaya,14.0,Eul's Scepter of Divinity,19.0,Bloodstone,27.0
+4,Evil Geniuses,0,EG.Fly,Ancient Apparition,Safe Lane,1,10,8,3.5,17,213,240,7.3,Smoke of Deceit,4.0,Magic Stick,5.0,Observer and Sentry Wards,6.0,Arcane Boots,18.0,,,,
+4,Evil Geniuses,0,EG.s4,Dark Seer,Off Lane,-,8,4,7.3,125,283,333,7.3,Soul Ring,2.0,Arcane Boots,12.0,Magic Stick,14.0,Pipe of Insight,18.0,Buckler,25.0,,
+4,Evil Geniuses,0,EG.Cr1t-,Tiny,Safe Lane,2,7,2,8.2,107,279,348,7.2,Phase Boots,7.0,Dust of Appearance,10.0,Soul Ring,13.0,Blink Dagger,20.0,Magic Wand,21.0,Echo Sabre,29.0
+5,Evil Geniuses,0,EG.Arteezy,Lifestealer,Safe Lane,4,8,8,12.7,183,472,479,17.9,Phase Boots,6.0,Hand of Midas,10.0,Magic Wand,14.0,Armlet of Mordiggian,16.0,Desolator,21.0,Platemail,25.0
+5,Evil Geniuses,0,EG.Suma1L,Queen of Pain,Mid Lane,4,5,3,11.0,204,429,471,19.3,Null Talisman,2.0,Bottle,6.0,Magic Wand,9.0,Power Treads,11.0,Eul's Scepter of Divinity,17.0,Linken's Sphere,28.0
+5,Evil Geniuses,0,EG.Fly,Grimstroke,Safe Lane,1,5,10,4.7,44,258,289,15.5,Smoke of Deceit,4.0,Observer and Sentry Wards,8.0,Magic Wand,14.0,Aether Lens,25.0,Tranquil Boots,27.0,,
+5,Evil Geniuses,0,EG.s4,Batrider,Off Lane,2,7,7,7.5,87,288,354,14.0,Bottle,4.0,Wind Lace,6.0,Boots of Travel,14.0,Magic Wand,17.0,Blink Dagger,22.0,Crown,27.0
+5,Evil Geniuses,0,EG.Cr1t-,Spirit Breaker,Safe Lane,2,7,8,4.5,18,178,257,7.1,Boots of Speed,2.0,Smoke of Deceit,4.0,Wind Lace,14.0,Magic Wand,15.0,Spirit Vessel,26.0,,
+6,Evil Geniuses,1,EG.Arteezy,Sven,Safe Lane,9,0,11,26.8,393,722,803,29.9,Phase Boots,4.0,Echo Sabre,15.0,Black King Bar,20.0,Blink Dagger,22.0,Bloodthorn,31.0,Assault Cuirass,36.0
+6,Evil Geniuses,1,EG.Suma1L,Morphling,Mid Lane,8,2,10,18.7,334,536,563,26.1,Power Treads,8.0,Morbid Mask,10.0,Manta Style,20.0,Eye of Skadi,31.0,Aegis of the Immortal,33.0,Monkey King Bar,37.0
+6,Evil Geniuses,1,EG.Fly,Grimstroke,Safe Lane,5,4,17,9.8,78,364,399,9.7,Magic Wand,11.0,Aether Lens,18.0,Tranquil Boots,22.0,Glimmer Cape,31.0,,,,
+6,Evil Geniuses,1,EG.s4,Dark Seer,Jungle,6,3,20,15.2,216,416,470,15.4,Soul Ring,5.0,Pipe of Insight,13.0,Magic Wand,18.0,Guardian Greaves,28.0,Blink Dagger,33.0,,
+6,Evil Geniuses,1,EG.Cr1t-,Clockwerk,Safe Lane,4,7,22,9.7,78,301,456,23.0,Tranquil Boots,7.0,Spirit Vessel,19.0,Magic Wand,22.0,Dust of Appearance,31.0,Crimson Guard,36.0,,
+7,Evil Geniuses,1,EG.Arteezy,Sven,Off Lane,9,1,10,17.8,278,778,762,16.1,Phase Boots,5.0,Hand of Midas,10.0,Echo Sabre,14.0,Black King Bar,18.0,Blink Dagger,20.0,Butterfly,24.0
+7,Evil Geniuses,1,EG.Suma1L,Morphling,Mid Lane,6,2,11,13.1,183,594,599,11.7,Wraith Band,1.0,Wraith Band,3.0,Bottle,4.0,Power Treads,9.0,Yasha,12.0,Aghanim's Scepter,20.0
+7,Evil Geniuses,1,EG.Fly,Shadow Shaman,Off Lane,1,0,17,6.1,23,318,486,6.4,Observer and Sentry Wards,8.0,Wind Lace,8.0,Smoke of Deceit,9.0,Arcane Boots,14.0,Magic Wand,16.0,Aether Lens,20.0
+7,Evil Geniuses,1,EG.s4,Omniknight,Safe Lane,1,3,21,9.8,100,427,508,5.2,Phase Boots,5.0,Magic Stick,7.0,Soul Ring,9.0,Vladmir's Offering,14.0,Pipe of Insight,21.0,Medallion of Courage,23.0
+7,Evil Geniuses,1,EG.Cr1t-,Tiny,Safe Lane,11,5,15,9.1,45,415,516,18.5,Phase Boots,8.0,Soul Ring,10.0,Blink Dagger,16.0,Magic Wand,18.0,Echo Sabre,23.0,,
+8,Evil Geniuses,1,EG.Arteezy,Lifestealer,Safe Lane,13,1,9,24.1,274,747,791,29.7,Phase Boots,4.0,Hand of Midas,9.0,Radiance,17.0,Armlet of Mordiggian,21.0,Heart of Tarrasque,26.0,Assault Cuirass,31.0
+8,Evil Geniuses,1,EG.Suma1L,Lina,Mid Lane,9,3,8,19.2,316,630,810,18.3,Eul's Scepter of Divinity,11.0,Aether Lens,16.0,Boots of Travel,19.0,Blink Dagger,22.0,Daedalus,28.0,Dragon Lance,30.0
+8,Evil Geniuses,1,EG.Fly,Warlock,Safe Lane,2,3,18,6.4,53,305,423,7.3,Observer and Sentry Wards,4.0,Boots of Speed,6.0,Smoke of Deceit,11.0,Magic Wand,16.0,Glimmer Cape,23.0,,
+8,Evil Geniuses,1,EG.s4,Dark Seer,Off Lane,1,6,19,12.6,160,418,544,9.0,Soul Ring,4.0,Magic Wand,16.0,Pipe of Insight,20.0,Guardian Greaves,30.0,,,,
+8,Evil Geniuses,1,EG.Cr1t-,Earth Spirit,Mid Lane,3,3,18,8.4,34,293,507,9.9,Spirit Vessel,21.0,Magic Wand,23.0,Arcane Boots,28.0,,,,,,
+9,Evil Geniuses,0,EG.Arteezy,Spectre,Off Lane,2,4,12,18.4,328,521,572,24.0,Soul Ring,6.0,Magic Wand,7.0,Phase Boots,9.0,Radiance,19.0,Manta Style,27.0,Talisman of Evasion,30.0
+9,Evil Geniuses,0,EG.Suma1L,Death Prophet,Roaming,4,4,9,16.4,265,464,460,15.2,Null Talisman,1.0,Phase Boots,5.0,Eul's Scepter of Divinity,10.0,Aghanim's Scepter,24.0,Black King Bar,29.0,Blink Dagger,37.0
+9,Evil Geniuses,0,EG.Fly,Warlock,Off Lane,4,8,10,4.9,59,272,319,17.5,Observer Ward,0.0,Boots of Speed,9.0,Magic Wand,13.0,Hand of Midas,24.0,Point Booster,35.0,,
+9,Evil Geniuses,0,EG.s4,Doom,Safe Lane,6,8,9,12.9,120,404,368,12.4,Phase Boots,6.0,Drum of Endurance,11.0,Magic Wand,11.0,Blink Dagger,19.0,Black King Bar,28.0,Platemail,34.0
+9,Evil Geniuses,0,EG.Cr1t-,Mars,Roaming,3,6,9,7.8,101,272,361,8.1,Phase Boots,8.0,Magic Wand,12.0,Medallion of Courage,16.0,Vladmir's Offering,23.0,Vanguard,32.0,,
+10,Evil Geniuses,1,EG.Arteezy,Spectre,Safe Lane,11,2,11,19.0,324,723,805,21.0,Soul Ring,5.0,Magic Wand,5.0,Phase Boots,10.0,Radiance,18.0,Manta Style,24.0,Butterfly,29.0
+10,Evil Geniuses,1,EG.Suma1L,Storm Spirit,Mid Lane,11,2,14,15.1,285,623,676,18.0,Power Treads,7.0,Kaya,13.0,Eul's Scepter of Divinity,17.0,Orchid Malevolence,23.0,Aegis of the Immortal,28.0,Aghanim's Scepter,30.0
+10,Evil Geniuses,1,EG.Fly,Ancient Apparition,Safe Lane,4,1,20,6.7,31,318,397,7.3,Observer and Sentry Wards,0.0,Smoke of Deceit,3.0,Arcane Boots,11.0,Magic Wand,14.0,Mekansm,23.0,Ghost Scepter,27.0
+10,Evil Geniuses,1,EG.s4,Batrider,Off Lane,2,1,16,12.0,135,417,545,6.8,Bottle,4.0,Boots of Travel,10.0,Blink Dagger,15.0,Magic Wand,16.0,Drum of Endurance,21.0,Platemail,25.0
+10,Evil Geniuses,1,EG.Cr1t-,Mars,Off Lane,4,0,17,10.8,100,397,576,6.9,Phase Boots,9.0,Magic Wand,12.0,Medallion of Courage,15.0,Vladmir's Offering,21.0,Crimson Guard,26.0,Blight Stone,27.0
+11,Evil Geniuses,0,EG.Arteezy,Lifestealer,Off Lane,6,3,4,24.9,405,670,689,19.2,Phase Boots,4.0,Radiance,16.0,Armlet of Mordiggian,19.0,Desolator,23.0,Assault Cuirass,28.0,Abyssal Blade,35.0
+11,Evil Geniuses,0,EG.Suma1L,Leshrac,Mid Lane,7,5,9,19.6,362,539,536,22.2,Bottle,4.0,Kaya,12.0,Black King Bar,19.0,Blink Dagger,23.0,Boots of Travel,27.0,Scythe of Vyse,34.0
+11,Evil Geniuses,0,EG.Fly,Ogre Magi,Jungle,-,7,11,5.4,27,232,264,5.8,Sentry Ward,0.0,Magic Wand,13.0,Dust of Appearance,16.0,Quelling Blade,24.0,Glimmer Cape,29.0,Tranquil Boots,35.0
+11,Evil Geniuses,0,EG.s4,Centaur Warrunner,Safe Lane,2,7,10,14.5,272,411,481,9.3,Magic Stick,1.0,Blink Dagger,15.0,Pipe of Insight,19.0,Aghanim's Scepter,30.0,Boots of Travel,38.0,,
+11,Evil Geniuses,0,EG.Cr1t-,Io,Off Lane,3,6,12,9.2,100,306,549,10.1,Bottle,4.0,Urn of Shadows,8.0,Magic Wand,10.0,Mekansm,25.0,Glimmer Cape,33.0,Force Staff,37.0
+12,Evil Geniuses,1,EG.Arteezy,Sven,Off Lane,8,1,15,22.7,344,722,772,19.0,Phase Boots,7.0,Echo Sabre,17.0,Black King Bar,22.0,Blink Dagger,24.0,Assault Cuirass,30.0,Daedalus,34.0
+12,Evil Geniuses,1,EG.Suma1L,Leshrac,Mid Lane,13,3,11,18.7,284,602,647,29.1,Eul's Scepter of Divinity,12.0,Kaya,16.0,Octarine Core,25.0,Boots of Travel,28.0,Blink Dagger,30.0,Ogre Axe,32.0
+12,Evil Geniuses,1,EG.Fly,Chen,Off Lane,1,3,18,7.5,81,317,462,6.2,Observer and Sentry Wards,0.0,Smoke of Deceit,3.0,Magic Wand,10.0,Dust of Appearance,27.0,Guardian Greaves,31.0,,
+12,Evil Geniuses,1,EG.s4,Doom,Safe Lane,5,2,15,17.9,167,561,713,20.7,Phase Boots,5.0,Drum of Endurance,9.0,Blink Dagger,15.0,Black King Bar,24.0,Shiva's Guard,31.0,,
+12,Evil Geniuses,1,EG.Cr1t-,Grimstroke,Roaming,2,3,18,11.0,92,375,488,13.6,Clarity,5.0,Magic Wand,8.0,Spirit Vessel,20.0,Aether Lens,26.0,Tranquil Boots,26.0,Force Staff,31.0
+13,Evil Geniuses,0,EG.Arteezy,Arc Warden,Off Lane,9,4,11,36.6,551,844,686,57.0,Mjollnir,18.0,Scythe of Vyse,29.0,Ethereal Blade,37.0,Hurricane Pike,39.0,Eye of Skadi,42.0,Boots of Travel,49.0
+13,Evil Geniuses,0,EG.Suma1L,Templar Assassin,Mid Lane,12,5,9,27.7,495,674,729,36.7,Desolator,16.0,Black King Bar,23.0,Hurricane Pike,25.0,Bloodthorn,36.0,Boots of Travel,43.0,Nullifier,48.0
+13,Evil Geniuses,0,EG.Fly,Bane,Off Lane,-,13,13,4.1,30,207,304,5.9,Observer and Sentry Wards,0.0,Magic Wand,9.0,Bracer,13.0,Bracer,21.0,Tranquil Boots,48.0,,
+13,Evil Geniuses,0,EG.s4,Tidehunter,Safe Lane,3,14,12,12.8,177,322,452,12.2,Magic Wand,3.0,Phase Boots,13.0,Pipe of Insight,25.0,Vladmir's Offering,26.0,Force Staff,40.0,Blink Dagger,48.0
+13,Evil Geniuses,0,EG.Cr1t-,Enigma,Roaming,3,11,10,16.9,278,453,506,33.3,Helm of the Dominator,7.0,Tome of Knowledge,10.0,Magic Stick,10.0,Guardian Greaves,25.0,Blink Dagger,34.0,Black King Bar,43.0
+14,Evil Geniuses,1,EG.Arteezy,Naga Siren,Safe Lane,8,1,6,30.7,620,865,656,24.0,Power Treads,8.0,Manta Style,15.0,Diffusal Blade,19.0,Butterfly,23.0,Heart of Tarrasque,28.0,Bloodthorn,37.0
+14,Evil Geniuses,1,EG.Suma1L,Leshrac,Mid Lane,9,2,9,25.5,449,685,787,26.9,Eul's Scepter of Divinity,13.0,Boots of Travel,17.0,Yasha and Kaya,25.0,Black King Bar,29.0,Shiva's Guard,33.0,,
+14,Evil Geniuses,1,EG.Fly,Abaddon,Off Lane,3,5,16,9.1,67,324,620,7.8,Sentry Ward,0.0,Quelling Blade,8.0,Tranquil Boots,13.0,Magic Wand,16.0,Gem of True Sight,24.0,Aether Lens,25.0
+14,Evil Geniuses,1,EG.s4,Mars,Off Lane,9,4,13,17.5,201,479,620,15.5,Soul Ring,6.0,Phase Boots,10.0,Pipe of Insight,16.0,Blink Dagger,20.0,Vladmir's Offering,26.0,Aghanim's Scepter,32.0
+14,Evil Geniuses,1,EG.Cr1t-,Shadow Shaman,Off Lane,3,6,13,10.7,86,331,527,8.0,Magic Stick,0.0,Aether Lens,15.0,Tranquil Boots,20.0,Black King Bar,30.0,,,,
+15,Evil Geniuses,1,EG.Arteezy,Lifestealer,Safe Lane,5,1,15,27.3,389,719,775,23.2,Phase Boots,5.0,Hand of Midas,10.0,Radiance,18.0,Armlet of Mordiggian,21.0,Assault Cuirass,28.0,Abyssal Blade,35.0
+15,Evil Geniuses,1,EG.Suma1L,Leshrac,Mid Lane,12,4,8,22.1,439,706,740,29.7,Eul's Scepter of Divinity,13.0,Yasha and Kaya,21.0,Boots of Travel,23.0,Ghost Scepter,27.0,Octarine Core,32.0,Blink Dagger,37.0
+15,Evil Geniuses,1,EG.Fly,Shadow Demon,Roaming,1,3,15,5.3,50,244,416,5.0,Observer and Sentry Wards,0.0,Smoke of Deceit,5.0,Magic Wand,14.0,Tranquil Boots,15.0,Aether Lens,31.0,,
+15,Evil Geniuses,1,EG.s4,Dark Seer,Off Lane,4,5,17,15.7,198,419,520,11.0,Soul Ring,4.0,Magic Stick,12.0,Guardian Greaves,19.0,Force Staff,24.0,Lotus Orb,37.0,,
+15,Evil Geniuses,1,EG.Cr1t-,Spirit Breaker,Roaming,1,6,17,8.7,40,263,489,10.1,Magic Wand,12.0,Bracer,14.0,Power Treads,20.0,Blade Mail,24.0,Medallion of Courage,27.0,Gem of True Sight,36.0
+16,Evil Geniuses,1,EG.Arteezy,Juggernaut,Safe Lane,10,2,10,34.6,421,705,694,26.8,Phase Boots,5.0,Drum of Endurance,9.0,Manta Style,21.0,Eye of Skadi,27.0,Mjollnir,35.0,Butterfly,40.0
+16,Evil Geniuses,1,EG.Suma1L,Alchemist,Mid Lane,12,1,17,31.0,606,1.2k,749,44.0,Radiance,12.0,Blink Dagger,13.0,Manta Style,17.0,Octarine Core,20.0,Shiva's Guard,24.0,Boots of Travel,45.0
+16,Evil Geniuses,1,EG.Fly,Abaddon,Safe Lane,-,6,21,12.4,50,268,439,8.5,Observer and Sentry Wards,4.0,Tranquil Boots,12.0,Aether Lens,35.0,Arcane Boots,38.0,Vladmir's Offering,40.0,Gem of True Sight,46.0
+16,Evil Geniuses,1,EG.s4,Doom,Off Lane,8,1,17,26.8,179,529,604,19.8,Phase Boots,6.0,Drum of Endurance,13.0,Blink Dagger,17.0,Black King Bar,27.0,Shiva's Guard,37.0,Refresher Orb,45.0
+16,Evil Geniuses,1,EG.Cr1t-,Shadow Shaman,Off Lane,1,7,21,16.8,120,361,609,14.6,Arcane Boots,8.0,Dust of Appearance,15.0,Aether Lens,19.0,Blink Dagger,27.0,Magic Wand,29.0,Refresher Orb,45.0
+17,Evil Geniuses,1,EG.Arteezy,Lifestealer,Off Lane,10,5,10,32.2,516,711,712,40.8,Radiance,20.0,Desolator,25.0,Assault Cuirass,31.0,Linken's Sphere,41.0,Abyssal Blade,51.0,,
+17,Evil Geniuses,1,EG.Suma1L,Queen of Pain,Mid Lane,7,4,15,28.4,594,703,659,54.7,Eul's Scepter of Divinity,20.0,Power Treads,27.0,Mjollnir,31.0,Eye of Skadi,36.0,Bloodthorn,48.0,Nullifier,54.0
+17,Evil Geniuses,1,EG.Fly,Disruptor,Mid Lane,3,8,18,11.1,91,327,455,11.7,Observer Ward,1.0,Magic Wand,12.0,Tranquil Boots,15.0,Aghanim's Scepter,44.0,Force Staff,53.0,,
+17,Evil Geniuses,1,EG.s4,Dark Seer,Jungle,4,8,18,14.1,265,381,489,23.1,Soul Ring,4.0,Pipe of Insight,15.0,Magic Wand,15.0,Guardian Greaves,29.0,Blink Dagger,54.0,,
+17,Evil Geniuses,1,EG.Cr1t-,Nyx Assassin,Off Lane,1,9,15,11.5,57,300,494,12.6,Magic Wand,15.0,Spirit Vessel,25.0,Ghost Scepter,29.0,Blink Dagger,43.0,Tranquil Boots,47.0,Force Staff,53.0
+18,Evil Geniuses,0,EG.Arteezy,Lifestealer,Off Lane,8,4,6,26.0,444,605,668,34.2,Phase Boots,10.0,Radiance,17.0,Heaven's Halberd,22.0,Blink Dagger,29.0,Abyssal Blade,36.0,Assault Cuirass,45.0
+18,Evil Geniuses,0,EG.Suma1L,Shadow Fiend,Mid Lane,3,7,9,20.5,544,541,543,16.4,Boots of Speed,4.0,Eul's Scepter of Divinity,11.0,Blink Dagger,16.0,Black King Bar,24.0,Ethereal Blade,33.0,Scythe of Vyse,41.0
+18,Evil Geniuses,0,EG.Fly,Visage,Safe Lane,1,10,9,5.9,91,223,297,8.8,Boots of Speed,6.0,Smoke of Deceit,7.0,Magic Wand,9.0,Observer and Sentry Wards,12.0,Pipe of Insight,24.0,Medallion of Courage,42.0
+18,Evil Geniuses,0,EG.s4,Puck,Safe Lane,5,4,8,17.2,326,457,568,15.7,Veil of Discord,9.0,Magic Wand,11.0,Blink Dagger,16.0,Eul's Scepter of Divinity,23.0,Aghanim's Scepter,31.0,Boots of Travel,36.0
+18,Evil Geniuses,0,EG.Cr1t-,Earthshaker,Roaming,-,7,10,8.9,88,244,371,9.6,Arcane Boots,6.0,Blink Dagger,17.0,Magic Wand,19.0,Dust of Appearance,22.0,Force Staff,28.0,Observer Ward,44.0
+19,Evil Geniuses,0,EG.Arteezy,Riki,Mid Lane,5,10,13,10.1,138,394,468,23.6,Wraith Band,2.0,Wraith Band,4.0,Power Treads,10.0,Diffusal Blade,19.0,Echo Sabre,22.0,,
+19,Evil Geniuses,0,EG.Suma1L,Phantom Lancer,Safe Lane,19,4,4,20.6,320,699,653,28.1,Power Treads,5.0,Magic Wand,8.0,Diffusal Blade,14.0,Manta Style,16.0,Heart of Tarrasque,22.0,Butterfly,32.0
+19,Evil Geniuses,0,EG.Fly,Crystal Maiden,Mid Lane,3,12,20,5.1,56,333,334,17.7,Observer and Sentry Wards,5.0,Tranquil Boots,5.0,Magic Wand,10.0,Smoke of Deceit,10.0,Wind Lace,10.0,Force Staff,30.0
+19,Evil Geniuses,0,EG.s4,Magnus,Off Lane,7,7,14,8.8,88,345,471,9.8,Quelling Blade,0.0,Magic Wand,9.0,Blink Dagger,23.0,Guardian Greaves,27.0,,,,
+19,Evil Geniuses,0,EG.Cr1t-,Treant Protector,Safe Lane,2,10,17,5.9,21,243,333,7.2,Iron Branch,3.0,Boots of Speed,4.0,Dust of Appearance,13.0,Quelling Blade,14.0,Meteor Hammer,24.0,,
+20,Evil Geniuses,0,EG.Arteezy,Phantom Assassin,Off Lane,-,5,1,10.6,176,419,408,3.3,Wraith Band,3.0,Power Treads,9.0,Battle Fury,17.0,Mithril Hammer,25.0,,,,
+20,Evil Geniuses,0,EG.Suma1L,Outworld Devourer,Mid Lane,-,8,6,8.7,169,404,414,10.4,Null Talisman,1.0,Null Talisman,3.0,Power Treads,7.0,Crown,8.0,Blink Dagger,13.0,Force Staff,20.0
+20,Evil Geniuses,0,EG.Fly,Warlock,Off Lane,2,5,3,2.8,22,222,251,9.4,Clarity,3.0,Observer and Sentry Wards,4.0,Magic Wand,11.0,Arcane Boots,16.0,,,,
+20,Evil Geniuses,0,EG.s4,Sand King,Safe Lane,3,9,4,7.7,106,360,381,14.5,Magic Stick,2.0,Boots of Speed,4.0,Veil of Discord,8.0,Wind Lace,9.0,Blink Dagger,19.0,Hood of Defiance,24.0
+20,Evil Geniuses,0,EG.Cr1t-,Pangolier,Off Lane,2,5,5,6.6,54,291,364,8.5,Bottle,6.0,Javelin,12.0,Magic Wand,15.0,Arcane Boots,19.0,Mekansm,25.0,,
+21,Evil Geniuses,1,EG.Arteezy,Bloodseeker,Off Lane,18,5,18,23.1,322,703,762,37.6,Quelling Blade,1.0,Power Treads,6.0,Radiance,19.0,Manta Style,24.0,Butterfly,31.0,Satanic,35.0
+21,Evil Geniuses,1,EG.Suma1L,Bristleback,Mid Lane,6,4,21,20.1,329,620,747,36.1,Bottle,3.0,Guardian Greaves,15.0,Pipe of Insight,22.0,Shiva's Guard,29.0,Aghanim's Scepter,34.0,,
+21,Evil Geniuses,1,EG.Fly,Abaddon,Off Lane,3,10,37,7.1,41,295,572,12.9,Magic Wand,2.0,Quelling Blade,13.0,Tranquil Boots,15.0,Vladmir's Offering,24.0,Platemail,31.0,,
+21,Evil Geniuses,1,EG.s4,Sand King,Safe Lane,11,3,23,15.7,192,497,707,40.6,Quelling Blade,0.0,Blink Dagger,9.0,Magic Wand,10.0,Veil of Discord,19.0,Eul's Scepter of Divinity,24.0,Boots of Travel,28.0
+21,Evil Geniuses,1,EG.Cr1t-,Shadow Shaman,Off Lane,8,10,24,9.7,83,366,566,16.6,Wind Lace,3.0,Arcane Boots,7.0,Magic Wand,10.0,Blink Dagger,17.0,Black King Bar,33.0,,
+22,Evil Geniuses,1,EG.Arteezy,Queen of Pain,Off Lane,10,5,18,22.7,232,516,627,49.8,Bottle,7.0,Power Treads,14.0,Eul's Scepter of Divinity,20.0,Scythe of Vyse,29.0,Assault Cuirass,36.0,,
+22,Evil Geniuses,1,EG.Suma1L,Alchemist,Jungle,11,6,22,25.8,474,988,646,67.0,Radiance,14.0,Blink Dagger,16.0,Manta Style,21.0,Shiva's Guard,25.0,Octarine Core,28.0,Aegis of the Immortal,42.0
+22,Evil Geniuses,1,EG.Fly,Warlock,Mid Lane,6,8,24,12.1,62,329,627,22.5,Observer Ward,2.0,Magic Wand,7.0,Force Staff,30.0,Arcane Boots,37.0,Buckler,37.0,Gem of True Sight,44.0
+22,Evil Geniuses,1,EG.s4,Omniknight,Safe Lane,2,7,21,19.2,144,420,542,11.9,Soul Ring,4.0,Magic Wand,6.0,Vladmir's Offering,12.0,Pipe of Insight,22.0,Eul's Scepter of Divinity,30.0,Boots of Travel,43.0
+22,Evil Geniuses,1,EG.Cr1t-,Nyx Assassin,Off Lane,6,6,20,18.2,47,373,555,20.0,Magic Wand,13.0,Meteor Hammer,19.0,Tranquil Boots,19.0,Dust of Appearance,25.0,Blink Dagger,29.0,Lotus Orb,36.0
+23,Evil Geniuses,1,EG.Arteezy,Luna,Off Lane,8,4,19,20.4,267,598,606,30.3,Magic Wand,3.0,Wraith Band,3.0,Power Treads,6.0,Manta Style,20.0,Hurricane Pike,26.0,Butterfly,32.0
+23,Evil Geniuses,1,EG.Suma1L,Leshrac,Mid Lane,15,4,6,21.6,306,672,677,31.0,Bottle,3.0,Eul's Scepter of Divinity,10.0,Boots of Travel,18.0,Yasha and Kaya,20.0,Octarine Core,30.0,Blink Dagger,32.0
+23,Evil Geniuses,1,EG.Fly,Sven,Off Lane,2,8,15,6.3,52,294,354,7.4,Observer and Sentry Wards,6.0,Magic Wand,9.0,Bracer,10.0,Bracer,14.0,Arcane Boots,23.0,Blink Dagger,27.0
+23,Evil Geniuses,1,EG.s4,Abaddon,Safe Lane,4,1,16,13.1,118,386,643,13.9,Quelling Blade,1.0,Phase Boots,6.0,Magic Wand,11.0,Vladmir's Offering,11.0,Solar Crest,23.0,Aghanim's Scepter,33.0
+23,Evil Geniuses,1,EG.Cr1t-,Io,Off Lane,3,4,27,10.2,53,321,595,17.3,Bottle,5.0,Urn of Shadows,9.0,Magic Wand,12.0,Guardian Greaves,29.0,,,,
+24,Evil Geniuses,1,EG.Arteezy,Lifestealer,Off Lane,7,5,18,25.2,381,651,682,26.2,Hand of Midas,11.0,Phase Boots,14.0,Radiance,21.0,Armlet of Mordiggian,25.0,Heaven's Halberd,31.0,Assault Cuirass,36.0
+24,Evil Geniuses,1,EG.Suma1L,Outworld Devourer,Mid Lane,15,7,13,22.0,333,542,646,46.4,Power Treads,5.0,Blink Dagger,19.0,Hurricane Pike,25.0,Scythe of Vyse,35.0,Moon Shard,43.0,,
+24,Evil Geniuses,1,EG.Fly,Shadow Demon,Off Lane,1,11,20,4.1,34,224,407,10.7,Smoke of Deceit,7.0,Observer and Sentry Wards,8.0,Clarity,8.0,Arcane Boots,17.0,Magic Wand,26.0,Ring of Regen,27.0
+24,Evil Geniuses,1,EG.s4,Doom,Safe Lane,10,4,26,20.4,175,513,603,36.5,Phase Boots,5.0,Drum of Endurance,7.0,Blink Dagger,11.0,Black King Bar,20.0,Shiva's Guard,32.0,,
+24,Evil Geniuses,1,EG.Cr1t-,Earthshaker,Off Lane,5,5,25,10.4,89,295,637,17.4,Tranquil Boots,8.0,Magic Wand,13.0,Soul Ring,13.0,Force Staff,22.0,Blink Dagger,30.0,,
+25,Evil Geniuses,1,EG.Arteezy,Lifestealer,Off Lane,10,1,3,17.5,211,657,650,17.9,Phase Boots,5.0,Hand of Midas,9.0,Radiance,17.0,Armlet of Mordiggian,21.0,Aegis of the Immortal,23.0,Assault Cuirass,26.0
+25,Evil Geniuses,1,EG.Suma1L,Leshrac,Mid Lane,5,5,5,12.2,194,503,540,13.4,Null Talisman,2.0,Magic Wand,5.0,Eul's Scepter of Divinity,13.0,Spirit Vessel,18.0,Boots of Travel,23.0,Kaya,25.0
+25,Evil Geniuses,1,EG.Fly,Chen,Off Lane,-,0,15,6.1,83,283,462,4.1,Boots of Speed,5.0,Smoke of Deceit,6.0,Magic Wand,14.0,Solar Crest,23.0,,,,
+25,Evil Geniuses,1,EG.s4,Brewmaster,Safe Lane,3,4,13,8.3,74,336,433,12.1,Quelling Blade,1.0,Bracer,4.0,Phase Boots,7.0,Magic Wand,11.0,Vladmir's Offering,15.0,Blink Dagger,23.0
+25,Evil Geniuses,1,EG.Cr1t-,Pangolier,Roaming,2,4,18,7.9,66,326,456,15.2,Javelin,8.0,Magic Wand,11.0,Guardian Greaves,26.0,,,,,,
+26,Evil Geniuses,1,EG.Arteezy,Phantom Assassin,Off Lane,13,2,3,26.9,380,760,831,26.1,Power Treads,8.0,Battle Fury,17.0,Desolator,21.0,Black King Bar,27.0,Satanic,30.0,Abyssal Blade,35.0
+26,Evil Geniuses,1,EG.Suma1L,Death Prophet,Mid Lane,7,4,13,16.9,260,545,688,19.4,Phase Boots,8.0,Aghanim's Scepter,18.0,Ghost Scepter,21.0,Eul's Scepter of Divinity,28.0,Blink Dagger,31.0,,
+26,Evil Geniuses,1,EG.Fly,Warlock,Safe Lane,5,4,20,9.7,94,370,609,19.2,Boots of Speed,3.0,Wind Lace,8.0,Magic Wand,8.0,Sentry Ward,9.0,Hand of Midas,17.0,Aghanim's Scepter,32.0
+26,Evil Geniuses,1,EG.Cr1t-,Pangolier,Off Lane,4,5,24,8.9,60,303,475,15.0,Stout Shield,0.0,Bottle,6.0,Magic Stick,10.0,Dust of Appearance,14.0,Smoke of Deceit,18.0,Guardian Greaves,30.0
+26,Evil Geniuses,1,EG.s4,Pudge,Safe Lane,3,8,15,10.4,94,326,521,8.8,Wind Lace,7.0,Urn of Shadows,10.0,Magic Stick,15.0,Vanguard,24.0,Pipe of Insight,28.0,Boots of Travel,36.0
+27,Evil Geniuses,1,EG.Arteezy,Sven,Off Lane,8,1,11,25.9,385,785,755,23.8,Power Treads,6.0,Black King Bar,20.0,Blink Dagger,22.0,Assault Cuirass,29.0,Butterfly,32.0,Daedalus,35.0
+27,Evil Geniuses,1,EG.Suma1L,Leshrac,Mid Lane,12,5,9,20.8,328,653,615,26.1,Eul's Scepter of Divinity,11.0,Blink Dagger,23.0,Yasha and Kaya,26.0,Boots of Travel,30.0,Black King Bar,32.0,Platemail,34.0
+27,Evil Geniuses,1,EG.Fly,Chen,Jungle,5,3,17,8.4,66,324,510,5.7,Sentry Ward,0.0,Smoke of Deceit,8.0,Magic Wand,8.0,Guardian Greaves,32.0,Clarity,34.0,,
+27,Evil Geniuses,1,EG.s4,Omniknight,Safe Lane,1,3,19,14.7,118,430,525,8.9,Phase Boots,7.0,Soul Ring,9.0,Magic Wand,12.0,Vladmir's Offering,17.0,Solar Crest,26.0,Aghanim's Scepter,32.0
+27,Evil Geniuses,1,EG.Cr1t-,Earth Spirit,Roaming,4,5,20,10.6,35,320,477,16.6,Boots of Speed,2.0,Dust of Appearance,12.0,Magic Wand,15.0,Spirit Vessel,22.0,Black King Bar,31.0,,
+28,Evil Geniuses,1,EG.Arteezy,Drow Ranger,Off Lane,3,1,18,22.0,327,597,681,13.7,Power Treads,4.0,Manta Style,24.0,Black King Bar,30.0,Hurricane Pike,34.0,Aegis of the Immortal,39.0,Silver Edge,40.0
+28,Evil Geniuses,1,EG.Suma1L,Shadow Fiend,Mid Lane,13,1,11,26.9,401,682,762,34.8,Eul's Scepter of Divinity,11.0,Blink Dagger,16.0,Black King Bar,21.0,Ethereal Blade,29.0,Scythe of Vyse,33.0,,
+28,Evil Geniuses,1,EG.Fly,Visage,Off Lane,4,6,15,10.7,121,389,543,11.2,Smoke of Deceit,5.0,Observer and Sentry Wards,5.0,Magic Wand,8.0,Tranquil Boots,22.0,Pipe of Insight,32.0,Solar Crest,34.0
+28,Evil Geniuses,1,EG.s4,Puck,Safe Lane,6,7,13,15.9,197,452,582,15.5,Boots of Speed,3.0,Veil of Discord,9.0,Blink Dagger,13.0,Magic Wand,15.0,Eul's Scepter of Divinity,26.0,Linken's Sphere,38.0
+28,Evil Geniuses,1,EG.Cr1t-,Pangolier,Roaming,6,7,17,14.6,128,419,563,13.2,Javelin,12.0,Magic Wand,17.0,Guardian Greaves,29.0,Crimson Guard,32.0,,,,
+29,Evil Geniuses,0,EG.Arteezy,Anti-Mage,Safe Lane,5,3,6,18.8,368,628,778,19.5,Wraith Band,7.0,Battle Fury,16.0,Power Treads,18.0,Manta Style,22.0,Abyssal Blade,29.0,,
+29,Evil Geniuses,0,EG.Suma1L,Storm Spirit,Mid Lane,6,3,9,14.3,302,553,642,33.0,Bottle,5.0,Magic Wand,9.0,Power Treads,11.0,Kaya,16.0,Bloodstone,25.0,Orchid Malevolence,29.0
+29,Evil Geniuses,0,EG.BuLba,Bane,Safe Lane,-,7,13,2.4,25,204,247,6.6,Sentry Ward,0.0,Wind Lace,12.0,Tranquil Boots,14.0,Magic Wand,17.0,,,,
+29,Evil Geniuses,0,EG.s4,Mars,Off Lane,1,7,12,9.1,144,339,361,12.6,Soul Ring,5.0,Phase Boots,8.0,Magic Wand,13.0,Vladmir's Offering,16.0,Blink Dagger,20.0,Ogre Axe,28.0
+29,Evil Geniuses,0,EG.Cr1t-,Pangolier,Off Lane,6,4,12,9.3,120,385,537,21.4,Dust of Appearance,10.0,Javelin,13.0,Magic Wand,15.0,Guardian Greaves,25.0,Pipe of Insight,33.0,,
+30,Evil Geniuses,0,EG.Arteezy,Sven,Safe Lane,4,6,8,24.4,426,629,727,32.5,Power Treads,3.0,Echo Sabre,12.0,Black King Bar,18.0,Blink Dagger,20.0,Daedalus,30.0,Assault Cuirass,38.0
+30,Evil Geniuses,0,EG.Suma1L,Windranger,Mid Lane,8,8,7,16.2,303,493,507,29.6,Maelstrom,12.0,Blink Dagger,17.0,Monkey King Bar,23.0,Crystalys,27.0,Boots of Travel,34.0,,
+30,Evil Geniuses,0,EG.BuLba,Abaddon,Safe Lane,2,7,10,3.8,23,202,361,6.7,Observer and Sentry Wards,0.0,Tranquil Boots,15.0,Magic Wand,20.0,Vladmir's Offering,41.0,,,,
+30,Evil Geniuses,0,EG.s4,Puck,Off Lane,6,2,9,15.6,212,419,479,23.9,Veil of Discord,6.0,Power Treads,12.0,Blink Dagger,15.0,Magic Wand,20.0,Eul's Scepter of Divinity,24.0,Dagon (level 4),42.0
+30,Evil Geniuses,0,EG.Cr1t-,Sand King,Off Lane,3,8,13,11.1,148,323,524,22.2,Tranquil Boots,8.0,Blink Dagger,16.0,Magic Wand,18.0,Force Staff,22.0,Solar Crest,33.0,,
+31,Evil Geniuses,1,EG.Arteezy,Lifestealer,Safe Lane,11,1,13,21.9,302,699,719,23.3,Phase Boots,5.0,Hand of Midas,9.0,Radiance,18.0,Armlet of Mordiggian,21.0,Assault Cuirass,28.0,Skull Basher,32.0
+31,Evil Geniuses,1,EG.Suma1L,Queen of Pain,Mid Lane,6,3,16,15.7,245,530,633,29.4,Bottle,4.0,Magic Wand,5.0,Power Treads,11.0,Eul's Scepter of Divinity,17.0,Scythe of Vyse,27.0,Hyperstone,30.0
+31,Evil Geniuses,1,EG.Fly,Silencer,Safe Lane,5,6,22,4.7,30,293,427,15.7,Observer Ward,0.0,Smoke of Deceit,1.0,Magic Wand,13.0,Tranquil Boots,14.0,Wind Lace,15.0,Force Staff,33.0
+31,Evil Geniuses,1,EG.s4,Dark Seer,Off Lane,2,6,21,10.7,154,370,436,11.1,Magic Stick,1.0,Soul Ring,5.0,Pipe of Insight,25.0,Guardian Greaves,33.0,,,,
+31,Evil Geniuses,1,EG.Cr1t-,Sven,Mid Lane,4,4,19,7.6,34,291,496,10.4,Wind Lace,7.0,Tranquil Boots,13.0,Magic Wand,15.0,Urn of Shadows,19.0,Blink Dagger,25.0,Force Staff,33.0
+32,Evil Geniuses,1,EG.Arteezy,Spectre,Safe Lane,6,4,18,23.1,365,599,681,22.7,Phase Boots,13.0,Radiance,21.0,Manta Style,28.0,Black King Bar,32.0,Butterfly,39.0,,
+32,Evil Geniuses,1,EG.Suma1L,Leshrac,Mid Lane,16,6,12,23.1,385,700,730,36.3,Eul's Scepter of Divinity,14.0,Boots of Travel,18.0,Yasha and Kaya,25.0,Blink Dagger,27.0,Octarine Core,34.0,Shiva's Guard,39.0
+32,Evil Geniuses,1,EG.Fly,Grimstroke,Safe Lane,6,4,18,12.3,106,449,506,13.7,Observer and Sentry Wards,3.0,Arcane Boots,11.0,Magic Wand,13.0,Aether Lens,19.0,Force Staff,31.0,Gem of True Sight,32.0
+32,Evil Geniuses,1,EG.s4,Tidehunter,Off Lane,3,9,20,13.6,147,385,565,10.6,Magic Stick,5.0,Phase Boots,9.0,Vladmir's Offering,15.0,Blink Dagger,20.0,Black King Bar,34.0,,
+32,Evil Geniuses,1,EG.Cr1t-,Enigma,Roaming,2,3,19,17.2,220,486,545,11.1,Helm of the Dominator,8.0,Guardian Greaves,20.0,Magic Stick,25.0,Solar Crest,31.0,Force Staff,33.0,Gem of True Sight,40.0
+33,Evil Geniuses,1,EG.Arteezy,Sven,Safe Lane,6,1,8,22.5,349,759,818,14.2,Power Treads,5.0,Hand of Midas,11.0,Echo Sabre,15.0,Blink Dagger,17.0,Black King Bar,21.0,Assault Cuirass,27.0
+33,Evil Geniuses,1,EG.Suma1L,Queen of Pain,Mid Lane,16,1,4,17.6,235,648,699,26.1,Null Talisman,1.0,Bottle,5.0,Power Treads,8.0,Linken's Sphere,17.0,Mjollnir,25.0,Force Staff,29.0
+33,Evil Geniuses,1,EG.Fly,Shadow Demon,Safe Lane,2,1,11,3.8,33,270,285,5.0,Wind Lace,5.0,Tranquil Boots,17.0,Dust of Appearance,21.0,Magic Wand,23.0,,,,
+33,Evil Geniuses,1,EG.s4,Dark Seer,Off Lane,1,3,17,12.2,178,448,433,8.5,Quelling Blade,1.0,Soul Ring,4.0,Magic Wand,10.0,Guardian Greaves,20.0,Pipe of Insight,27.0,,
+33,Evil Geniuses,1,EG.Cr1t-,Nyx Assassin,Off Lane,1,4,15,6.7,22,294,398,8.5,Clarity,7.0,Urn of Shadows,15.0,Tranquil Boots,15.0,Magic Wand,19.0,Eul's Scepter of Divinity,27.0,,
+34,Evil Geniuses,0,EG.Arteezy,Anti-Mage,Safe Lane,8,2,2,23.5,464,741,855,11.7,Wraith Band,5.0,Power Treads,9.0,Battle Fury,16.0,Manta Style,20.0,Eye of Skadi,24.0,Butterfly,32.0
+34,Evil Geniuses,0,EG.Suma1L,Monkey King,Mid Lane,5,4,13,14.5,237,490,561,15.2,Phase Boots,9.0,Magic Wand,10.0,Echo Sabre,15.0,Black King Bar,24.0,Maelstrom,28.0,Hyperstone,32.0
+34,Evil Geniuses,0,EG.Fly,Silencer,Safe Lane,2,9,12,2.8,37,241,286,9.9,Observer and Sentry Wards,0.0,Magic Stick,6.0,Dust of Appearance,12.0,Tranquil Boots,28.0,Ring of Regen,28.0,Healing Salve,32.0
+34,Evil Geniuses,0,EG.s4,Doom,Off Lane,11,8,10,10.1,132,397,368,18.8,Phase Boots,5.0,Magic Wand,7.0,Drum of Endurance,11.0,Blink Dagger,14.0,Black King Bar,26.0,,
+34,Evil Geniuses,0,EG.Cr1t-,Rubick,Off Lane,4,9,13,6.8,92,288,384,18.7,Aether Lens,12.0,Wind Lace,12.0,Tranquil Boots,16.0,Magic Wand,19.0,Ghost Scepter,24.0,,
+35,Evil Geniuses,1,EG.Arteezy,Arc Warden,Mid Lane,12,2,6,21.3,287,831,742,29.9,Wraith Band,1.0,Hand of Midas,8.0,Mjollnir,17.0,Boots of Travel,19.0,Hurricane Pike,23.0,Scythe of Vyse,27.0
+35,Evil Geniuses,1,EG.Suma1L,Spectre,Safe Lane,2,3,12,14.1,285,566,713,17.3,Magic Wand,2.0,Soul Ring,7.0,Power Treads,10.0,Radiance,19.0,Blade Mail,23.0,Yasha,26.0
+35,Evil Geniuses,1,EG.Fly,Silencer,Safe Lane,1,6,11,3.5,40,250,264,7.4,Observer and Sentry Wards,5.0,Smoke of Deceit,5.0,Magic Wand,6.0,Ring of Regen,11.0,Tranquil Boots,13.0,,
+35,Evil Geniuses,1,EG.s4,Legion Commander,Off Lane,3,2,7,8.4,77,321,502,8.1,Quelling Blade,2.0,Magic Stick,4.0,Bracer,6.0,Phase Boots,8.0,Blink Dagger,17.0,Blade Mail,24.0
+35,Evil Geniuses,1,EG.Cr1t-,Doom,Mid Lane,2,4,11,7.7,42,308,341,7.5,Phase Boots,6.0,Magic Wand,13.0,Blink Dagger,20.0,Spirit Vessel,27.0,,,,
+36,Evil Geniuses,1,EG.Arteezy,Sven,Mid Lane,6,0,9,17.5,329,709,757,14.3,Power Treads,8.0,Hand of Midas,12.0,Echo Sabre,15.0,Blink Dagger,18.0,Black King Bar,23.0,Hyperstone,24.0
+36,Evil Geniuses,1,EG.Suma1L,Storm Spirit,Off Lane,9,0,12,15.6,309,612,743,22.1,Power Treads,3.0,Magic Wand,6.0,Kaya,11.0,Orchid Malevolence,16.0,Bloodstone,23.0,Aegis of the Immortal,27.0
+36,Evil Geniuses,1,EG.Fly,Lion,Mid Lane,4,5,9,4.4,34,278,390,6.8,Observer and Sentry Wards,7.0,Magic Wand,15.0,Tranquil Boots,16.0,Aether Lens,26.0,,,,
+36,Evil Geniuses,1,EG.s4,Doom,Safe Lane,7,1,14,12.4,147,487,546,13.7,Quelling Blade,0.0,Magic Stick,3.0,Phase Boots,6.0,Drum of Endurance,10.0,Blink Dagger,15.0,Black King Bar,26.0
+36,Evil Geniuses,1,EG.Cr1t-,Nyx Assassin,Off Lane,5,3,21,7.1,28,314,415,8.3,Boots of Speed,1.0,Dust of Appearance,3.0,Magic Wand,12.0,Spirit Vessel,18.0,Force Staff,26.0,,
+37,Evil Geniuses,1,EG.Arteezy,Naga Siren,Safe Lane,7,1,5,18.1,307,690,596,13.4,Wraith Band,1.0,Wraith Band,4.0,Power Treads,8.0,Manta Style,16.0,Diffusal Blade,19.0,Butterfly,25.0
+37,Evil Geniuses,1,EG.Suma1L,Outworld Devourer,Mid Lane,8,4,7,12.4,183,527,588,15.6,Magic Wand,5.0,Bracer,10.0,Hand of Midas,15.0,Blink Dagger,18.0,Boots of Travel,20.0,Kaya,25.0
+37,Evil Geniuses,1,EG.Fly,Oracle,Safe Lane,4,3,20,4.6,21,257,386,7.2,Boots of Speed,5.0,Observer and Sentry Wards,9.0,Magic Wand,10.0,Aether Lens,20.0,Cloak,25.0,,
+37,Evil Geniuses,1,EG.s4,Puck,Off Lane,6,3,16,10.6,121,421,423,17.9,Veil of Discord,7.0,Blink Dagger,12.0,Magic Wand,14.0,Guardian Greaves,25.0,,,,
+37,Evil Geniuses,1,EG.Cr1t-,Earthshaker,Off Lane,4,2,18,7.1,49,297,457,13.8,Magic Stick,0.0,Arcane Boots,7.0,Blink Dagger,16.0,Point Booster,24.0,Ogre Axe,25.0,,
+38,Evil Geniuses,1,EG.Arteezy,Drow Ranger,Mid Lane,8,1,13,14.6,164,679,670,13.1,Wraith Band,1.0,Wraith Band,3.0,Wraith Band,4.0,Power Treads,8.0,Hurricane Pike,16.0,Ethereal Blade,20.0
+38,Evil Geniuses,1,EG.Suma1L,Morphling,Safe Lane,8,1,4,13.4,141,622,508,11.6,Wraith Band,3.0,Magic Wand,6.0,Power Treads,9.0,Manta Style,17.0,Ultimate Orb,20.0,Bottle,20.0
+38,Evil Geniuses,1,EG.Fly,Disruptor,Mid Lane,3,5,13,4.9,13,330,312,4.7,Observer and Sentry Wards,1.0,Magic Wand,10.0,Dust of Appearance,13.0,Tranquil Boots,13.0,Cloak,17.0,,
+38,Evil Geniuses,1,EG.s4,Nature's Prophet,Off Lane,5,1,15,12.8,158,638,500,14.9,Power Treads,4.0,Magic Wand,6.0,Vladmir's Offering,9.0,Maelstrom,18.0,Solar Crest,20.0,,
+38,Evil Geniuses,1,EG.Cr1t-,Clockwerk,Safe Lane,2,4,16,6.4,26,316,405,8.8,Tranquil Boots,8.0,Magic Stick,11.0,Dust of Appearance,15.0,Spirit Vessel,19.0,,,,
+39,Evil Geniuses,1,EG.Arteezy,Sven,Off Lane,2,1,11,9.5,174,635,596,5.1,Quelling Blade,0.0,Power Treads,4.0,Hand of Midas,9.0,Echo Sabre,13.0,,,,
+39,Evil Geniuses,1,EG.Suma1L,Templar Assassin,Mid Lane,9,1,5,9.3,120,660,617,15.9,Iron Branch,0.0,Wraith Band,2.0,Power Treads,7.0,Desolator,12.0,Dragon Lance,13.0,,
+39,Evil Geniuses,1,EG.Fly,Oracle,Jungle,8,3,8,3.6,5,304,241,8.2,Smoke of Deceit,3.0,Observer and Sentry Wards,5.0,Arcane Boots,8.0,Magic Wand,10.0,,,,
+39,Evil Geniuses,1,EG.s4,Puck,Safe Lane,6,2,5,6.3,62,462,505,9.9,Bottle,2.0,Arcane Boots,7.0,Blink Dagger,11.0,Magic Wand,13.0,Ring of Regen,13.0,,
+39,Evil Geniuses,1,EG.Cr1t-,Sand King,Jungle,4,1,14,4.6,23,305,334,6.0,Smoke of Deceit,1.0,Tranquil Boots,4.0,Blink Dagger,12.0,Magic Stick,12.0,,,,
+40,Evil Geniuses,1,EG.Arteezy,Naga Siren,Off Lane,2,1,2,5.7,105,576,519,2.9,Quelling Blade,0.0,Wraith Band,3.0,Wraith Band,4.0,Wraith Band,4.0,Power Treads,7.0,Yasha,9.0
+40,Evil Geniuses,1,EG.Suma1L,Monkey King,Mid Lane,7,0,4,5.9,56,559,469,10.3,Quelling Blade,1.0,Wraith Band,2.0,Magic Stick,3.0,Phase Boots,5.0,,,,
+40,Evil Geniuses,1,EG.Fly,Doom,Jungle,1,2,7,2.7,18,276,201,4.6,Observer Ward,0.0,Smoke of Deceit,4.0,Phase Boots,7.0,Magic Wand,10.0,,,,
+40,Evil Geniuses,1,EG.s4,Tidehunter,Safe Lane,4,0,3,4.3,53,456,422,8.6,Quelling Blade,0.0,Boots of Speed,2.0,Magic Wand,8.0,Vladmir's Offering,8.0,,,,
+40,Evil Geniuses,1,EG.Cr1t-,Shadow Shaman,Off Lane,3,3,8,2.6,6,253,178,6.9,Magic Stick,0.0,Wind Lace,2.0,Arcane Boots,7.0,,,,,,
+41,Evil Geniuses,1,EG.Arteezy,Sven,Safe Lane,4,2,9,14.7,244,699,712,12.8,Quelling Blade,1.0,Power Treads,5.0,Hand of Midas,9.0,Echo Sabre,13.0,Blink Dagger,16.0,Black King Bar,21.0
+41,Evil Geniuses,1,EG.Suma1L,Templar Assassin,Mid Lane,13,1,3,14.6,194,729,592,27.5,Wraith Band,0.0,Wraith Band,3.0,Power Treads,6.0,Desolator,16.0,Hurricane Pike,19.0,,
+41,Evil Geniuses,1,EG.Fly,Bane,Safe Lane,4,3,13,4.9,16,341,322,7.8,Magic Wand,8.0,Observer and Sentry Wards,9.0,Quelling Blade,13.0,Arcane Boots,16.0,Cloak,17.0,,
+41,Evil Geniuses,1,EG.s4,Dark Seer,Off Lane,3,1,13,9.7,130,490,545,11.3,Soul Ring,2.0,Vanguard,7.0,Arcane Boots,11.0,Magic Stick,11.0,Mekansm,17.0,Cloak,18.0
+41,Evil Geniuses,1,EG.Cr1t-,Earth Spirit,Roaming,3,3,16,6.1,28,337,370,11.7,Orb of Venom,0.0,Boots of Speed,3.0,Magic Stick,6.0,Spirit Vessel,18.0,,,,
+42,Evil Geniuses,0,EG.Arteezy,Ursa,Safe Lane,11,8,14,22.2,304,523,666,35.0,Phase Boots,8.0,Drum of Endurance,10.0,Black King Bar,24.0,Blink Dagger,30.0,Abyssal Blade,41.0,,
+42,Evil Geniuses,0,EG.Suma1L,Alchemist,Jungle,13,8,21,29.5,652,1.1k,777,48.1,Radiance,14.0,Blink Dagger,16.0,Manta Style,19.0,Shiva's Guard,23.0,Octarine Core,27.0,Boots of Travel,42.0
+42,Evil Geniuses,0,EG.Fly,Silencer,Safe Lane,7,6,22,9.7,91,378,625,21.6,Observer and Sentry Wards,9.0,Tranquil Boots,17.0,Force Staff,25.0,Ghost Scepter,35.0,Lotus Orb,46.0,,
+42,Evil Geniuses,0,EG.s4,Doom,Off Lane,2,10,23,13.8,177,404,513,20.4,Magic Wand,8.0,Clarity,9.0,Crimson Guard,26.0,Blink Dagger,32.0,Boots of Travel,44.0,Black King Bar,46.0
+42,Evil Geniuses,0,EG.Cr1t-,Earth Spirit,Mid Lane,5,10,24,15.6,99,361,634,26.1,Wind Lace,12.0,Magic Wand,15.0,Tranquil Boots,15.0,Spirit Vessel,25.0,Ethereal Blade,40.0,,
+43,Evil Geniuses,1,EG.Arteezy,Sven,Safe Lane,15,2,14,29.5,441,829,780,35.4,Power Treads,11.0,Black King Bar,19.0,Blink Dagger,21.0,Daedalus,29.0,Butterfly,33.0,Assault Cuirass,38.0
+43,Evil Geniuses,1,EG.Suma1L,Storm Spirit,Mid Lane,14,5,18,22.7,349,630,701,30.8,Kaya,13.0,Eul's Scepter of Divinity,18.0,Orchid Malevolence,26.0,Aghanim's Scepter,33.0,Boots of Travel,36.0,Bloodstone,39.0
+43,Evil Geniuses,1,EG.Fly,Silencer,Safe Lane,4,4,27,8.8,49,332,521,9.5,Observer and Sentry Wards,0.0,Tranquil Boots,18.0,Magic Wand,19.0,Glimmer Cape,31.0,Force Staff,38.0,,
+43,Evil Geniuses,1,EG.s4,Puck,Off Lane,3,4,16,18.4,230,477,584,19.8,Magic Wand,7.0,Veil of Discord,11.0,Blink Dagger,17.0,Power Treads,20.0,Aghanim's Scepter,30.0,Eul's Scepter of Divinity,35.0
+43,Evil Geniuses,1,EG.Cr1t-,Pangolier,Off Lane,2,5,30,13.2,117,368,595,16.0,Magic Stick,2.0,Javelin,10.0,Guardian Greaves,30.0,Lotus Orb,38.0,,,,
+44,Evil Geniuses,1,EG.Arteezy,Troll Warlord,Off Lane,4,1,8,15.6,253,672,575,9.8,Wraith Band,3.0,Power Treads,5.0,Diffusal Blade,11.0,Sange and Yasha,18.0,Aegis of the Immortal,20.0,Satanic,23.0
+44,Evil Geniuses,1,EG.Suma1L,Outworld Devourer,Mid Lane,11,0,3,14.3,238,635,582,13.9,Magic Wand,3.0,Power Treads,8.0,Spirit Vessel,13.0,Blink Dagger,16.0,Moon Shard,20.0,Ultimate Orb,22.0
+44,Evil Geniuses,1,EG.Fly,Lion,Mid Lane,2,4,15,4.4,24,261,353,6.6,Observer Ward,4.0,Tranquil Boots,11.0,Wind Lace,13.0,Magic Wand,13.0,Aether Lens,22.0,,
+44,Evil Geniuses,1,EG.s4,Batrider,Safe Lane,9,1,14,10.1,113,436,458,12.9,Wind Lace,3.0,Bottle,4.0,Boots of Travel,8.0,Magic Wand,9.0,Drum of Endurance,13.0,Blink Dagger,18.0
+44,Evil Geniuses,1,EG.Cr1t-,Earthshaker,Safe Lane,2,2,18,7.2,65,329,412,10.0,Arcane Boots,5.0,Blink Dagger,11.0,Magic Stick,12.0,Force Staff,21.0,,,,
+45,Evil Geniuses,1,EG.Arteezy,Sven,Mid Lane,5,2,12,19.7,299,605,695,20.9,Power Treads,7.0,Echo Sabre,14.0,Black King Bar,20.0,Blink Dagger,23.0,Assault Cuirass,29.0,Crystalys,33.0
+45,Evil Geniuses,1,EG.Suma1L,Morphling,Safe Lane,16,2,8,19.7,257,627,794,30.3,Magic Wand,3.0,Power Treads,9.0,Ethereal Blade,20.0,Eye of Skadi,28.0,Black King Bar,34.0,Aegis of the Immortal,34.0
+45,Evil Geniuses,1,EG.Fly,Shadow Demon,Safe Lane,2,6,22,7.0,61,296,406,10.5,Observer and Sentry Wards,0.0,Smoke of Deceit,0.0,Tranquil Boots,11.0,Magic Wand,18.0,Aether Lens,28.0,Force Staff,33.0
+45,Evil Geniuses,1,EG.s4,Necrophos,Off Lane,8,6,15,15.4,173,478,496,19.4,Magic Wand,1.0,Null Talisman,9.0,Force Staff,16.0,Pipe of Insight,20.0,Guardian Greaves,30.0,Eul's Scepter of Divinity,34.0
+45,Evil Geniuses,1,EG.Cr1t-,Earthshaker,Roaming,2,7,18,9.2,68,330,377,12.6,Tranquil Boots,4.0,Soul Ring,9.0,Magic Stick,9.0,Force Staff,19.0,Blink Dagger,26.0,,
+46,Evil Geniuses,0,EG.Arteezy,Drow Ranger,Safe Lane,1,4,5,11.8,194,458,461,3.9,Wraith Band,2.0,Power Treads,6.0,Wraith Band,9.0,Dragon Lance,14.0,Yasha,18.0,Black King Bar,22.0
+46,Evil Geniuses,0,EG.Suma1L,Templar Assassin,Mid Lane,10,7,1,11.5,228,535,548,18.8,Wraith Band,1.0,Clarity,5.0,Magic Wand,5.0,Power Treads,8.0,Desolator,17.0,Hurricane Pike,21.0
+46,Evil Geniuses,0,EG.Fly,Bane,Safe Lane,3,9,7,1.2,21,218,195,4.1,Magic Stick,0.0,Observer and Sentry Wards,2.0,Boots of Speed,10.0,Wind Lace,15.0,,,,
+46,Evil Geniuses,0,EG.s4,Centaur Warrunner,Off Lane,-,8,6,5.5,82,265,326,6.8,Quelling Blade,1.0,Phase Boots,8.0,Magic Stick,9.0,Blink Dagger,16.0,Cloak,21.0,,
+46,Evil Geniuses,0,EG.Cr1t-,Earth Spirit,Safe Lane,1,7,10,4.1,29,205,253,9.3,Boots of Speed,3.0,Clarity,3.0,Magic Wand,14.0,Spirit Vessel,21.0,,,,
+47,Evil Geniuses,0,EG.Arteezy,Phantom Assassin,Safe Lane,6,5,4,11.8,214,450,390,13.1,Wraith Band,2.0,Magic Wand,7.0,Power Treads,9.0,Vladmir's Offering,16.0,Black King Bar,24.0,Demon Edge,28.0
+47,Evil Geniuses,0,EG.Suma1L,Razor,Mid Lane,3,3,4,9.2,195,354,304,15.2,Wraith Band,2.0,Wraith Band,5.0,Magic Wand,7.0,Power Treads,11.0,Drum of Endurance,13.0,Black King Bar,22.0
+47,Evil Geniuses,0,EG.Fly,Oracle,Safe Lane,-,5,12,1.8,17,150,174,4.4,Tango,3.0,Boots of Speed,4.0,Observer and Sentry Wards,10.0,Magic Wand,25.0,,,,
+47,Evil Geniuses,0,EG.s4,Dark Seer,Jungle,1,4,6,9.8,197,354,350,14.6,Soul Ring,2.0,Vanguard,6.0,Quelling Blade,7.0,Magic Wand,12.0,Guardian Greaves,23.0,,
+47,Evil Geniuses,0,EG.Cr1t-,Magnus,Safe Lane,1,4,7,3.8,37,157,251,2.8,Blink Dagger,18.0,Magic Wand,23.0,,,,,,,,
+48,Evil Geniuses,0,EG.Arteezy,Lifestealer,Safe Lane,7,5,16,22.3,375,632,671,26.0,Phase Boots,5.0,Radiance,19.0,Armlet of Mordiggian,22.0,Assault Cuirass,30.0,Monkey King Bar,35.0,Mithril Hammer,43.0
+48,Evil Geniuses,0,EG.Suma1L,Windranger,Mid Lane,10,3,11,19.6,297,487,548,25.1,Boots of Speed,7.0,Maelstrom,15.0,Monkey King Bar,21.0,Blink Dagger,26.0,Black King Bar,33.0,Aghanim's Scepter,38.0
+48,Evil Geniuses,0,EG.Fly,Shadow Demon,Safe Lane,3,13,13,5.4,60,246,304,7.8,Magic Stick,0.0,Observer and Sentry Wards,5.0,Smoke of Deceit,7.0,Aether Lens,21.0,Tranquil Boots,30.0,,
+48,Evil Geniuses,0,EG.s4,Doom,Off Lane,4,3,16,20.5,207,526,580,25.7,Phase Boots,6.0,Drum of Endurance,11.0,Blink Dagger,16.0,Black King Bar,23.0,Shiva's Guard,37.0,Refresher Orb,43.0
+48,Evil Geniuses,0,EG.Cr1t-,Earth Spirit,Safe Lane,6,10,18,7.9,34,264,322,19.2,Magic Wand,13.0,Spirit Vessel,21.0,Dust of Appearance,30.0,Arcane Boots,32.0,Mekansm,36.0,,
+49,Evil Geniuses,1,EG.Arteezy,Sven,Off Lane,12,0,7,19.4,298,680,722,20.9,Power Treads,3.0,Echo Sabre,10.0,Black King Bar,15.0,Blink Dagger,18.0,Assault Cuirass,25.0,Aegis of the Immortal,26.0
+49,Evil Geniuses,1,EG.Suma1L,Windranger,Mid Lane,9,2,11,13.7,201,513,540,23.3,Null Talisman,1.0,Javelin,5.0,Magic Wand,8.0,Maelstrom,13.0,Black King Bar,21.0,Phase Boots,25.0
+49,Evil Geniuses,1,EG.Fly,Bane,Off Lane,2,4,18,3.3,25,255,358,7.6,Smoke of Deceit,4.0,Magic Wand,8.0,Wind Lace,9.0,Observer and Sentry Wards,10.0,Dust of Appearance,18.0,Arcane Boots,21.0
+49,Evil Geniuses,1,EG.s4,Tidehunter,Safe Lane,3,4,17,10.2,155,409,570,12.0,Quelling Blade,3.0,Phase Boots,9.0,Vladmir's Offering,16.0,Medallion of Courage,17.0,Magic Wand,20.0,Force Staff,23.0
+49,Evil Geniuses,1,EG.Cr1t-,Enigma,Jungle,3,1,15,11.0,168,400,465,8.4,Helm of the Dominator,7.0,Magic Stick,10.0,Guardian Greaves,23.0,,,,,,
+50,Evil Geniuses,0,EG.Arteezy,Arc Warden,Safe Lane,5,3,5,12.9,231,558,437,26.9,Wraith Band,3.0,Wraith Band,3.0,Hand of Midas,9.0,Mjollnir,20.0,Power Treads,22.0,Force Staff,26.0
+50,Evil Geniuses,0,EG.Suma1L,Ember Spirit,Mid Lane,1,7,11,7.0,149,334,398,26.8,Magic Wand,3.0,Bottle,5.0,Wraith Band,7.0,Power Treads,9.0,,,,
+50,Evil Geniuses,0,EG.Fly,Oracle,Safe Lane,4,7,12,3.3,34,259,256,8.6,Tango,2.0,Arcane Boots,10.0,Wind Lace,14.0,Magic Wand,14.0,Bracer,25.0,,
+50,Evil Geniuses,0,EG.s4,Puck,Off Lane,-,8,6,4.9,92,264,288,11.2,Null Talisman,6.0,Magic Wand,14.0,Power Treads,15.0,Blink Dagger,24.0,Infused Raindrops,26.0,,
+50,Evil Geniuses,0,EG.Cr1t-,Doom,Off Lane,4,9,8,5.7,50,247,249,14.2,Smoke of Deceit,0.0,Phase Boots,8.0,Clarity,12.0,Magic Wand,12.0,Dust of Appearance,23.0,Spirit Vessel,24.0
